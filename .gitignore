@@ -1,0 +1,31 @@
+﻿# Fichiers volumineux (vidéos, audio, caches lourds)
+sources/
+gameplay/*.mp4
+*.mp4
+*.part
+*.f399.*
+
+# Fichiers de sortie vidéo générés
+clips/**/*.mp4
+
+# Fichiers secrets / tokens d'authentification
+config/tiktok.json
+config/tiktok_token.json
+*.token.json
+*.env
+.env
+
+# Python caches et builds
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+.venv/
+venv/
+
+# Systèmes & IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.40,Clip,,0,0,0,,I HAVE YEAH,
+Dialogue: 0,0:00:00.40,0:00:01.20,Clip,,0,0,0,,BY THE WAY,
+Dialogue: 0,0:00:01.20,0:00:02.00,Clip,,0,0,0,,IF CHUCK SCHUMER
+Dialogue: 0,0:00:02.00,0:00:02.90,Clip,,0,0,0,,WAS CONFIDENT, HE
+Dialogue: 0,0:00:02.90,0:00:04.20,Clip,,0,0,0,,WOULDN'T BE ACCELERATING
+Dialogue: 0,0:00:04.20,0:00:05.20,Clip,,0,0,0,,THE TIMELINE. IT
+Dialogue: 0,0:00:05.20,0:00:06.30,Clip,,0,0,0,,DOES NOT MATTER
+Dialogue: 0,0:00:06.30,0:00:07.70,Clip,,0,0,0,,WHAT HE'S SAYING
+Dialogue: 0,0:00:07.70,0:00:08.30,Clip,,0,0,0,,ABOUT HOW HE
+Dialogue: 0,0:00:08.30,0:00:09.00,Clip,,0,0,0,,HAS THE VOTES.
+Dialogue: 0,0:00:09.00,0:00:09.80,Clip,,0,0,0,,IT DOESN'T MATTER.
+Dialogue: 0,0:00:09.80,0:00:10.20,Clip,,0,0,0,,AS A MATTER OF
+Dialogue: 0,0:00:10.20,0:00:10.80,Clip,,0,0,0,,FACT, THE THE
+Dialogue: 0,0:00:10.80,0:00:11.90,Clip,,0,0,0,,THE WHOLE POINT
+Dialogue: 0,0:00:11.90,0:00:12.90,Clip,,0,0,0,,OF HIM COMING
+Dialogue: 0,0:00:12.90,0:00:13.90,Clip,,0,0,0,,OUT AND CLAIMING
+Dialogue: 0,0:00:13.90,0:00:14.40,Clip,,0,0,0,,HE HAS THE
+Dialogue: 0,0:00:14.40,0:00:15.90,Clip,,0,0,0,,VOTES IS INDICATIVE
+Dialogue: 0,0:00:15.90,0:00:16.40,Clip,,0,0,0,,THAT HE DOES
+Dialogue: 0,0:00:16.40,0:00:17.10,Clip,,0,0,0,,NOT. HE IS
+Dialogue: 0,0:00:17.10,0:00:18.60,Clip,,0,0,0,,TRYING TO BASICALLY
+Dialogue: 0,0:00:18.60,0:00:20.20,Clip,,0,0,0,,CREATE AN ENVIRONMENT
+Dialogue: 0,0:00:20.20,0:00:21.30,Clip,,0,0,0,,LIKE HE'S CONFIDENT.
+Dialogue: 0,0:00:21.30,0:00:22.00,Clip,,0,0,0,,HE'S TRYING TO
+Dialogue: 0,0:00:22.00,0:00:22.80,Clip,,0,0,0,,FAKE IT. IF
+Dialogue: 0,0:00:22.80,0:00:23.80,Clip,,0,0,0,,HE WAS, HE
+Dialogue: 0,0:00:23.80,0:00:24.90,Clip,,0,0,0,,WOULDN'T BE TRYING
+Dialogue: 0,0:00:24.90,0:00:25.30,Clip,,0,0,0,,TO MAKE THE
+Dialogue: 0,0:00:25.30,0:00:26.10,Clip,,0,0,0,,VOTE HAPPEN AS
+Dialogue: 0,0:00:26.10,0:00:27.50,Clip,,0,0,0,,FAST AS POSSIBLE.
+Dialogue: 0,0:00:27.50,0:00:27.60,Clip,,0,0,0,,WHAT

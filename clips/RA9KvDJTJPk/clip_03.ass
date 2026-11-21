@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.46,Clip,,0,0,0,,PUTTING CUFFS. WHOA,
+Dialogue: 0,0:00:00.46,0:00:02.86,Clip,,0,0,0,,WHOA, WHOA. THOMAS
+Dialogue: 0,0:00:02.86,0:00:05.18,Clip,,0,0,0,,CAMINOS, ONE YEAR
+Dialogue: 0,0:00:05.18,0:00:08.38,Clip,,0,0,0,,OLD. SAYS HERE
+Dialogue: 0,0:00:08.38,0:00:09.10,Clip,,0,0,0,,YOU'RE HOPING FOR
+Dialogue: 0,0:00:09.10,0:00:11.02,Clip,,0,0,0,,CUSTODY, RIGHT? I
+Dialogue: 0,0:00:11.02,0:00:11.82,Clip,,0,0,0,,MEAN, YOU YOU
+Dialogue: 0,0:00:11.82,0:00:12.46,Clip,,0,0,0,,THINK THAT'S UP
+Dialogue: 0,0:00:12.46,0:00:13.10,Clip,,0,0,0,,TO THE DEPARTMENT
+Dialogue: 0,0:00:13.10,0:00:14.54,Clip,,0,0,0,,OF CHILDREN AND
+Dialogue: 0,0:00:14.54,0:00:16.54,Clip,,0,0,0,,FAMILIES? THINK AGAIN.
+Dialogue: 0,0:00:16.54,0:00:17.02,Clip,,0,0,0,,I CAN PUT
+Dialogue: 0,0:00:17.02,0:00:17.58,Clip,,0,0,0,,IN A GOOD
+Dialogue: 0,0:00:17.58,0:00:18.38,Clip,,0,0,0,,WORD. I CAN
+Dialogue: 0,0:00:18.38,0:00:18.94,Clip,,0,0,0,,PUT IN A
+Dialogue: 0,0:00:18.94,0:00:21.18,Clip,,0,0,0,,BAD WORD, BUT
+Dialogue: 0,0:00:21.18,0:00:22.06,Clip,,0,0,0,,MY WORD CARRIES
+Dialogue: 0,0:00:22.06,0:00:22.54,Clip,,0,0,0,,A LOT OF
+Dialogue: 0,0:00:22.54,0:00:23.82,Clip,,0,0,0,,WEIGHT. AM I
+Dialogue: 0,0:00:23.82,0:00:26.70,Clip,,0,0,0,,CLEAR? IN THE
+Dialogue: 0,0:00:26.70,0:00:28.30,Clip,,0,0,0,,CAR. LOOK, MAN.
+Dialogue: 0,0:00:28.30,0:00:30.14,Clip,,0,0,0,,WE WERE WE
+Dialogue: 0,0:00:30.14,0:00:30.54,Clip,,0,0,0,,WERE IN THE
+Dialogue: 0,0:00:30.54,0:00:31.42,Clip,,0,0,0,,BEDROOM AND I
+Dialogue: 0,0:00:31.42,0:00:32.38,Clip,,0,0,0,,SAW YOUR CALL
+Dialogue: 0,0:00:32.38,0:00:33.18,Clip,,0,0,0,,AND I IGNORED
+Dialogue: 0,0:00:33.18,0:00:34.14,Clip,,0,0,0,,IT. I SHOULDN'T
+Dialogue: 0,0:00:34.14,0:00:35.10,Clip,,0,0,0,,HAVE. I WON'T
+Dialogue: 0,0:00:35.10,0:00:35.66,Clip,,0,0,0,,DO IT AGAIN.
+Dialogue: 0,0:00:35.66,0:00:37.18,Clip,,0,0,0,,I SWEAR. JUST
+Dialogue: 0,0:00:37.18,0:00:37.58,Clip,,0,0,0,,TELL ME WHAT
+Dialogue: 0,0:00:37.58,0:00:37.98,Clip,,0,0,0,,TO DO AND
+Dialogue: 0,0:00:37.98,0:00:38.46,Clip,,0,0,0,,I'LL DO IT,
+Dialogue: 0,0:00:38.46,0:00:43.66,Clip,,0,0,0,,PLEASE. WELL, THAT
+Dialogue: 0,0:00:43.66,0:00:44.46,Clip,,0,0,0,,EXPLAINS THE HEAVY
+Dialogue: 0,0:00:44.46,0:00:46.70,Clip,,0,0,0,,BREATHING. REAL FIRECRACKER,
+Dialogue: 0,0:00:46.70,0:00:48.30,Clip,,0,0,0,,HUH? WHAT'S ON
+Dialogue: 0,0:00:48.30,0:00:49.26,Clip,,0,0,0,,HIS TEETH, MAN?
+Dialogue: 0,0:00:49.26,0:00:49.46,Clip,,0,0,0,,UM,

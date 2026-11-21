@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:01.00,Clip,,0,0,0,,VOUS SAVEZ QUE
+Dialogue: 0,0:00:01.00,0:00:01.60,Clip,,0,0,0,,JE SUIS ALLERGIQUE
+Dialogue: 0,0:00:01.60,0:00:02.40,Clip,,0,0,0,,AUX ARAIGNÉES PARCE
+Dialogue: 0,0:00:02.40,0:00:02.88,Clip,,0,0,0,,QUE J'AI, ON
+Dialogue: 0,0:00:02.88,0:00:03.70,Clip,,0,0,0,,M'A, Y'A UNE
+Dialogue: 0,0:00:03.70,0:00:04.20,Clip,,0,0,0,,ARAIGNÉE QUI M'A
+Dialogue: 0,0:00:04.20,0:00:05.06,Clip,,0,0,0,,PIQUÉ, C'ÉTAIT QUAND
+Dialogue: 0,0:00:05.06,0:00:05.88,Clip,,0,0,0,,? AUX ARDENTES,
+Dialogue: 0,0:00:05.88,0:00:06.88,Clip,,0,0,0,,LES GARS, MA
+Dialogue: 0,0:00:06.88,0:00:07.66,Clip,,0,0,0,,JAMBE ÉTAIT GONFLÉE
+Dialogue: 0,0:00:07.66,0:00:08.20,Clip,,0,0,0,,JE CROIS QUE
+Dialogue: 0,0:00:08.20,0:00:08.60,Clip,,0,0,0,,JE SUIS ALLERGIQUE
+Dialogue: 0,0:00:08.60,0:00:09.26,Clip,,0,0,0,,AUX ARAIGNÉES ET
+Dialogue: 0,0:00:09.26,0:00:09.64,Clip,,0,0,0,,IL EST SIX
+Dialogue: 0,0:00:09.64,0:00:10.24,Clip,,0,0,0,,HEURES DU MATIN,
+Dialogue: 0,0:00:10.24,0:00:10.66,Clip,,0,0,0,,VIENT DE MONTER
+Dialogue: 0,0:00:10.66,0:00:11.64,Clip,,0,0,0,,DE MONTAGNE IL
+Dialogue: 0,0:00:11.64,0:00:12.08,Clip,,0,0,0,,EST SIX HEURES
+Dialogue: 0,0:00:12.08,0:00:12.60,Clip,,0,0,0,,DU MATIN, ON
+Dialogue: 0,0:00:12.60,0:00:13.16,Clip,,0,0,0,,A GRAVÉ LA
+Dialogue: 0,0:00:13.16,0:00:14.06,Clip,,0,0,0,,MONTAGNE IL EST
+Dialogue: 0,0:00:14.06,0:00:14.62,Clip,,0,0,0,,SIX HEURES DU
+Dialogue: 0,0:00:14.62,0:00:15.10,Clip,,0,0,0,,MATIN, ON A
+Dialogue: 0,0:00:15.10,0:00:16.04,Clip,,0,0,0,,GRAVÉ LA MONTAGNE
+Dialogue: 0,0:00:16.04,0:00:16.56,Clip,,0,0,0,,IL EST SIX
+Dialogue: 0,0:00:16.56,0:00:17.16,Clip,,0,0,0,,HEURES DU MATIN,
+Dialogue: 0,0:00:17.16,0:00:17.62,Clip,,0,0,0,,ON A GRAVÉ
+Dialogue: 0,0:00:17.62,0:00:18.38,Clip,,0,0,0,,LA MONTAGNE IL
+Dialogue: 0,0:00:18.38,0:00:18.56,Clip,,0,0,0,,EST SIX HEURES
+Dialogue: 0,0:00:18.56,0:00:18.74,Clip,,0,0,0,,DU MATIN, ON
+Dialogue: 0,0:00:18.74,0:00:19.32,Clip,,0,0,0,,A GRAVÉ LA
+Dialogue: 0,0:00:19.32,0:00:20.58,Clip,,0,0,0,,MONTAGNE LES MATRICÉS,
+Dialogue: 0,0:00:20.58,0:00:21.00,Clip,,0,0,0,,ON EST FOUS
+Dialogue: 0,0:00:21.00,0:00:21.70,Clip,,0,0,0,,PAR MON TÉLÉPHONE
+Dialogue: 0,0:00:22.62,0:00:23.18,Clip,,0,0,0,,LÀ JE SUIS
+Dialogue: 0,0:00:23.18,0:00:24.28,Clip,,0,0,0,,DÉCONNECTÉ TOTAL ET...
+Dialogue: 0,0:00:25.42,0:00:26.10,Clip,,0,0,0,,LE TÉLÉPHONE C'EST
+Dialogue: 0,0:00:26.10,0:00:26.74,Clip,,0,0,0,,UN POISON, C'EST
+Dialogue: 0,0:00:26.74,0:00:27.80,Clip,,0,0,0,,UNE DROGUE POUR
+Dialogue: 0,0:00:27.80,0:00:28.76,Clip,,0,0,0,,POSER TON TÉLÉPHONE
+Dialogue: 0,0:00:29.34,0:00:30.04,Clip,,0,0,0,,ET TE DIRE
+Dialogue: 0,0:00:30.90,0:00:32.42,Clip,,0,0,0,,OULALA ÇA PART
+Dialogue: 0,0:00:32.42,0:00:33.02,Clip,,0,0,0,,EN COUILLE, ÇA
+Dialogue: 0,0:00:33.02,0:00:33.58,Clip,,0,0,0,,PART EN COUILLE
+Dialogue: 0,0:00:33.58,0:00:33.92,Clip,,0,0,0,,OH JE L'AI
+Dialogue: 0,0:00:33.92,0:00:34.66,Clip,,0,0,0,,JAMAIS SORTI ÇA
+Dialogue: 0,0:00:34.66,0:00:35.24,Clip,,0,0,0,,PARCE QU'IL Y
+Dialogue: 0,0:00:35.24,0:00:35.52,Clip,,0,0,0,,A DES PETITS
+Dialogue: 0,0:00:35.52,0:00:35.96,Clip,,0,0,0,,QUI ME METTAIENT
+Dialogue: 0,0:00:35.96,0:00:36.67,Clip,,0,0,0,,DES TEMPÊTES C

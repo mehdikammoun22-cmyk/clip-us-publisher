@@ -1,0 +1,6280 @@
+[
+ {
+  "start": 0.4,
+  "end": 5.239000000000001,
+  "text": "The streamer of the year award GOES TO",
+  "words": [
+   {
+    "start": 0.4,
+    "word": " The streamer",
+    "end": 1.2000000000000002
+   },
+   {
+    "start": 1.2000000000000002,
+    "word": " of the",
+    "end": 1.3
+   },
+   {
+    "start": 1.3,
+    "word": " year",
+    "end": 1.6
+   },
+   {
+    "start": 1.6,
+    "word": " award",
+    "end": 2.0
+   },
+   {
+    "start": 2.0,
+    "word": " GOES",
+    "end": 2.4
+   },
+   {
+    "start": 2.4,
+    "word": " TO",
+    "end": 5.239000000000001
+   }
+  ]
+ },
+ {
+  "start": 3.8,
+  "end": 7.259,
+  "text": "ISHOWSPEED.",
+  "words": [
+   {
+    "start": 3.8,
+    "word": " ISHOWSPEED.",
+    "end": 7.259
+   }
+  ]
+ },
+ {
+  "start": 13.3,
+  "end": 17.2,
+  "text": "MY DAD AND BROTHER JUST arrived here.",
+  "words": [
+   {
+    "start": 13.3,
+    "word": " MY",
+    "end": 13.4
+   },
+   {
+    "start": 13.4,
+    "word": " DAD",
+    "end": 13.600000000000001
+   },
+   {
+    "start": 13.600000000000001,
+    "word": " AND",
+    "end": 13.700000000000001
+   },
+   {
+    "start": 13.700000000000001,
+    "word": " BROTHER",
+    "end": 14.0
+   },
+   {
+    "start": 14.0,
+    "word": " JUST",
+    "end": 14.3
+   },
+   {
+    "start": 14.3,
+    "word": " arrived",
+    "end": 14.8
+   },
+   {
+    "start": 14.8,
+    "word": " here.",
+    "end": 17.2
+   }
+  ]
+ },
+ {
+  "start": 17.4,
+  "end": 20.4,
+  "text": "Do you guys want any um food? I'm",
+  "words": [
+   {
+    "start": 17.4,
+    "word": " Do",
+    "end": 17.5
+   },
+   {
+    "start": 17.5,
+    "word": " you guys",
+    "end": 17.7
+   },
+   {
+    "start": 17.7,
+    "word": " want",
+    "end": 17.9
+   },
+   {
+    "start": 17.9,
+    "word": " any",
+    "end": 18.599999999999998
+   },
+   {
+    "start": 18.599999999999998,
+    "word": " um",
+    "end": 18.799999999999997
+   },
+   {
+    "start": 18.799999999999997,
+    "word": " food?",
+    "end": 19.2
+   },
+   {
+    "start": 19.2,
+    "word": " I'm",
+    "end": 20.4
+   }
+  ]
+ },
+ {
+  "start": 19.5,
+  "end": 22.4,
+  "text": "ordering some.",
+  "words": [
+   {
+    "start": 19.5,
+    "word": " ordering",
+    "end": 19.8
+   },
+   {
+    "start": 19.8,
+    "word": " some.",
+    "end": 22.4
+   }
+  ]
+ },
+ {
+  "start": 20.4,
+  "end": 23.2,
+  "text": "No, I'm I'm cool. I had breakfast.",
+  "words": [
+   {
+    "start": 20.4,
+    "word": " No,",
+    "end": 20.5
+   },
+   {
+    "start": 20.5,
+    "word": " I'm",
+    "end": 21.0
+   },
+   {
+    "start": 21.0,
+    "word": " I'm",
+    "end": 21.2
+   },
+   {
+    "start": 21.2,
+    "word": " cool.",
+    "end": 21.5
+   },
+   {
+    "start": 21.5,
+    "word": " I",
+    "end": 21.599999999999998
+   },
+   {
+    "start": 21.599999999999998,
+    "word": " had",
+    "end": 21.9
+   },
+   {
+    "start": 21.9,
+    "word": " breakfast.",
+    "end": 23.2
+   }
+  ]
+ },
+ {
+  "start": 22.4,
+  "end": 24.2,
+  "text": "No, I'm all good.",
+  "words": [
+   {
+    "start": 22.4,
+    "word": " No,",
+    "end": 22.5
+   },
+   {
+    "start": 22.5,
+    "word": " I'm",
+    "end": 22.599999999999998
+   },
+   {
+    "start": 22.599999999999998,
+    "word": " all",
+    "end": 22.7
+   },
+   {
+    "start": 22.7,
+    "word": " good.",
+    "end": 24.2
+   }
+  ]
+ },
+ {
+  "start": 23.2,
+  "end": 26.7,
+  "text": "Did you point the camera at me first?",
+  "words": [
+   {
+    "start": 23.2,
+    "word": " Did",
+    "end": 23.3
+   },
+   {
+    "start": 23.3,
+    "word": " you",
+    "end": 23.4
+   },
+   {
+    "start": 23.4,
+    "word": " point",
+    "end": 23.5
+   },
+   {
+    "start": 23.5,
+    "word": " the",
+    "end": 23.599999999999998
+   },
+   {
+    "start": 23.599999999999998,
+    "word": " camera",
+    "end": 23.8
+   },
+   {
+    "start": 23.8,
+    "word": " at",
+    "end": 23.9
+   },
+   {
+    "start": 23.9,
+    "word": " me",
+    "end": 24.0
+   },
+   {
+    "start": 24.0,
+    "word": " first?",
+    "end": 26.7
+   }
+  ]
+ },
+ {
+  "start": 24.2,
+  "end": 28.0,
+  "text": "Did you want to pull up?",
+  "words": [
+   {
+    "start": 24.2,
+    "word": " Did",
+    "end": 24.3
+   },
+   {
+    "start": 24.3,
+    "word": " you",
+    "end": 24.4
+   },
+   {
+    "start": 24.4,
+    "word": " want",
+    "end": 24.5
+   },
+   {
+    "start": 24.5,
+    "word": " to",
+    "end": 24.599999999999998
+   },
+   {
+    "start": 24.599999999999998,
+    "word": " pull",
+    "end": 24.7
+   },
+   {
+    "start": 24.7,
+    "word": " up?",
+    "end": 28.0
+   }
+  ]
+ },
+ {
+  "start": 26.9,
+  "end": 30.3,
+  "text": "I can pull up.",
+  "words": [
+   {
+    "start": 26.9,
+    "word": " I",
+    "end": 27.2
+   },
+   {
+    "start": 27.2,
+    "word": " can",
+    "end": 27.3
+   },
+   {
+    "start": 27.3,
+    "word": " pull",
+    "end": 27.4
+   },
+   {
+    "start": 27.4,
+    "word": " up.",
+    "end": 30.3
+   }
+  ]
+ },
+ {
+  "start": 28.0,
+  "end": 32.4,
+  "text": "I am 100% like this.",
+  "words": [
+   {
+    "start": 28.0,
+    "word": " I",
+    "end": 28.1
+   },
+   {
+    "start": 28.1,
+    "word": " am",
+    "end": 28.2
+   },
+   {
+    "start": 28.2,
+    "word": " 100%",
+    "end": 28.8
+   },
+   {
+    "start": 28.8,
+    "word": " like",
+    "end": 28.9
+   },
+   {
+    "start": 28.9,
+    "word": " this.",
+    "end": 32.4
+   }
+  ]
+ },
+ {
+  "start": 30.3,
+  "end": 33.4,
+  "text": "Hard, bro, on God.",
+  "words": [
+   {
+    "start": 30.3,
+    "word": " Hard,",
+    "end": 30.5
+   },
+   {
+    "start": 30.5,
+    "word": " bro,",
+    "end": 30.8
+   },
+   {
+    "start": 30.8,
+    "word": " on",
+    "end": 31.0
+   },
+   {
+    "start": 31.0,
+    "word": " God.",
+    "end": 33.4
+   }
+  ]
+ },
+ {
+  "start": 32.4,
+  "end": 34.0,
+  "text": "And with glasses? You're throwing",
+  "words": [
+   {
+    "start": 32.4,
+    "word": " And",
+    "end": 32.5
+   },
+   {
+    "start": 32.5,
+    "word": " with",
+    "end": 32.599
+   },
+   {
+    "start": 32.599,
+    "word": " glasses?",
+    "end": 33.1
+   },
+   {
+    "start": 33.1,
+    "word": " You're",
+    "end": 33.199999999999996
+   },
+   {
+    "start": 33.199999999999996,
+    "word": " throwing",
+    "end": 34.0
+   }
+  ]
+ },
+ {
+  "start": 33.4,
+  "end": 36.8,
+  "text": "glasses on with that?",
+  "words": [
+   {
+    "start": 33.4,
+    "word": " glasses",
+    "end": 33.699999999999996
+   },
+   {
+    "start": 33.699999999999996,
+    "word": " on",
+    "end": 33.8
+   },
+   {
+    "start": 33.8,
+    "word": " with",
+    "end": 33.9
+   },
+   {
+    "start": 33.9,
+    "word": " that?",
+    "end": 36.8
+   }
+  ]
+ },
+ {
+  "start": 34.0,
+  "end": 36.8,
+  "text": "bro? What?",
+  "words": [
+   {
+    "start": 34.0,
+    "word": " bro?",
+    "end": 34.3
+   },
+   {
+    "start": 34.3,
+    "word": " What?",
+    "end": 36.8
+   }
+  ]
+ },
+ {
+  "start": 40.5,
+  "end": 44.5,
+  "text": "You're going to have me crying.",
+  "words": [
+   {
+    "start": 40.5,
+    "word": " You're",
+    "end": 40.6
+   },
+   {
+    "start": 40.6,
+    "word": " going",
+    "end": 40.7
+   },
+   {
+    "start": 40.7,
+    "word": " to",
+    "end": 40.8
+   },
+   {
+    "start": 40.8,
+    "word": " have",
+    "end": 40.9
+   },
+   {
+    "start": 40.9,
+    "word": " me",
+    "end": 41.1
+   },
+   {
+    "start": 41.1,
+    "word": " crying.",
+    "end": 44.5
+   }
+  ]
+ },
+ {
+  "start": 42.8,
+  "end": 46.0,
+  "text": "I know, bro. This is If I win Streamer",
+  "words": [
+   {
+    "start": 42.8,
+    "word": " I",
+    "end": 42.9
+   },
+   {
+    "start": 42.9,
+    "word": " know,",
+    "end": 43.199999999999996
+   },
+   {
+    "start": 43.199999999999996,
+    "word": " bro.",
+    "end": 43.4
+   },
+   {
+    "start": 43.4,
+    "word": " This",
+    "end": 43.599999999999994
+   },
+   {
+    "start": 43.599999999999994,
+    "word": " is",
+    "end": 43.8
+   },
+   {
+    "start": 43.8,
+    "word": " If",
+    "end": 44.0
+   },
+   {
+    "start": 44.0,
+    "word": " I",
+    "end": 44.099999999999994
+   },
+   {
+    "start": 44.099999999999994,
+    "word": " win",
+    "end": 44.199999999999996
+   },
+   {
+    "start": 44.199999999999996,
+    "word": " Streamer",
+    "end": 46.0
+   }
+  ]
+ },
+ {
+  "start": 44.5,
+  "end": 47.0,
+  "text": "of the Year, I'm doing a speech in",
+  "words": [
+   {
+    "start": 44.5,
+    "word": " of",
+    "end": 44.6
+   },
+   {
+    "start": 44.6,
+    "word": " the Year,",
+    "end": 45.1
+   },
+   {
+    "start": 45.1,
+    "word": " I'm",
+    "end": 45.3
+   },
+   {
+    "start": 45.3,
+    "word": " doing",
+    "end": 45.6
+   },
+   {
+    "start": 45.6,
+    "word": " a speech",
+    "end": 45.9
+   },
+   {
+    "start": 45.9,
+    "word": " in",
+    "end": 47.0
+   }
+  ]
+ },
+ {
+  "start": 46.0,
+  "end": 47.7,
+  "text": "Indonesian.",
+  "words": [
+   {
+    "start": 46.0,
+    "word": " Indonesian.",
+    "end": 47.7
+   }
+  ]
+ },
+ {
+  "start": 47.0,
+  "end": 48.7,
+  "text": "Why?",
+  "words": [
+   {
+    "start": 47.0,
+    "word": " Why?",
+    "end": 48.7
+   }
+  ]
+ },
+ {
+  "start": 47.7,
+  "end": 50.0,
+  "text": "Just cuz I want to.",
+  "words": [
+   {
+    "start": 47.7,
+    "word": " Just",
+    "end": 47.800000000000004
+   },
+   {
+    "start": 47.800000000000004,
+    "word": " cuz",
+    "end": 47.900000000000006
+   },
+   {
+    "start": 47.900000000000006,
+    "word": " I want",
+    "end": 48.1
+   },
+   {
+    "start": 48.1,
+    "word": " to.",
+    "end": 50.0
+   }
+  ]
+ },
+ {
+  "start": 48.7,
+  "end": 53.0,
+  "text": "Are you hinting anything?",
+  "words": [
+   {
+    "start": 48.7,
+    "word": " Are",
+    "end": 48.800000000000004
+   },
+   {
+    "start": 48.800000000000004,
+    "word": " you",
+    "end": 48.900000000000006
+   },
+   {
+    "start": 48.900000000000006,
+    "word": " hinting",
+    "end": 49.2
+   },
+   {
+    "start": 49.2,
+    "word": " anything?",
+    "end": 53.0
+   }
+  ]
+ },
+ {
+  "start": 50.0,
+  "end": 53.0,
+  "text": "I don't know. Maybe.",
+  "words": [
+   {
+    "start": 50.0,
+    "word": " I don't",
+    "end": 50.2
+   },
+   {
+    "start": 50.2,
+    "word": " know.",
+    "end": 50.6
+   },
+   {
+    "start": 50.6,
+    "word": " Maybe.",
+    "end": 53.0
+   }
+  ]
+ },
+ {
+  "start": 56.6,
+  "end": 60.9,
+  "text": "BACKFLIP.",
+  "words": [
+   {
+    "start": 56.6,
+    "word": " BACKFLIP.",
+    "end": 60.9
+   }
+  ]
+ },
+ {
+  "start": 58.6,
+  "end": 62.4,
+  "text": "I'M JUST THAT",
+  "words": [
+   {
+    "start": 58.6,
+    "word": " I'M",
+    "end": 59.1
+   },
+   {
+    "start": 59.1,
+    "word": " JUST",
+    "end": 59.300000000000004
+   },
+   {
+    "start": 59.300000000000004,
+    "word": " THAT",
+    "end": 62.4
+   }
+  ]
+ },
+ {
+  "start": 60.9,
+  "end": 64.8,
+  "text": "But it's not MJ, which is good. It's",
+  "words": [
+   {
+    "start": 60.9,
+    "word": " But",
+    "end": 61.0
+   },
+   {
+    "start": 61.0,
+    "word": " it's",
+    "end": 61.199999999999996
+   },
+   {
+    "start": 61.199999999999996,
+    "word": " not",
+    "end": 61.4
+   },
+   {
+    "start": 61.4,
+    "word": " MJ,",
+    "end": 61.699999999999996
+   },
+   {
+    "start": 61.699999999999996,
+    "word": " which",
+    "end": 61.9
+   },
+   {
+    "start": 61.9,
+    "word": " is",
+    "end": 62.0
+   },
+   {
+    "start": 62.0,
+    "word": " good.",
+    "end": 62.3
+   },
+   {
+    "start": 62.3,
+    "word": " It's",
+    "end": 64.8
+   }
+  ]
+ },
+ {
+  "start": 62.4,
+  "end": 65.7,
+  "text": "like a nod. It's not like full I like",
+  "words": [
+   {
+    "start": 62.4,
+    "word": " like",
+    "end": 62.8
+   },
+   {
+    "start": 62.8,
+    "word": " a",
+    "end": 62.9
+   },
+   {
+    "start": 62.9,
+    "word": " nod.",
+    "end": 63.9
+   },
+   {
+    "start": 63.9,
+    "word": " It's",
+    "end": 64.0
+   },
+   {
+    "start": 64.0,
+    "word": " not",
+    "end": 64.1
+   },
+   {
+    "start": 64.1,
+    "word": " like",
+    "end": 64.199
+   },
+   {
+    "start": 64.199,
+    "word": " full",
+    "end": 64.6
+   },
+   {
+    "start": 64.6,
+    "word": " I like",
+    "end": 65.7
+   }
+  ]
+ },
+ {
+  "start": 64.8,
+  "end": 67.1,
+  "text": "that.",
+  "words": [
+   {
+    "start": 64.8,
+    "word": " that.",
+    "end": 67.1
+   }
+  ]
+ },
+ {
+  "start": 65.7,
+  "end": 69.2,
+  "text": "It's It's a nod.",
+  "words": [
+   {
+    "start": 65.7,
+    "word": " It's",
+    "end": 66.2
+   },
+   {
+    "start": 66.2,
+    "word": " It's",
+    "end": 66.4
+   },
+   {
+    "start": 66.4,
+    "word": " a nod.",
+    "end": 69.2
+   }
+  ]
+ },
+ {
+  "start": 67.1,
+  "end": 69.8,
+  "text": "Yeah, I I think I'm going with this.",
+  "words": [
+   {
+    "start": 67.1,
+    "word": " Yeah,",
+    "end": 67.39999999999999
+   },
+   {
+    "start": 67.39999999999999,
+    "word": " I",
+    "end": 67.5
+   },
+   {
+    "start": 67.5,
+    "word": " I think",
+    "end": 67.69999999999999
+   },
+   {
+    "start": 67.69999999999999,
+    "word": " I'm",
+    "end": 67.8
+   },
+   {
+    "start": 67.8,
+    "word": " going",
+    "end": 67.89999999999999
+   },
+   {
+    "start": 67.89999999999999,
+    "word": " with",
+    "end": 68.0
+   },
+   {
+    "start": 68.0,
+    "word": " this.",
+    "end": 69.8
+   }
+  ]
+ },
+ {
+  "start": 69.2,
+  "end": 70.4,
+  "text": "Yeah.",
+  "words": [
+   {
+    "start": 69.2,
+    "word": " Yeah.",
+    "end": 70.4
+   }
+  ]
+ },
+ {
+  "start": 69.8,
+  "end": 72.0,
+  "text": "Mhm.",
+  "words": [
+   {
+    "start": 69.8,
+    "word": " Mhm.",
+    "end": 72.0
+   }
+  ]
+ },
+ {
+  "start": 70.4,
+  "end": 73.60000000000001,
+  "text": "This is my fit. Sea boys are in",
+  "words": [
+   {
+    "start": 70.4,
+    "word": " This",
+    "end": 70.5
+   },
+   {
+    "start": 70.5,
+    "word": " is",
+    "end": 70.60000000000001
+   },
+   {
+    "start": 70.60000000000001,
+    "word": " my",
+    "end": 70.80000000000001
+   },
+   {
+    "start": 70.80000000000001,
+    "word": " fit.",
+    "end": 71.30000000000001
+   },
+   {
+    "start": 71.30000000000001,
+    "word": " Sea",
+    "end": 71.5
+   },
+   {
+    "start": 71.5,
+    "word": " boys",
+    "end": 71.80000000000001
+   },
+   {
+    "start": 71.80000000000001,
+    "word": " are",
+    "end": 71.9
+   },
+   {
+    "start": 71.9,
+    "word": " in",
+    "end": 73.60000000000001
+   }
+  ]
+ },
+ {
+  "start": 72.0,
+  "end": 76.9,
+  "text": "grooming.",
+  "words": [
+   {
+    "start": 72.0,
+    "word": " grooming.",
+    "end": 76.9
+   }
+  ]
+ },
+ {
+  "start": 73.6,
+  "end": 78.89999999999999,
+  "text": "Oh my days. I look pretty as hell.",
+  "words": [
+   {
+    "start": 73.6,
+    "word": " Oh",
+    "end": 73.8
+   },
+   {
+    "start": 73.8,
+    "word": " my",
+    "end": 74.19999999999999
+   },
+   {
+    "start": 74.19999999999999,
+    "word": " days.",
+    "end": 74.89999999999999
+   },
+   {
+    "start": 74.89999999999999,
+    "word": " I",
+    "end": 75.0
+   },
+   {
+    "start": 75.0,
+    "word": " look",
+    "end": 75.5
+   },
+   {
+    "start": 75.5,
+    "word": " pretty",
+    "end": 75.89999999999999
+   },
+   {
+    "start": 75.89999999999999,
+    "word": " as",
+    "end": 76.0
+   },
+   {
+    "start": 76.0,
+    "word": " hell.",
+    "end": 78.89999999999999
+   }
+  ]
+ },
+ {
+  "start": 76.9,
+  "end": 81.7,
+  "text": "You ready?",
+  "words": [
+   {
+    "start": 76.9,
+    "word": " You",
+    "end": 77.0
+   },
+   {
+    "start": 77.0,
+    "word": " ready?",
+    "end": 81.7
+   }
+  ]
+ },
+ {
+  "start": 78.9,
+  "end": 83.60000000000001,
+  "text": "Yes, I am ready. Let's go. All right,",
+  "words": [
+   {
+    "start": 78.9,
+    "word": " Yes,",
+    "end": 79.4
+   },
+   {
+    "start": 79.4,
+    "word": " I",
+    "end": 79.5
+   },
+   {
+    "start": 79.5,
+    "word": " am",
+    "end": 79.7
+   },
+   {
+    "start": 79.7,
+    "word": " ready.",
+    "end": 80.10000000000001
+   },
+   {
+    "start": 80.10000000000001,
+    "word": " Let's",
+    "end": 80.5
+   },
+   {
+    "start": 80.5,
+    "word": " go.",
+    "end": 81.4
+   },
+   {
+    "start": 81.4,
+    "word": " All",
+    "end": 81.5
+   },
+   {
+    "start": 81.5,
+    "word": " right,",
+    "end": 83.60000000000001
+   }
+  ]
+ },
+ {
+  "start": 81.7,
+  "end": 86.60000000000001,
+  "text": "man. We about to head to the Streamer",
+  "words": [
+   {
+    "start": 81.7,
+    "word": " man.",
+    "end": 81.9
+   },
+   {
+    "start": 81.9,
+    "word": " We",
+    "end": 82.0
+   },
+   {
+    "start": 82.0,
+    "word": " about",
+    "end": 82.3
+   },
+   {
+    "start": 82.3,
+    "word": " to",
+    "end": 82.5
+   },
+   {
+    "start": 82.5,
+    "word": " head",
+    "end": 83.0
+   },
+   {
+    "start": 83.0,
+    "word": " to",
+    "end": 83.10000000000001
+   },
+   {
+    "start": 83.10000000000001,
+    "word": " the",
+    "end": 83.2
+   },
+   {
+    "start": 83.2,
+    "word": " Streamer",
+    "end": 86.60000000000001
+   }
+  ]
+ },
+ {
+  "start": 83.6,
+  "end": 90.1,
+  "text": "Awards. I'm all dressed. Sea boys, I",
+  "words": [
+   {
+    "start": 83.6,
+    "word": " Awards.",
+    "end": 84.39999999999999
+   },
+   {
+    "start": 84.39999999999999,
+    "word": " I'm",
+    "end": 84.6
+   },
+   {
+    "start": 84.6,
+    "word": " all",
+    "end": 84.69999999999999
+   },
+   {
+    "start": 84.69999999999999,
+    "word": " dressed.",
+    "end": 85.6
+   },
+   {
+    "start": 85.6,
+    "word": " Sea",
+    "end": 85.8
+   },
+   {
+    "start": 85.8,
+    "word": " boys,",
+    "end": 86.6
+   },
+   {
+    "start": 86.6,
+    "word": " I",
+    "end": 90.1
+   }
+  ]
+ },
+ {
+  "start": 86.6,
+  "end": 90.1,
+  "text": "just Streamer Awards. Peace out.",
+  "words": [
+   {
+    "start": 86.6,
+    "word": " just",
+    "end": 86.8
+   },
+   {
+    "start": 86.8,
+    "word": " Streamer",
+    "end": 87.0
+   },
+   {
+    "start": 87.0,
+    "word": " Awards.",
+    "end": 87.5
+   },
+   {
+    "start": 87.5,
+    "word": " Peace",
+    "end": 87.8
+   },
+   {
+    "start": 87.8,
+    "word": " out.",
+    "end": 90.1
+   }
+  ]
+ },
+ {
+  "start": 93.6,
+  "end": 99.0,
+  "text": "Hi, Mom.",
+  "words": [
+   {
+    "start": 93.6,
+    "word": " Hi,",
+    "end": 93.69999999999999
+   },
+   {
+    "start": 93.69999999999999,
+    "word": " Mom.",
+    "end": 99.0
+   }
+  ]
+ },
+ {
+  "start": 94.5,
+  "end": 99.0,
+  "text": "Hi, my son. Love you.",
+  "words": [
+   {
+    "start": 94.5,
+    "word": " Hi,",
+    "end": 94.7
+   },
+   {
+    "start": 94.7,
+    "word": " my",
+    "end": 95.0
+   },
+   {
+    "start": 95.0,
+    "word": " son.",
+    "end": 96.1
+   },
+   {
+    "start": 96.1,
+    "word": " Love",
+    "end": 96.5
+   },
+   {
+    "start": 96.5,
+    "word": " you.",
+    "end": 99.0
+   }
+  ]
+ },
+ {
+  "start": 100.6,
+  "end": 102.1,
+  "text": "No, you won an award?",
+  "words": [
+   {
+    "start": 100.6,
+    "word": " No,",
+    "end": 100.69999999999999
+   },
+   {
+    "start": 100.69999999999999,
+    "word": " you",
+    "end": 100.8
+   },
+   {
+    "start": 100.8,
+    "word": " won",
+    "end": 101.0
+   },
+   {
+    "start": 101.0,
+    "word": " an",
+    "end": 101.1
+   },
+   {
+    "start": 101.1,
+    "word": " award?",
+    "end": 102.1
+   }
+  ]
+ },
+ {
+  "start": 101.7,
+  "end": 104.0,
+  "text": "Huh?",
+  "words": [
+   {
+    "start": 101.7,
+    "word": " Huh?",
+    "end": 104.0
+   }
+  ]
+ },
+ {
+  "start": 102.1,
+  "end": 105.19999999999999,
+  "text": "You got Best Recorded Show.",
+  "words": [
+   {
+    "start": 102.1,
+    "word": " You",
+    "end": 102.19999999999999
+   },
+   {
+    "start": 102.19999999999999,
+    "word": " got",
+    "end": 102.39999999999999
+   },
+   {
+    "start": 102.39999999999999,
+    "word": " Best",
+    "end": 103.1
+   },
+   {
+    "start": 103.1,
+    "word": " Recorded",
+    "end": 103.6
+   },
+   {
+    "start": 103.6,
+    "word": " Show.",
+    "end": 105.19999999999999
+   }
+  ]
+ },
+ {
+  "start": 104.0,
+  "end": 107.8,
+  "text": "Yeah, I know, bro.",
+  "words": [
+   {
+    "start": 104.0,
+    "word": " Yeah,",
+    "end": 104.1
+   },
+   {
+    "start": 104.1,
+    "word": " I know,",
+    "end": 104.4
+   },
+   {
+    "start": 104.4,
+    "word": " bro.",
+    "end": 107.8
+   }
+  ]
+ },
+ {
+  "start": 105.2,
+  "end": 107.8,
+  "text": "Long time no see.",
+  "words": [
+   {
+    "start": 105.2,
+    "word": " Long",
+    "end": 105.4
+   },
+   {
+    "start": 105.4,
+    "word": " time",
+    "end": 105.60000000000001
+   },
+   {
+    "start": 105.60000000000001,
+    "word": " no",
+    "end": 105.7
+   },
+   {
+    "start": 105.7,
+    "word": " see.",
+    "end": 107.8
+   }
+  ]
+ },
+ {
+  "start": 115.2,
+  "end": 119.5,
+  "text": "They said we were just beginners.",
+  "words": [
+   {
+    "start": 115.2,
+    "word": " They",
+    "end": 115.3
+   },
+   {
+    "start": 115.3,
+    "word": " said",
+    "end": 115.7
+   },
+   {
+    "start": 115.7,
+    "word": " we",
+    "end": 115.8
+   },
+   {
+    "start": 115.8,
+    "word": " were",
+    "end": 115.9
+   },
+   {
+    "start": 115.9,
+    "word": " just",
+    "end": 116.2
+   },
+   {
+    "start": 116.2,
+    "word": " beginners.",
+    "end": 119.5
+   }
+  ]
+ },
+ {
+  "start": 117.4,
+  "end": 121.69200000000001,
+  "text": "This year we watching movies",
+  "words": [
+   {
+    "start": 117.4,
+    "word": " This",
+    "end": 117.5
+   },
+   {
+    "start": 117.5,
+    "word": " year",
+    "end": 117.9
+   },
+   {
+    "start": 117.9,
+    "word": " we",
+    "end": 118.0
+   },
+   {
+    "start": 118.0,
+    "word": " watching",
+    "end": 118.30000000000001
+   },
+   {
+    "start": 118.30000000000001,
+    "word": " movies",
+    "end": 121.69200000000001
+   }
+  ]
+ },
+ {
+  "start": 119.5,
+  "end": 123.69200000000001,
+  "text": "Next we going to be some winners.",
+  "words": [
+   {
+    "start": 119.5,
+    "word": " Next",
+    "end": 119.892
+   },
+   {
+    "start": 119.892,
+    "word": " we",
+    "end": 120.292
+   },
+   {
+    "start": 120.292,
+    "word": " going",
+    "end": 120.392
+   },
+   {
+    "start": 120.392,
+    "word": " to",
+    "end": 120.492
+   },
+   {
+    "start": 120.492,
+    "word": " be some",
+    "end": 120.692
+   },
+   {
+    "start": 120.692,
+    "word": " winners.",
+    "end": 123.69200000000001
+   }
+  ]
+ },
+ {
+  "start": 121.692,
+  "end": 126.49199999999999,
+  "text": "And you know I'm the best contender.",
+  "words": [
+   {
+    "start": 121.692,
+    "word": " And",
+    "end": 121.79199999999999
+   },
+   {
+    "start": 121.79199999999999,
+    "word": " you",
+    "end": 121.892
+   },
+   {
+    "start": 121.892,
+    "word": " know",
+    "end": 122.192
+   },
+   {
+    "start": 122.192,
+    "word": " I'm",
+    "end": 122.29199999999999
+   },
+   {
+    "start": 122.29199999999999,
+    "word": " the",
+    "end": 122.392
+   },
+   {
+    "start": 122.392,
+    "word": " best",
+    "end": 122.692
+   },
+   {
+    "start": 122.692,
+    "word": " contender.",
+    "end": 126.49199999999999
+   }
+  ]
+ },
+ {
+  "start": 123.692,
+  "end": 126.49199999999999,
+  "text": "That's sick though.",
+  "words": [
+   {
+    "start": 123.692,
+    "word": " That's",
+    "end": 123.99199999999999
+   },
+   {
+    "start": 123.99199999999999,
+    "word": " sick",
+    "end": 124.192
+   },
+   {
+    "start": 124.192,
+    "word": " though.",
+    "end": 126.49199999999999
+   }
+  ]
+ },
+ {
+  "start": 133.692,
+  "end": 137.55100000000002,
+  "text": "Why you ain't rap?",
+  "words": [
+   {
+    "start": 133.692,
+    "word": " Why",
+    "end": 133.792
+   },
+   {
+    "start": 133.792,
+    "word": " you",
+    "end": 133.99200000000002
+   },
+   {
+    "start": 133.99200000000002,
+    "word": " ain't",
+    "end": 134.192
+   },
+   {
+    "start": 134.192,
+    "word": " rap?",
+    "end": 137.55100000000002
+   }
+  ]
+ },
+ {
+  "start": 135.092,
+  "end": 139.57100000000003,
+  "text": "I didn't feel like it.",
+  "words": [
+   {
+    "start": 135.092,
+    "word": " I",
+    "end": 135.192
+   },
+   {
+    "start": 135.192,
+    "word": " didn't",
+    "end": 135.292
+   },
+   {
+    "start": 135.292,
+    "word": " feel",
+    "end": 135.39200000000002
+   },
+   {
+    "start": 135.39200000000002,
+    "word": " like",
+    "end": 135.592
+   },
+   {
+    "start": 135.592,
+    "word": " it.",
+    "end": 139.57100000000003
+   }
+  ]
+ },
+ {
+  "start": 139.692,
+  "end": 143.892,
+  "text": "My boy Kai just won an award. Yeah, sir.",
+  "words": [
+   {
+    "start": 139.692,
+    "word": " My",
+    "end": 139.792
+   },
+   {
+    "start": 139.792,
+    "word": " boy",
+    "end": 139.99200000000002
+   },
+   {
+    "start": 139.99200000000002,
+    "word": " Kai",
+    "end": 140.092
+   },
+   {
+    "start": 140.092,
+    "word": " just",
+    "end": 140.292
+   },
+   {
+    "start": 140.292,
+    "word": " won",
+    "end": 140.392
+   },
+   {
+    "start": 140.392,
+    "word": " an",
+    "end": 140.49200000000002
+   },
+   {
+    "start": 140.49200000000002,
+    "word": " award.",
+    "end": 141.092
+   },
+   {
+    "start": 141.092,
+    "word": " Yeah,",
+    "end": 141.392
+   },
+   {
+    "start": 141.392,
+    "word": " sir.",
+    "end": 143.892
+   }
+  ]
+ },
+ {
+  "start": 147.792,
+  "end": 151.892,
+  "text": "Minecraft",
+  "words": [
+   {
+    "start": 147.792,
+    "word": " Minecraft",
+    "end": 151.892
+   }
+  ]
+ },
+ {
+  "start": 150.092,
+  "end": 153.292,
+  "text": "Oh yeah, I'm not crazy, bro.",
+  "words": [
+   {
+    "start": 150.092,
+    "word": " Oh",
+    "end": 150.192
+   },
+   {
+    "start": 150.192,
+    "word": " yeah,",
+    "end": 150.49200000000002
+   },
+   {
+    "start": 150.49200000000002,
+    "word": " I'm",
+    "end": 150.592
+   },
+   {
+    "start": 150.592,
+    "word": " not",
+    "end": 150.89200000000002
+   },
+   {
+    "start": 150.89200000000002,
+    "word": " crazy,",
+    "end": 151.292
+   },
+   {
+    "start": 151.292,
+    "word": " bro.",
+    "end": 153.292
+   }
+  ]
+ },
+ {
+  "start": 151.892,
+  "end": 154.581,
+  "text": "What up, y'all? How you been? You good?",
+  "words": [
+   {
+    "start": 151.892,
+    "word": " What",
+    "end": 151.992
+   },
+   {
+    "start": 151.992,
+    "word": " up,",
+    "end": 152.09199999999998
+   },
+   {
+    "start": 152.09199999999998,
+    "word": " y'all?",
+    "end": 152.59199999999998
+   },
+   {
+    "start": 152.59199999999998,
+    "word": " How",
+    "end": 152.692
+   },
+   {
+    "start": 152.692,
+    "word": " you",
+    "end": 152.792
+   },
+   {
+    "start": 152.792,
+    "word": " been?",
+    "end": 152.892
+   },
+   {
+    "start": 152.892,
+    "word": " You",
+    "end": 152.992
+   },
+   {
+    "start": 152.992,
+    "word": " good?",
+    "end": 154.581
+   }
+  ]
+ },
+ {
+  "start": 153.292,
+  "end": 156.601,
+  "text": "Yeah, I'm good, bro.",
+  "words": [
+   {
+    "start": 153.292,
+    "word": " Yeah,",
+    "end": 153.392
+   },
+   {
+    "start": 153.392,
+    "word": " I'm",
+    "end": 153.492
+   },
+   {
+    "start": 153.492,
+    "word": " good,",
+    "end": 153.692
+   },
+   {
+    "start": 153.692,
+    "word": " bro.",
+    "end": 156.601
+   }
+  ]
+ },
+ {
+  "start": 156.692,
+  "end": 162.292,
+  "text": "First and foremost, I want to say thank",
+  "words": [
+   {
+    "start": 156.692,
+    "word": " First",
+    "end": 156.892
+   },
+   {
+    "start": 156.892,
+    "word": " and",
+    "end": 157.092
+   },
+   {
+    "start": 157.092,
+    "word": " foremost,",
+    "end": 157.49200000000002
+   },
+   {
+    "start": 157.49200000000002,
+    "word": " I",
+    "end": 157.592
+   },
+   {
+    "start": 157.592,
+    "word": " want",
+    "end": 157.792
+   },
+   {
+    "start": 157.792,
+    "word": " to",
+    "end": 157.892
+   },
+   {
+    "start": 157.892,
+    "word": " say",
+    "end": 158.49200000000002
+   },
+   {
+    "start": 158.49200000000002,
+    "word": " thank",
+    "end": 162.292
+   }
+  ]
+ },
+ {
+  "start": 158.692,
+  "end": 162.292,
+  "text": "God. God is the greatest.",
+  "words": [
+   {
+    "start": 158.692,
+    "word": " God.",
+    "end": 159.192
+   },
+   {
+    "start": 159.192,
+    "word": " God",
+    "end": 159.49200000000002
+   },
+   {
+    "start": 159.49200000000002,
+    "word": " is",
+    "end": 159.592
+   },
+   {
+    "start": 159.592,
+    "word": " the",
+    "end": 159.692
+   },
+   {
+    "start": 159.692,
+    "word": " greatest.",
+    "end": 162.292
+   }
+  ]
+ },
+ {
+  "start": 162.892,
+  "end": 165.192,
+  "text": "Shout out to nominees for best IRL",
+  "words": [
+   {
+    "start": 162.892,
+    "word": " Shout",
+    "end": 162.992
+   },
+   {
+    "start": 162.992,
+    "word": " out",
+    "end": 163.192
+   },
+   {
+    "start": 163.192,
+    "word": " to",
+    "end": 163.292
+   },
+   {
+    "start": 163.292,
+    "word": " nominees",
+    "end": 163.692
+   },
+   {
+    "start": 163.692,
+    "word": " for",
+    "end": 163.792
+   },
+   {
+    "start": 163.792,
+    "word": " best",
+    "end": 164.09199999999998
+   },
+   {
+    "start": 164.09199999999998,
+    "word": " IRL",
+    "end": 165.192
+   }
+  ]
+ },
+ {
+  "start": 164.292,
+  "end": 167.292,
+  "text": "streamer",
+  "words": [
+   {
+    "start": 164.292,
+    "word": " streamer",
+    "end": 167.292
+   }
+  ]
+ },
+ {
+  "start": 165.192,
+  "end": 169.392,
+  "text": "presented by IRL toolkit R.",
+  "words": [
+   {
+    "start": 165.192,
+    "word": " presented",
+    "end": 165.49200000000002
+   },
+   {
+    "start": 165.49200000000002,
+    "word": " by",
+    "end": 165.892
+   },
+   {
+    "start": 165.892,
+    "word": " IRL",
+    "end": 166.292
+   },
+   {
+    "start": 166.292,
+    "word": " toolkit",
+    "end": 166.692
+   },
+   {
+    "start": 166.692,
+    "word": " R.",
+    "end": 169.392
+   }
+  ]
+ },
+ {
+  "start": 167.292,
+  "end": 172.092,
+  "text": "Cook sucks.",
+  "words": [
+   {
+    "start": 167.292,
+    "word": " Cook",
+    "end": 167.592
+   },
+   {
+    "start": 167.592,
+    "word": " sucks.",
+    "end": 172.092
+   }
+  ]
+ },
+ {
+  "start": 169.392,
+  "end": 174.231,
+  "text": "Evelyn Ortiz.",
+  "words": [
+   {
+    "start": 169.392,
+    "word": " Evelyn",
+    "end": 170.09199999999998
+   },
+   {
+    "start": 170.09199999999998,
+    "word": " Ortiz.",
+    "end": 174.231
+   }
+  ]
+ },
+ {
+  "start": 172.092,
+  "end": 174.99200000000002,
+  "text": "Extra Evelyn.",
+  "words": [
+   {
+    "start": 172.092,
+    "word": " Extra",
+    "end": 172.692
+   },
+   {
+    "start": 172.692,
+    "word": " Evelyn.",
+    "end": 174.99200000000002
+   }
+  ]
+ },
+ {
+  "start": 174.992,
+  "end": 178.392,
+  "text": "I show speed.",
+  "words": [
+   {
+    "start": 174.992,
+    "word": " I",
+    "end": 175.19199999999998
+   },
+   {
+    "start": 175.19199999999998,
+    "word": " show",
+    "end": 175.792
+   },
+   {
+    "start": 175.792,
+    "word": " speed.",
+    "end": 178.392
+   }
+  ]
+ },
+ {
+  "start": 179.992,
+  "end": 182.792,
+  "text": "Poxim.",
+  "words": [
+   {
+    "start": 179.992,
+    "word": " Poxim.",
+    "end": 182.792
+   }
+  ]
+ },
+ {
+  "start": 184.092,
+  "end": 187.092,
+  "text": "And the winner is",
+  "words": [
+   {
+    "start": 184.092,
+    "word": " And",
+    "end": 184.192
+   },
+   {
+    "start": 184.192,
+    "word": " the",
+    "end": 184.292
+   },
+   {
+    "start": 184.292,
+    "word": " winner",
+    "end": 184.592
+   },
+   {
+    "start": 184.592,
+    "word": " is",
+    "end": 187.092
+   }
+  ]
+ },
+ {
+  "start": 187.392,
+  "end": 191.317,
+  "text": "Speed.",
+  "words": [
+   {
+    "start": 187.392,
+    "word": " Speed.",
+    "end": 191.317
+   }
+  ]
+ },
+ {
+  "start": 207.892,
+  "end": 212.892,
+  "text": "WELL, THANK Y'ALL FOR IRL STREAMER. Um",
+  "words": [
+   {
+    "start": 207.892,
+    "word": " WELL,",
+    "end": 208.192
+   },
+   {
+    "start": 208.192,
+    "word": " THANK",
+    "end": 208.492
+   },
+   {
+    "start": 208.492,
+    "word": " Y'ALL",
+    "end": 208.692
+   },
+   {
+    "start": 208.692,
+    "word": " FOR",
+    "end": 208.892
+   },
+   {
+    "start": 208.892,
+    "word": " IRL",
+    "end": 209.392
+   },
+   {
+    "start": 209.392,
+    "word": " STREAMER.",
+    "end": 210.292
+   },
+   {
+    "start": 210.292,
+    "word": " Um",
+    "end": 212.892
+   }
+  ]
+ },
+ {
+  "start": 211.092,
+  "end": 215.092,
+  "text": "it just started with me and Slips, you",
+  "words": [
+   {
+    "start": 211.092,
+    "word": " it",
+    "end": 211.192
+   },
+   {
+    "start": 211.192,
+    "word": " just",
+    "end": 211.39200000000002
+   },
+   {
+    "start": 211.39200000000002,
+    "word": " started",
+    "end": 211.692
+   },
+   {
+    "start": 211.692,
+    "word": " with",
+    "end": 211.89200000000002
+   },
+   {
+    "start": 211.89200000000002,
+    "word": " me",
+    "end": 211.99200000000002
+   },
+   {
+    "start": 211.99200000000002,
+    "word": " and",
+    "end": 212.192
+   },
+   {
+    "start": 212.192,
+    "word": " Slips,",
+    "end": 212.89200000000002
+   },
+   {
+    "start": 212.89200000000002,
+    "word": " you",
+    "end": 215.092
+   }
+  ]
+ },
+ {
+  "start": 212.892,
+  "end": 216.892,
+  "text": "know, just me and the cameraman. And now",
+  "words": [
+   {
+    "start": 212.892,
+    "word": " know,",
+    "end": 213.192
+   },
+   {
+    "start": 213.192,
+    "word": " just",
+    "end": 213.392
+   },
+   {
+    "start": 213.392,
+    "word": " me",
+    "end": 213.492
+   },
+   {
+    "start": 213.492,
+    "word": " and",
+    "end": 213.59199999999998
+   },
+   {
+    "start": 213.59199999999998,
+    "word": " the",
+    "end": 213.692
+   },
+   {
+    "start": 213.692,
+    "word": " cameraman.",
+    "end": 214.692
+   },
+   {
+    "start": 214.692,
+    "word": " And",
+    "end": 214.892
+   },
+   {
+    "start": 214.892,
+    "word": " now",
+    "end": 216.892
+   }
+  ]
+ },
+ {
+  "start": 215.092,
+  "end": 218.792,
+  "text": "all these IRL streamers are just well",
+  "words": [
+   {
+    "start": 215.092,
+    "word": " all",
+    "end": 215.292
+   },
+   {
+    "start": 215.292,
+    "word": " these",
+    "end": 215.49200000000002
+   },
+   {
+    "start": 215.49200000000002,
+    "word": " IRL",
+    "end": 215.89200000000002
+   },
+   {
+    "start": 215.89200000000002,
+    "word": " streamers",
+    "end": 216.292
+   },
+   {
+    "start": 216.292,
+    "word": " are",
+    "end": 216.39200000000002
+   },
+   {
+    "start": 216.39200000000002,
+    "word": " just",
+    "end": 216.592
+   },
+   {
+    "start": 216.592,
+    "word": " well",
+    "end": 218.792
+   }
+  ]
+ },
+ {
+  "start": 216.892,
+  "end": 220.692,
+  "text": "more produced and I have a whole team",
+  "words": [
+   {
+    "start": 216.892,
+    "word": " more",
+    "end": 217.492
+   },
+   {
+    "start": 217.492,
+    "word": " produced",
+    "end": 217.992
+   },
+   {
+    "start": 217.992,
+    "word": " and",
+    "end": 218.09199999999998
+   },
+   {
+    "start": 218.09199999999998,
+    "word": " I",
+    "end": 218.192
+   },
+   {
+    "start": 218.192,
+    "word": " have",
+    "end": 218.292
+   },
+   {
+    "start": 218.292,
+    "word": " a whole",
+    "end": 218.59199999999998
+   },
+   {
+    "start": 218.59199999999998,
+    "word": " team",
+    "end": 220.692
+   }
+  ]
+ },
+ {
+  "start": 218.792,
+  "end": 223.092,
+  "text": "behind them, man. I want to thank my",
+  "words": [
+   {
+    "start": 218.792,
+    "word": " behind",
+    "end": 219.192
+   },
+   {
+    "start": 219.192,
+    "word": " them,",
+    "end": 219.292
+   },
+   {
+    "start": 219.292,
+    "word": " man.",
+    "end": 219.992
+   },
+   {
+    "start": 219.992,
+    "word": " I",
+    "end": 220.092
+   },
+   {
+    "start": 220.092,
+    "word": " want",
+    "end": 220.292
+   },
+   {
+    "start": 220.292,
+    "word": " to thank",
+    "end": 220.492
+   },
+   {
+    "start": 220.492,
+    "word": " my",
+    "end": 223.092
+   }
+  ]
+ },
+ {
+  "start": 220.692,
+  "end": 224.692,
+  "text": "team because these IRL streams would not",
+  "words": [
+   {
+    "start": 220.692,
+    "word": " team",
+    "end": 221.292
+   },
+   {
+    "start": 221.292,
+    "word": " because",
+    "end": 221.592
+   },
+   {
+    "start": 221.592,
+    "word": " these",
+    "end": 221.892
+   },
+   {
+    "start": 221.892,
+    "word": " IRL",
+    "end": 222.192
+   },
+   {
+    "start": 222.192,
+    "word": " streams",
+    "end": 222.692
+   },
+   {
+    "start": 222.692,
+    "word": " would",
+    "end": 222.792
+   },
+   {
+    "start": 222.792,
+    "word": " not",
+    "end": 224.692
+   }
+  ]
+ },
+ {
+  "start": 223.092,
+  "end": 226.89200000000002,
+  "text": "happen because of my team, man. It",
+  "words": [
+   {
+    "start": 223.092,
+    "word": " happen",
+    "end": 223.39200000000002
+   },
+   {
+    "start": 223.39200000000002,
+    "word": " because",
+    "end": 223.692
+   },
+   {
+    "start": 223.692,
+    "word": " of",
+    "end": 223.792
+   },
+   {
+    "start": 223.792,
+    "word": " my",
+    "end": 223.99200000000002
+   },
+   {
+    "start": 223.99200000000002,
+    "word": " team,",
+    "end": 224.292
+   },
+   {
+    "start": 224.292,
+    "word": " man.",
+    "end": 224.592
+   },
+   {
+    "start": 224.592,
+    "word": " It",
+    "end": 226.89200000000002
+   }
+  ]
+ },
+ {
+  "start": 224.692,
+  "end": 228.99200000000002,
+  "text": "requires a lot of people. And I want to",
+  "words": [
+   {
+    "start": 224.692,
+    "word": " requires",
+    "end": 225.192
+   },
+   {
+    "start": 225.192,
+    "word": " a",
+    "end": 225.292
+   },
+   {
+    "start": 225.292,
+    "word": " lot",
+    "end": 225.49200000000002
+   },
+   {
+    "start": 225.49200000000002,
+    "word": " of",
+    "end": 225.592
+   },
+   {
+    "start": 225.592,
+    "word": " people.",
+    "end": 226.49200000000002
+   },
+   {
+    "start": 226.49200000000002,
+    "word": " And",
+    "end": 226.592
+   },
+   {
+    "start": 226.592,
+    "word": " I",
+    "end": 226.692
+   },
+   {
+    "start": 226.692,
+    "word": " want",
+    "end": 226.792
+   },
+   {
+    "start": 226.792,
+    "word": " to",
+    "end": 228.99200000000002
+   }
+  ]
+ },
+ {
+  "start": 226.892,
+  "end": 231.09199999999998,
+  "text": "thank my fans as well and it's a lot",
+  "words": [
+   {
+    "start": 226.892,
+    "word": " thank",
+    "end": 227.09199999999998
+   },
+   {
+    "start": 227.09199999999998,
+    "word": " my",
+    "end": 227.292
+   },
+   {
+    "start": 227.292,
+    "word": " fans",
+    "end": 227.692
+   },
+   {
+    "start": 227.692,
+    "word": " as",
+    "end": 227.792
+   },
+   {
+    "start": 227.792,
+    "word": " well",
+    "end": 228.392
+   },
+   {
+    "start": 228.392,
+    "word": " and",
+    "end": 228.492
+   },
+   {
+    "start": 228.492,
+    "word": " it's",
+    "end": 228.692
+   },
+   {
+    "start": 228.692,
+    "word": " a",
+    "end": 228.792
+   },
+   {
+    "start": 228.792,
+    "word": " lot",
+    "end": 231.09199999999998
+   }
+  ]
+ },
+ {
+  "start": 228.992,
+  "end": 234.59199999999998,
+  "text": "when I travel around the world",
+  "words": [
+   {
+    "start": 228.992,
+    "word": " when",
+    "end": 229.09199999999998
+   },
+   {
+    "start": 229.09199999999998,
+    "word": " I",
+    "end": 229.392
+   },
+   {
+    "start": 229.392,
+    "word": " travel",
+    "end": 229.69199999999998
+   },
+   {
+    "start": 229.69199999999998,
+    "word": " around",
+    "end": 229.892
+   },
+   {
+    "start": 229.892,
+    "word": " the",
+    "end": 229.992
+   },
+   {
+    "start": 229.992,
+    "word": " world",
+    "end": 234.59199999999998
+   }
+  ]
+ },
+ {
+  "start": 231.092,
+  "end": 236.99200000000002,
+  "text": "and it requires a lot of effort. So",
+  "words": [
+   {
+    "start": 231.092,
+    "word": " and",
+    "end": 231.89200000000002
+   },
+   {
+    "start": 231.89200000000002,
+    "word": " it",
+    "end": 231.99200000000002
+   },
+   {
+    "start": 231.99200000000002,
+    "word": " requires",
+    "end": 232.39200000000002
+   },
+   {
+    "start": 232.39200000000002,
+    "word": " a",
+    "end": 232.49200000000002
+   },
+   {
+    "start": 232.49200000000002,
+    "word": " lot",
+    "end": 232.692
+   },
+   {
+    "start": 232.692,
+    "word": " of",
+    "end": 232.792
+   },
+   {
+    "start": 232.792,
+    "word": " effort.",
+    "end": 233.192
+   },
+   {
+    "start": 233.192,
+    "word": " So",
+    "end": 236.99200000000002
+   }
+  ]
+ },
+ {
+  "start": 234.592,
+  "end": 238.89200000000002,
+  "text": "I do it not just me. It's my whole team",
+  "words": [
+   {
+    "start": 234.592,
+    "word": " I",
+    "end": 234.792
+   },
+   {
+    "start": 234.792,
+    "word": " do",
+    "end": 234.89200000000002
+   },
+   {
+    "start": 234.89200000000002,
+    "word": " it",
+    "end": 234.99200000000002
+   },
+   {
+    "start": 234.99200000000002,
+    "word": " not",
+    "end": 235.292
+   },
+   {
+    "start": 235.292,
+    "word": " just",
+    "end": 235.49200000000002
+   },
+   {
+    "start": 235.49200000000002,
+    "word": " me.",
+    "end": 235.792
+   },
+   {
+    "start": 235.792,
+    "word": " It's",
+    "end": 235.89200000000002
+   },
+   {
+    "start": 235.89200000000002,
+    "word": " my",
+    "end": 235.99200000000002
+   },
+   {
+    "start": 235.99200000000002,
+    "word": " whole",
+    "end": 236.292
+   },
+   {
+    "start": 236.292,
+    "word": " team",
+    "end": 238.89200000000002
+   }
+  ]
+ },
+ {
+  "start": 236.992,
+  "end": 240.39399999999998,
+  "text": "and most definitely my cameraman just",
+  "words": [
+   {
+    "start": 236.992,
+    "word": " and",
+    "end": 237.19199999999998
+   },
+   {
+    "start": 237.19199999999998,
+    "word": " most",
+    "end": 237.59199999999998
+   },
+   {
+    "start": 237.59199999999998,
+    "word": " definitely",
+    "end": 237.892
+   },
+   {
+    "start": 237.892,
+    "word": " my",
+    "end": 238.09199999999998
+   },
+   {
+    "start": 238.09199999999998,
+    "word": " cameraman",
+    "end": 238.69199999999998
+   },
+   {
+    "start": 238.69199999999998,
+    "word": " just",
+    "end": 240.39399999999998
+   }
+  ]
+ },
+ {
+  "start": 238.892,
+  "end": 242.352,
+  "text": "started with me. That's all I wanted to",
+  "words": [
+   {
+    "start": 238.892,
+    "word": " started",
+    "end": 239.192
+   },
+   {
+    "start": 239.192,
+    "word": " with",
+    "end": 239.292
+   },
+   {
+    "start": 239.292,
+    "word": " me.",
+    "end": 239.59199999999998
+   },
+   {
+    "start": 239.59199999999998,
+    "word": " That's",
+    "end": 239.792
+   },
+   {
+    "start": 239.792,
+    "word": " all",
+    "end": 239.992
+   },
+   {
+    "start": 239.992,
+    "word": " I wanted",
+    "end": 240.292
+   },
+   {
+    "start": 240.292,
+    "word": " to",
+    "end": 242.352
+   }
+  ]
+ },
+ {
+  "start": 240.394,
+  "end": 244.372,
+  "text": "say thank y'all.",
+  "words": [
+   {
+    "start": 240.394,
+    "word": " say",
+    "end": 240.794
+   },
+   {
+    "start": 240.794,
+    "word": " thank",
+    "end": 241.094
+   },
+   {
+    "start": 241.094,
+    "word": " y'all.",
+    "end": 244.372
+   }
+  ]
+ },
+ {
+  "start": 244.494,
+  "end": 248.094,
+  "text": "One, two.",
+  "words": [
+   {
+    "start": 244.494,
+    "word": " One,",
+    "end": 245.294
+   },
+   {
+    "start": 245.294,
+    "word": " two.",
+    "end": 248.094
+   }
+  ]
+ },
+ {
+  "start": 246.994,
+  "end": 250.894,
+  "text": "What would you like to say specifically",
+  "words": [
+   {
+    "start": 246.994,
+    "word": " What",
+    "end": 247.094
+   },
+   {
+    "start": 247.094,
+    "word": " would",
+    "end": 247.194
+   },
+   {
+    "start": 247.194,
+    "word": " you like",
+    "end": 247.294
+   },
+   {
+    "start": 247.294,
+    "word": " to",
+    "end": 247.394
+   },
+   {
+    "start": 247.394,
+    "word": " say",
+    "end": 247.594
+   },
+   {
+    "start": 247.594,
+    "word": " specifically",
+    "end": 250.894
+   }
+  ]
+ },
+ {
+  "start": 248.094,
+  "end": 253.094,
+  "text": "to your community? Just your community.",
+  "words": [
+   {
+    "start": 248.094,
+    "word": " to",
+    "end": 248.29399999999998
+   },
+   {
+    "start": 248.29399999999998,
+    "word": " your",
+    "end": 248.594
+   },
+   {
+    "start": 248.594,
+    "word": " community?",
+    "end": 248.994
+   },
+   {
+    "start": 248.994,
+    "word": " Just",
+    "end": 249.29399999999998
+   },
+   {
+    "start": 249.29399999999998,
+    "word": " your",
+    "end": 249.594
+   },
+   {
+    "start": 249.594,
+    "word": " community.",
+    "end": 253.094
+   }
+  ]
+ },
+ {
+  "start": 250.894,
+  "end": 254.294,
+  "text": "Turn me up. Speed",
+  "words": [
+   {
+    "start": 250.894,
+    "word": " Turn",
+    "end": 251.094
+   },
+   {
+    "start": 251.094,
+    "word": " me",
+    "end": 251.19400000000002
+   },
+   {
+    "start": 251.19400000000002,
+    "word": " up.",
+    "end": 251.594
+   },
+   {
+    "start": 251.594,
+    "word": " Speed",
+    "end": 254.294
+   }
+  ]
+ },
+ {
+  "start": 253.094,
+  "end": 255.994,
+  "text": "gang.",
+  "words": [
+   {
+    "start": 253.094,
+    "word": " gang.",
+    "end": 255.994
+   }
+  ]
+ },
+ {
+  "start": 254.294,
+  "end": 256.894,
+  "text": "Say no more. I thank y'all.",
+  "words": [
+   {
+    "start": 254.294,
+    "word": " Say",
+    "end": 254.394
+   },
+   {
+    "start": 254.394,
+    "word": " no",
+    "end": 254.494
+   },
+   {
+    "start": 254.494,
+    "word": " more.",
+    "end": 254.69400000000002
+   },
+   {
+    "start": 254.69400000000002,
+    "word": " I",
+    "end": 254.794
+   },
+   {
+    "start": 254.794,
+    "word": " thank",
+    "end": 255.09400000000002
+   },
+   {
+    "start": 255.09400000000002,
+    "word": " y'all.",
+    "end": 256.894
+   }
+  ]
+ },
+ {
+  "start": 255.994,
+  "end": 258.394,
+  "text": "I love y'all.",
+  "words": [
+   {
+    "start": 255.994,
+    "word": " I",
+    "end": 256.094
+   },
+   {
+    "start": 256.094,
+    "word": " love",
+    "end": 256.294
+   },
+   {
+    "start": 256.294,
+    "word": " y'all.",
+    "end": 258.394
+   }
+  ]
+ },
+ {
+  "start": 256.894,
+  "end": 260.694,
+  "text": "This year's nominees for League OF THEIR",
+  "words": [
+   {
+    "start": 256.894,
+    "word": " This",
+    "end": 257.094
+   },
+   {
+    "start": 257.094,
+    "word": " year's",
+    "end": 257.294
+   },
+   {
+    "start": 257.294,
+    "word": " nominees",
+    "end": 257.694
+   },
+   {
+    "start": 257.694,
+    "word": " for",
+    "end": 257.894
+   },
+   {
+    "start": 257.894,
+    "word": " League",
+    "end": 258.094
+   },
+   {
+    "start": 258.094,
+    "word": " OF",
+    "end": 258.194
+   },
+   {
+    "start": 258.194,
+    "word": " THEIR",
+    "end": 260.694
+   }
+  ]
+ },
+ {
+  "start": 258.394,
+  "end": 260.694,
+  "text": "OWN.",
+  "words": [
+   {
+    "start": 258.394,
+    "word": " OWN.",
+    "end": 260.694
+   }
+  ]
+ },
+ {
+  "start": 262.594,
+  "end": 265.98699999999997,
+  "text": "OH MY GOD.",
+  "words": [
+   {
+    "start": 262.594,
+    "word": " OH MY",
+    "end": 262.694
+   },
+   {
+    "start": 262.694,
+    "word": " GOD.",
+    "end": 265.98699999999997
+   }
+  ]
+ },
+ {
+  "start": 266.694,
+  "end": 271.194,
+  "text": "W YOU KIND OF CHAT, MAN.",
+  "words": [
+   {
+    "start": 266.694,
+    "word": " W",
+    "end": 266.894
+   },
+   {
+    "start": 266.894,
+    "word": " YOU",
+    "end": 266.994
+   },
+   {
+    "start": 266.994,
+    "word": " KIND",
+    "end": 267.394
+   },
+   {
+    "start": 267.394,
+    "word": " OF",
+    "end": 267.494
+   },
+   {
+    "start": 267.494,
+    "word": " CHAT,",
+    "end": 268.094
+   },
+   {
+    "start": 268.094,
+    "word": " MAN.",
+    "end": 271.194
+   }
+  ]
+ },
+ {
+  "start": 268.794,
+  "end": 273.49399999999997,
+  "text": "IN LIFE, you have to depend on yourself",
+  "words": [
+   {
+    "start": 268.794,
+    "word": " IN",
+    "end": 268.894
+   },
+   {
+    "start": 268.894,
+    "word": " LIFE,",
+    "end": 269.294
+   },
+   {
+    "start": 269.294,
+    "word": " you",
+    "end": 269.49399999999997
+   },
+   {
+    "start": 269.49399999999997,
+    "word": " have",
+    "end": 269.794
+   },
+   {
+    "start": 269.794,
+    "word": " to",
+    "end": 269.894
+   },
+   {
+    "start": 269.894,
+    "word": " depend",
+    "end": 270.294
+   },
+   {
+    "start": 270.294,
+    "word": " on",
+    "end": 270.49399999999997
+   },
+   {
+    "start": 270.49399999999997,
+    "word": " yourself",
+    "end": 273.49399999999997
+   }
+  ]
+ },
+ {
+  "start": 271.194,
+  "end": 275.494,
+  "text": "and yourself only and you have to build",
+  "words": [
+   {
+    "start": 271.194,
+    "word": " and",
+    "end": 271.29400000000004
+   },
+   {
+    "start": 271.29400000000004,
+    "word": " yourself",
+    "end": 271.694
+   },
+   {
+    "start": 271.694,
+    "word": " only",
+    "end": 271.994
+   },
+   {
+    "start": 271.994,
+    "word": " and",
+    "end": 272.094
+   },
+   {
+    "start": 272.094,
+    "word": " you",
+    "end": 272.194
+   },
+   {
+    "start": 272.194,
+    "word": " have",
+    "end": 272.494
+   },
+   {
+    "start": 272.494,
+    "word": " to",
+    "end": 272.594
+   },
+   {
+    "start": 272.594,
+    "word": " build",
+    "end": 275.494
+   }
+  ]
+ },
+ {
+  "start": 273.494,
+  "end": 276.894,
+  "text": "the story that you want to build. And to",
+  "words": [
+   {
+    "start": 273.494,
+    "word": " the",
+    "end": 273.59400000000005
+   },
+   {
+    "start": 273.59400000000005,
+    "word": " story",
+    "end": 273.894
+   },
+   {
+    "start": 273.894,
+    "word": " that",
+    "end": 274.09400000000005
+   },
+   {
+    "start": 274.09400000000005,
+    "word": " you",
+    "end": 274.194
+   },
+   {
+    "start": 274.194,
+    "word": " want",
+    "end": 274.29400000000004
+   },
+   {
+    "start": 274.29400000000004,
+    "word": " to",
+    "end": 274.394
+   },
+   {
+    "start": 274.394,
+    "word": " build.",
+    "end": 275.194
+   },
+   {
+    "start": 275.194,
+    "word": " And",
+    "end": 275.394
+   },
+   {
+    "start": 275.394,
+    "word": " to",
+    "end": 276.894
+   }
+  ]
+ },
+ {
+  "start": 275.494,
+  "end": 278.694,
+  "text": "get this award, it really means a lot",
+  "words": [
+   {
+    "start": 275.494,
+    "word": " get",
+    "end": 275.59400000000005
+   },
+   {
+    "start": 275.59400000000005,
+    "word": " this",
+    "end": 275.694
+   },
+   {
+    "start": 275.694,
+    "word": " award,",
+    "end": 275.994
+   },
+   {
+    "start": 275.994,
+    "word": " it",
+    "end": 276.09400000000005
+   },
+   {
+    "start": 276.09400000000005,
+    "word": " really",
+    "end": 276.29400000000004
+   },
+   {
+    "start": 276.29400000000004,
+    "word": " means",
+    "end": 276.494
+   },
+   {
+    "start": 276.494,
+    "word": " a",
+    "end": 276.59400000000005
+   },
+   {
+    "start": 276.59400000000005,
+    "word": " lot",
+    "end": 278.694
+   }
+  ]
+ },
+ {
+  "start": 276.894,
+  "end": 280.594,
+  "text": "because last year I took a risk at",
+  "words": [
+   {
+    "start": 276.894,
+    "word": " because",
+    "end": 277.094
+   },
+   {
+    "start": 277.094,
+    "word": " last",
+    "end": 277.394
+   },
+   {
+    "start": 277.394,
+    "word": " year",
+    "end": 277.494
+   },
+   {
+    "start": 277.494,
+    "word": " I",
+    "end": 277.594
+   },
+   {
+    "start": 277.594,
+    "word": " took",
+    "end": 277.794
+   },
+   {
+    "start": 277.794,
+    "word": " a",
+    "end": 277.894
+   },
+   {
+    "start": 277.894,
+    "word": " risk",
+    "end": 278.394
+   },
+   {
+    "start": 278.394,
+    "word": " at",
+    "end": 280.594
+   }
+  ]
+ },
+ {
+  "start": 278.694,
+  "end": 282.894,
+  "text": "chasing a dream that I personally wanted",
+  "words": [
+   {
+    "start": 278.694,
+    "word": " chasing",
+    "end": 278.994
+   },
+   {
+    "start": 278.994,
+    "word": " a dream",
+    "end": 279.29400000000004
+   },
+   {
+    "start": 279.29400000000004,
+    "word": " that",
+    "end": 279.694
+   },
+   {
+    "start": 279.694,
+    "word": " I",
+    "end": 279.894
+   },
+   {
+    "start": 279.894,
+    "word": " personally",
+    "end": 280.29400000000004
+   },
+   {
+    "start": 280.29400000000004,
+    "word": " wanted",
+    "end": 282.894
+   }
+  ]
+ },
+ {
+  "start": 280.594,
+  "end": 285.094,
+  "text": "to do and achieve and it was able to get",
+  "words": [
+   {
+    "start": 280.594,
+    "word": " to",
+    "end": 280.694
+   },
+   {
+    "start": 280.694,
+    "word": " do",
+    "end": 280.894
+   },
+   {
+    "start": 280.894,
+    "word": " and achieve",
+    "end": 281.394
+   },
+   {
+    "start": 281.394,
+    "word": " and",
+    "end": 282.094
+   },
+   {
+    "start": 282.094,
+    "word": " it",
+    "end": 282.194
+   },
+   {
+    "start": 282.194,
+    "word": " was",
+    "end": 282.394
+   },
+   {
+    "start": 282.394,
+    "word": " able",
+    "end": 282.594
+   },
+   {
+    "start": 282.594,
+    "word": " to",
+    "end": 282.794
+   },
+   {
+    "start": 282.794,
+    "word": " get",
+    "end": 285.094
+   }
+  ]
+ },
+ {
+  "start": 282.894,
+  "end": 286.894,
+  "text": "done. Thank God. Thank everybody who",
+  "words": [
+   {
+    "start": 282.894,
+    "word": " done.",
+    "end": 283.494
+   },
+   {
+    "start": 283.494,
+    "word": " Thank",
+    "end": 283.694
+   },
+   {
+    "start": 283.694,
+    "word": " God.",
+    "end": 284.394
+   },
+   {
+    "start": 284.394,
+    "word": " Thank",
+    "end": 284.594
+   },
+   {
+    "start": 284.594,
+    "word": " everybody",
+    "end": 284.994
+   },
+   {
+    "start": 284.994,
+    "word": " who",
+    "end": 286.894
+   }
+  ]
+ },
+ {
+  "start": 285.094,
+  "end": 287.548,
+  "text": "voted me and appreciate it. THANK YOU SO",
+  "words": [
+   {
+    "start": 285.094,
+    "word": " voted",
+    "end": 285.394
+   },
+   {
+    "start": 285.394,
+    "word": " me",
+    "end": 285.594
+   },
+   {
+    "start": 285.594,
+    "word": " and",
+    "end": 286.094
+   },
+   {
+    "start": 286.094,
+    "word": " appreciate",
+    "end": 286.394
+   },
+   {
+    "start": 286.394,
+    "word": " it.",
+    "end": 286.49399999999997
+   },
+   {
+    "start": 286.49399999999997,
+    "word": " THANK",
+    "end": 286.694
+   },
+   {
+    "start": 286.694,
+    "word": " YOU SO",
+    "end": 287.548
+   }
+  ]
+ },
+ {
+  "start": 286.894,
+  "end": 288.858,
+  "text": "MUCH.",
+  "words": [
+   {
+    "start": 286.894,
+    "word": " MUCH.",
+    "end": 288.858
+   }
+  ]
+ },
+ {
+  "start": 290.694,
+  "end": 295.79400000000004,
+  "text": "TELL YOU SPEED, BRO. NO CAP.",
+  "words": [
+   {
+    "start": 290.694,
+    "word": " TELL",
+    "end": 290.894
+   },
+   {
+    "start": 290.894,
+    "word": " YOU",
+    "end": 291.094
+   },
+   {
+    "start": 291.094,
+    "word": " SPEED,",
+    "end": 291.394
+   },
+   {
+    "start": 291.394,
+    "word": " BRO.",
+    "end": 291.594
+   },
+   {
+    "start": 291.594,
+    "word": " NO",
+    "end": 292.29400000000004
+   },
+   {
+    "start": 292.29400000000004,
+    "word": " CAP.",
+    "end": 295.79400000000004
+   }
+  ]
+ },
+ {
+  "start": 292.794,
+  "end": 297.19399999999996,
+  "text": "SHOUT OUT TO MY BOY KAI. YEAH, SIR. We",
+  "words": [
+   {
+    "start": 292.794,
+    "word": " SHOUT",
+    "end": 292.894
+   },
+   {
+    "start": 292.894,
+    "word": " OUT",
+    "end": 292.99399999999997
+   },
+   {
+    "start": 292.99399999999997,
+    "word": " TO MY",
+    "end": 293.094
+   },
+   {
+    "start": 293.094,
+    "word": " BOY",
+    "end": 293.294
+   },
+   {
+    "start": 293.294,
+    "word": " KAI.",
+    "end": 294.094
+   },
+   {
+    "start": 294.094,
+    "word": " YEAH,",
+    "end": 294.394
+   },
+   {
+    "start": 294.394,
+    "word": " SIR.",
+    "end": 295.594
+   },
+   {
+    "start": 295.594,
+    "word": " We",
+    "end": 297.19399999999996
+   }
+  ]
+ },
+ {
+  "start": 295.794,
+  "end": 298.894,
+  "text": "just friends though.",
+  "words": [
+   {
+    "start": 295.794,
+    "word": " just",
+    "end": 296.094
+   },
+   {
+    "start": 296.094,
+    "word": " friends",
+    "end": 296.594
+   },
+   {
+    "start": 296.594,
+    "word": " though.",
+    "end": 298.894
+   }
+  ]
+ },
+ {
+  "start": 297.194,
+  "end": 300.494,
+  "text": "Presenting the award for Streamer of the",
+  "words": [
+   {
+    "start": 297.194,
+    "word": " Presenting",
+    "end": 297.694
+   },
+   {
+    "start": 297.694,
+    "word": " the",
+    "end": 297.79400000000004
+   },
+   {
+    "start": 297.79400000000004,
+    "word": " award",
+    "end": 298.194
+   },
+   {
+    "start": 298.194,
+    "word": " for",
+    "end": 298.394
+   },
+   {
+    "start": 298.394,
+    "word": " Streamer",
+    "end": 298.694
+   },
+   {
+    "start": 298.694,
+    "word": " of",
+    "end": 298.79400000000004
+   },
+   {
+    "start": 298.79400000000004,
+    "word": " the",
+    "end": 300.494
+   }
+  ]
+ },
+ {
+  "start": 298.894,
+  "end": 302.494,
+  "text": "Year brought to us by YouTube.",
+  "words": [
+   {
+    "start": 298.894,
+    "word": " Year",
+    "end": 299.294
+   },
+   {
+    "start": 299.294,
+    "word": " brought",
+    "end": 299.494
+   },
+   {
+    "start": 299.494,
+    "word": " to",
+    "end": 299.594
+   },
+   {
+    "start": 299.594,
+    "word": " us",
+    "end": 299.694
+   },
+   {
+    "start": 299.694,
+    "word": " by",
+    "end": 299.894
+   },
+   {
+    "start": 299.894,
+    "word": " YouTube.",
+    "end": 302.494
+   }
+  ]
+ },
+ {
+  "start": 300.494,
+  "end": 305.994,
+  "text": "The nominees for Streamer of the Year",
+  "words": [
+   {
+    "start": 300.494,
+    "word": " The nominees",
+    "end": 301.09400000000005
+   },
+   {
+    "start": 301.09400000000005,
+    "word": " for",
+    "end": 301.394
+   },
+   {
+    "start": 301.394,
+    "word": " Streamer",
+    "end": 301.79400000000004
+   },
+   {
+    "start": 301.79400000000004,
+    "word": " of",
+    "end": 301.894
+   },
+   {
+    "start": 301.894,
+    "word": " the",
+    "end": 301.994
+   },
+   {
+    "start": 301.994,
+    "word": " Year",
+    "end": 305.994
+   }
+  ]
+ },
+ {
+  "start": 302.494,
+  "end": 305.994,
+  "text": "presented by YouTube are",
+  "words": [
+   {
+    "start": 302.494,
+    "word": " presented",
+    "end": 302.894
+   },
+   {
+    "start": 302.894,
+    "word": " by",
+    "end": 303.09400000000005
+   },
+   {
+    "start": 303.09400000000005,
+    "word": " YouTube",
+    "end": 303.694
+   },
+   {
+    "start": 303.694,
+    "word": " are",
+    "end": 305.994
+   }
+  ]
+ },
+ {
+  "start": 308.694,
+  "end": 311.783,
+  "text": "MY BOY BLUE.",
+  "words": [
+   {
+    "start": 308.694,
+    "word": " MY",
+    "end": 308.79400000000004
+   },
+   {
+    "start": 308.79400000000004,
+    "word": " BOY",
+    "end": 309.094
+   },
+   {
+    "start": 309.094,
+    "word": " BLUE.",
+    "end": 311.783
+   }
+  ]
+ },
+ {
+  "start": 309.794,
+  "end": 312.69399999999996,
+  "text": "JINXII.",
+  "words": [
+   {
+    "start": 309.794,
+    "word": " JINXII.",
+    "end": 312.69399999999996
+   }
+  ]
+ },
+ {
+  "start": 312.694,
+  "end": 316.894,
+  "text": "JO BARTOLOZZI.",
+  "words": [
+   {
+    "start": 312.694,
+    "word": " JO",
+    "end": 313.094
+   },
+   {
+    "start": 313.094,
+    "word": " BARTOLOZZI.",
+    "end": 316.894
+   }
+  ]
+ },
+ {
+  "start": 315.094,
+  "end": 318.988,
+  "text": "Kai Cenat.",
+  "words": [
+   {
+    "start": 315.094,
+    "word": " Kai",
+    "end": 315.294
+   },
+   {
+    "start": 315.294,
+    "word": " Cenat.",
+    "end": 318.988
+   }
+  ]
+ },
+ {
+  "start": 316.894,
+  "end": 319.894,
+  "text": "Stable Ronaldo.",
+  "words": [
+   {
+    "start": 316.894,
+    "word": " Stable",
+    "end": 317.594
+   },
+   {
+    "start": 317.594,
+    "word": " Ronaldo.",
+    "end": 319.894
+   }
+  ]
+ },
+ {
+  "start": 319.894,
+  "end": 323.894,
+  "text": "The Streamer of the Year Award goes to",
+  "words": [
+   {
+    "start": 319.894,
+    "word": " The",
+    "end": 319.994
+   },
+   {
+    "start": 319.994,
+    "word": " Streamer",
+    "end": 320.694
+   },
+   {
+    "start": 320.694,
+    "word": " of",
+    "end": 320.794
+   },
+   {
+    "start": 320.794,
+    "word": " the",
+    "end": 320.894
+   },
+   {
+    "start": 320.894,
+    "word": " Year",
+    "end": 321.194
+   },
+   {
+    "start": 321.194,
+    "word": " Award",
+    "end": 321.594
+   },
+   {
+    "start": 321.594,
+    "word": " goes",
+    "end": 321.994
+   },
+   {
+    "start": 321.994,
+    "word": " to",
+    "end": 323.894
+   }
+  ]
+ },
+ {
+  "start": 323.894,
+  "end": 326.894,
+  "text": "I SHOW SPEED.",
+  "words": [
+   {
+    "start": 323.894,
+    "word": " I",
+    "end": 324.094
+   },
+   {
+    "start": 324.094,
+    "word": " SHOW",
+    "end": 324.394
+   },
+   {
+    "start": 324.394,
+    "word": " SPEED.",
+    "end": 326.894
+   }
+  ]
+ },
+ {
+  "start": 370.895,
+  "end": 374.895,
+  "text": "DID IT AGAIN, BABY.",
+  "words": [
+   {
+    "start": 370.895,
+    "word": " DID",
+    "end": 370.995
+   },
+   {
+    "start": 370.995,
+    "word": " IT",
+    "end": 371.09499999999997
+   },
+   {
+    "start": 371.09499999999997,
+    "word": " AGAIN,",
+    "end": 371.395
+   },
+   {
+    "start": 371.395,
+    "word": " BABY.",
+    "end": 374.895
+   }
+  ]
+ },
+ {
+  "start": 373.195,
+  "end": 377.59499999999997,
+  "text": "STREAM OF THE YEAR, MAN.",
+  "words": [
+   {
+    "start": 373.195,
+    "word": " STREAM",
+    "end": 373.395
+   },
+   {
+    "start": 373.395,
+    "word": " OF",
+    "end": 373.495
+   },
+   {
+    "start": 373.495,
+    "word": " THE YEAR,",
+    "end": 373.795
+   },
+   {
+    "start": 373.795,
+    "word": " MAN.",
+    "end": 377.59499999999997
+   }
+  ]
+ },
+ {
+  "start": 374.895,
+  "end": 378.995,
+  "text": "I GUESS I'm happy. Wow. I guess this is",
+  "words": [
+   {
+    "start": 374.895,
+    "word": " I",
+    "end": 374.995
+   },
+   {
+    "start": 374.995,
+    "word": " GUESS",
+    "end": 375.195
+   },
+   {
+    "start": 375.195,
+    "word": " I'm",
+    "end": 375.395
+   },
+   {
+    "start": 375.395,
+    "word": " happy.",
+    "end": 376.195
+   },
+   {
+    "start": 376.195,
+    "word": " Wow.",
+    "end": 376.995
+   },
+   {
+    "start": 376.995,
+    "word": " I",
+    "end": 377.09499999999997
+   },
+   {
+    "start": 377.09499999999997,
+    "word": " guess",
+    "end": 377.395
+   },
+   {
+    "start": 377.395,
+    "word": " this",
+    "end": 377.495
+   },
+   {
+    "start": 377.495,
+    "word": " is",
+    "end": 378.995
+   }
+  ]
+ },
+ {
+  "start": 377.595,
+  "end": 380.595,
+  "text": "a happy feeling,",
+  "words": [
+   {
+    "start": 377.595,
+    "word": " a",
+    "end": 377.69500000000005
+   },
+   {
+    "start": 377.69500000000005,
+    "word": " happy",
+    "end": 377.995
+   },
+   {
+    "start": 377.995,
+    "word": " feeling,",
+    "end": 380.595
+   }
+  ]
+ },
+ {
+  "start": 378.995,
+  "end": 381.395,
+  "text": "you know?",
+  "words": [
+   {
+    "start": 378.995,
+    "word": " you",
+    "end": 379.095
+   },
+   {
+    "start": 379.095,
+    "word": " know?",
+    "end": 381.395
+   }
+  ]
+ },
+ {
+  "start": 380.595,
+  "end": 383.295,
+  "text": "Ain't it?",
+  "words": [
+   {
+    "start": 380.595,
+    "word": " Ain't",
+    "end": 380.69500000000005
+   },
+   {
+    "start": 380.69500000000005,
+    "word": " it?",
+    "end": 383.295
+   }
+  ]
+ },
+ {
+  "start": 381.395,
+  "end": 384.79499999999996,
+  "text": "Speed, can I get a selfie with you?",
+  "words": [
+   {
+    "start": 381.395,
+    "word": " Speed,",
+    "end": 381.59499999999997
+   },
+   {
+    "start": 381.59499999999997,
+    "word": " can",
+    "end": 381.79499999999996
+   },
+   {
+    "start": 381.79499999999996,
+    "word": " I get",
+    "end": 381.995
+   },
+   {
+    "start": 381.995,
+    "word": " a",
+    "end": 382.09499999999997
+   },
+   {
+    "start": 382.09499999999997,
+    "word": " selfie",
+    "end": 382.395
+   },
+   {
+    "start": 382.395,
+    "word": " with",
+    "end": 382.59499999999997
+   },
+   {
+    "start": 382.59499999999997,
+    "word": " you?",
+    "end": 384.79499999999996
+   }
+  ]
+ },
+ {
+  "start": 383.295,
+  "end": 386.495,
+  "text": "You want a selfie after I just won an",
+  "words": [
+   {
+    "start": 383.295,
+    "word": " You",
+    "end": 383.39500000000004
+   },
+   {
+    "start": 383.39500000000004,
+    "word": " want",
+    "end": 383.495
+   },
+   {
+    "start": 383.495,
+    "word": " a",
+    "end": 383.595
+   },
+   {
+    "start": 383.595,
+    "word": " selfie",
+    "end": 383.995
+   },
+   {
+    "start": 383.995,
+    "word": " after",
+    "end": 384.295
+   },
+   {
+    "start": 384.295,
+    "word": " I just",
+    "end": 384.495
+   },
+   {
+    "start": 384.495,
+    "word": " won",
+    "end": 384.695
+   },
+   {
+    "start": 384.695,
+    "word": " an",
+    "end": 386.495
+   }
+  ]
+ },
+ {
+  "start": 384.795,
+  "end": 388.41900000000004,
+  "text": "award? Of course. I thought it was the",
+  "words": [
+   {
+    "start": 384.795,
+    "word": " award?",
+    "end": 385.195
+   },
+   {
+    "start": 385.195,
+    "word": " Of",
+    "end": 385.295
+   },
+   {
+    "start": 385.295,
+    "word": " course.",
+    "end": 385.995
+   },
+   {
+    "start": 385.995,
+    "word": " I",
+    "end": 386.095
+   },
+   {
+    "start": 386.095,
+    "word": " thought",
+    "end": 386.295
+   },
+   {
+    "start": 386.295,
+    "word": " it was",
+    "end": 386.39500000000004
+   },
+   {
+    "start": 386.39500000000004,
+    "word": " the",
+    "end": 388.41900000000004
+   }
+  ]
+ },
+ {
+  "start": 386.495,
+  "end": 389.395,
+  "text": "best time to ask for something.",
+  "words": [
+   {
+    "start": 386.495,
+    "word": " best",
+    "end": 386.695
+   },
+   {
+    "start": 386.695,
+    "word": " time",
+    "end": 386.895
+   },
+   {
+    "start": 386.895,
+    "word": " to",
+    "end": 386.995
+   },
+   {
+    "start": 386.995,
+    "word": " ask",
+    "end": 387.295
+   },
+   {
+    "start": 387.295,
+    "word": " for",
+    "end": 387.395
+   },
+   {
+    "start": 387.395,
+    "word": " something.",
+    "end": 389.395
+   }
+  ]
+ },
+ {
+  "start": 389.395,
+  "end": 391.29499999999996,
+  "text": "Congratulations.",
+  "words": [
+   {
+    "start": 389.395,
+    "word": " Congratulations.",
+    "end": 391.29499999999996
+   }
+  ]
+ },
+ {
+  "start": 390.195,
+  "end": 393.295,
+  "text": "Thank you. Appreciate that.",
+  "words": [
+   {
+    "start": 390.195,
+    "word": " Thank",
+    "end": 390.295
+   },
+   {
+    "start": 390.295,
+    "word": " you.",
+    "end": 390.395
+   },
+   {
+    "start": 390.395,
+    "word": " Appreciate",
+    "end": 390.895
+   },
+   {
+    "start": 390.895,
+    "word": " that.",
+    "end": 393.295
+   }
+  ]
+ },
+ {
+  "start": 391.295,
+  "end": 394.695,
+  "text": "Look how big you are, NJ, bro.",
+  "words": [
+   {
+    "start": 391.295,
+    "word": " Look",
+    "end": 391.495
+   },
+   {
+    "start": 391.495,
+    "word": " how big",
+    "end": 391.595
+   },
+   {
+    "start": 391.595,
+    "word": " you",
+    "end": 391.795
+   },
+   {
+    "start": 391.795,
+    "word": " are,",
+    "end": 392.195
+   },
+   {
+    "start": 392.195,
+    "word": " NJ,",
+    "end": 392.495
+   },
+   {
+    "start": 392.495,
+    "word": " bro.",
+    "end": 394.695
+   }
+  ]
+ },
+ {
+  "start": 393.295,
+  "end": 396.295,
+  "text": "What the you talking about?",
+  "words": [
+   {
+    "start": 393.295,
+    "word": " What",
+    "end": 393.39500000000004
+   },
+   {
+    "start": 393.39500000000004,
+    "word": " the",
+    "end": 393.695
+   },
+   {
+    "start": 393.695,
+    "word": " you",
+    "end": 393.795
+   },
+   {
+    "start": 393.795,
+    "word": " talking",
+    "end": 394.095
+   },
+   {
+    "start": 394.095,
+    "word": " about?",
+    "end": 396.295
+   }
+  ]
+ },
+ {
+  "start": 394.695,
+  "end": 398.09499999999997,
+  "text": "Why you why you speaking so softly?",
+  "words": [
+   {
+    "start": 394.695,
+    "word": " Why",
+    "end": 394.895
+   },
+   {
+    "start": 394.895,
+    "word": " you",
+    "end": 394.995
+   },
+   {
+    "start": 394.995,
+    "word": " why",
+    "end": 395.09499999999997
+   },
+   {
+    "start": 395.09499999999997,
+    "word": " you",
+    "end": 395.195
+   },
+   {
+    "start": 395.195,
+    "word": " speaking",
+    "end": 395.495
+   },
+   {
+    "start": 395.495,
+    "word": " so",
+    "end": 395.695
+   },
+   {
+    "start": 395.695,
+    "word": " softly?",
+    "end": 398.09499999999997
+   }
+  ]
+ },
+ {
+  "start": 396.295,
+  "end": 399.55400000000003,
+  "text": "How am I speaking softly, BRO?",
+  "words": [
+   {
+    "start": 396.295,
+    "word": " How",
+    "end": 396.495
+   },
+   {
+    "start": 396.495,
+    "word": " am",
+    "end": 396.595
+   },
+   {
+    "start": 396.595,
+    "word": " I",
+    "end": 396.695
+   },
+   {
+    "start": 396.695,
+    "word": " speaking",
+    "end": 396.995
+   },
+   {
+    "start": 396.995,
+    "word": " softly,",
+    "end": 397.495
+   },
+   {
+    "start": 397.495,
+    "word": " BRO?",
+    "end": 399.55400000000003
+   }
+  ]
+ },
+ {
+  "start": 398.095,
+  "end": 401.574,
+  "text": "YEAH.",
+  "words": [
+   {
+    "start": 398.095,
+    "word": " YEAH.",
+    "end": 401.574
+   }
+  ]
+ },
+ {
+  "start": 403.695,
+  "end": 406.995,
+  "text": "GIVE ME A HUG, MAN.",
+  "words": [
+   {
+    "start": 403.695,
+    "word": " GIVE",
+    "end": 403.795
+   },
+   {
+    "start": 403.795,
+    "word": " ME A",
+    "end": 403.895
+   },
+   {
+    "start": 403.895,
+    "word": " HUG,",
+    "end": 404.09499999999997
+   },
+   {
+    "start": 404.09499999999997,
+    "word": " MAN.",
+    "end": 406.995
+   }
+  ]
+ },
+ {
+  "start": 405.095,
+  "end": 407.795,
+  "text": "GIVE ME A HUG, BRO. YOU YOU",
+  "words": [
+   {
+    "start": 405.095,
+    "word": " GIVE",
+    "end": 405.19500000000005
+   },
+   {
+    "start": 405.19500000000005,
+    "word": " ME",
+    "end": 405.295
+   },
+   {
+    "start": 405.295,
+    "word": " A",
+    "end": 405.39500000000004
+   },
+   {
+    "start": 405.39500000000004,
+    "word": " HUG,",
+    "end": 405.595
+   },
+   {
+    "start": 405.595,
+    "word": " BRO.",
+    "end": 406.39500000000004
+   },
+   {
+    "start": 406.39500000000004,
+    "word": " YOU",
+    "end": 406.795
+   },
+   {
+    "start": 406.795,
+    "word": " YOU",
+    "end": 407.795
+   }
+  ]
+ },
+ {
+  "start": 406.995,
+  "end": 408.895,
+  "text": "DESERVE IT.",
+  "words": [
+   {
+    "start": 406.995,
+    "word": " DESERVE",
+    "end": 407.395
+   },
+   {
+    "start": 407.395,
+    "word": " IT.",
+    "end": 408.895
+   }
+  ]
+ },
+ {
+  "start": 407.795,
+  "end": 409.695,
+  "text": "YEAH.",
+  "words": [
+   {
+    "start": 407.795,
+    "word": " YEAH.",
+    "end": 409.695
+   }
+  ]
+ },
+ {
+  "start": 408.895,
+  "end": 412.995,
+  "text": "Let's get a let's get a picture",
+  "words": [
+   {
+    "start": 408.895,
+    "word": " Let's",
+    "end": 408.995
+   },
+   {
+    "start": 408.995,
+    "word": " get",
+    "end": 409.09499999999997
+   },
+   {
+    "start": 409.09499999999997,
+    "word": " a",
+    "end": 409.195
+   },
+   {
+    "start": 409.195,
+    "word": " let's",
+    "end": 409.29499999999996
+   },
+   {
+    "start": 409.29499999999996,
+    "word": " get",
+    "end": 409.395
+   },
+   {
+    "start": 409.395,
+    "word": " a",
+    "end": 409.495
+   },
+   {
+    "start": 409.495,
+    "word": " picture",
+    "end": 412.995
+   }
+  ]
+ },
+ {
+  "start": 409.695,
+  "end": 412.995,
+  "text": "together. Let's get a picture together.",
+  "words": [
+   {
+    "start": 409.695,
+    "word": " together.",
+    "end": 410.295
+   },
+   {
+    "start": 410.295,
+    "word": " Let's",
+    "end": 410.395
+   },
+   {
+    "start": 410.395,
+    "word": " get",
+    "end": 410.495
+   },
+   {
+    "start": 410.495,
+    "word": " a picture",
+    "end": 410.695
+   },
+   {
+    "start": 410.695,
+    "word": " together.",
+    "end": 412.995
+   }
+  ]
+ },
+ {
+  "start": 413.895,
+  "end": 416.395,
+  "text": "Bro, be safe.",
+  "words": [
+   {
+    "start": 413.895,
+    "word": " Bro,",
+    "end": 414.09499999999997
+   },
+   {
+    "start": 414.09499999999997,
+    "word": " be",
+    "end": 414.29499999999996
+   },
+   {
+    "start": 414.29499999999996,
+    "word": " safe.",
+    "end": 416.395
+   }
+  ]
+ },
+ {
+  "start": 414.795,
+  "end": 417.195,
+  "text": "just to make sure",
+  "words": [
+   {
+    "start": 414.795,
+    "word": " just",
+    "end": 414.995
+   },
+   {
+    "start": 414.995,
+    "word": " to",
+    "end": 415.095
+   },
+   {
+    "start": 415.095,
+    "word": " make",
+    "end": 415.295
+   },
+   {
+    "start": 415.295,
+    "word": " sure",
+    "end": 417.195
+   }
+  ]
+ },
+ {
+  "start": 416.395,
+  "end": 417.895,
+  "text": "I was here",
+  "words": [
+   {
+    "start": 416.395,
+    "word": " I",
+    "end": 416.495
+   },
+   {
+    "start": 416.495,
+    "word": " was",
+    "end": 416.79499999999996
+   },
+   {
+    "start": 416.79499999999996,
+    "word": " here",
+    "end": 417.895
+   }
+  ]
+ },
+ {
+  "start": 417.195,
+  "end": 418.395,
+  "text": "proud of you.",
+  "words": [
+   {
+    "start": 417.195,
+    "word": " proud",
+    "end": 417.495
+   },
+   {
+    "start": 417.495,
+    "word": " of",
+    "end": 417.59499999999997
+   },
+   {
+    "start": 417.59499999999997,
+    "word": " you.",
+    "end": 418.395
+   }
+  ]
+ },
+ {
+  "start": 417.895,
+  "end": 420.195,
+  "text": "Thank you, bro.",
+  "words": [
+   {
+    "start": 417.895,
+    "word": " Thank",
+    "end": 418.09499999999997
+   },
+   {
+    "start": 418.09499999999997,
+    "word": " you,",
+    "end": 418.195
+   },
+   {
+    "start": 418.195,
+    "word": " bro.",
+    "end": 420.195
+   }
+  ]
+ },
+ {
+  "start": 418.395,
+  "end": 420.695,
+  "text": "Keep the pressure going too, all right?",
+  "words": [
+   {
+    "start": 418.395,
+    "word": " Keep",
+    "end": 418.59499999999997
+   },
+   {
+    "start": 418.59499999999997,
+    "word": " the",
+    "end": 418.695
+   },
+   {
+    "start": 418.695,
+    "word": " pressure",
+    "end": 419.195
+   },
+   {
+    "start": 419.195,
+    "word": " going",
+    "end": 419.59499999999997
+   },
+   {
+    "start": 419.59499999999997,
+    "word": " too,",
+    "end": 419.895
+   },
+   {
+    "start": 419.895,
+    "word": " all",
+    "end": 419.995
+   },
+   {
+    "start": 419.995,
+    "word": " right?",
+    "end": 420.695
+   }
+  ]
+ },
+ {
+  "start": 420.195,
+  "end": 421.495,
+  "text": "Oh, yeah.",
+  "words": [
+   {
+    "start": 420.195,
+    "word": " Oh,",
+    "end": 420.295
+   },
+   {
+    "start": 420.295,
+    "word": " yeah.",
+    "end": 421.495
+   }
+  ]
+ },
+ {
+  "start": 420.695,
+  "end": 422.295,
+  "text": "Ain't letting up, bro.",
+  "words": [
+   {
+    "start": 420.695,
+    "word": " Ain't",
+    "end": 420.795
+   },
+   {
+    "start": 420.795,
+    "word": " letting",
+    "end": 421.09499999999997
+   },
+   {
+    "start": 421.09499999999997,
+    "word": " up,",
+    "end": 421.295
+   },
+   {
+    "start": 421.295,
+    "word": " bro.",
+    "end": 422.295
+   }
+  ]
+ },
+ {
+  "start": 421.495,
+  "end": 422.895,
+  "text": "You too, bro.",
+  "words": [
+   {
+    "start": 421.495,
+    "word": " You",
+    "end": 421.695
+   },
+   {
+    "start": 421.695,
+    "word": " too,",
+    "end": 421.895
+   },
+   {
+    "start": 421.895,
+    "word": " bro.",
+    "end": 422.895
+   }
+  ]
+ },
+ {
+  "start": 422.295,
+  "end": 426.295,
+  "text": "sir, of course.",
+  "words": [
+   {
+    "start": 422.295,
+    "word": " sir,",
+    "end": 422.39500000000004
+   },
+   {
+    "start": 422.39500000000004,
+    "word": " of",
+    "end": 422.495
+   },
+   {
+    "start": 422.495,
+    "word": " course.",
+    "end": 426.295
+   }
+  ]
+ },
+ {
+  "start": 422.895,
+  "end": 427.79499999999996,
+  "text": "Like and sub. Somebody do fall.",
+  "words": [
+   {
+    "start": 422.895,
+    "word": " Like",
+    "end": 423.09499999999997
+   },
+   {
+    "start": 423.09499999999997,
+    "word": " and",
+    "end": 423.29499999999996
+   },
+   {
+    "start": 423.29499999999996,
+    "word": " sub.",
+    "end": 423.495
+   },
+   {
+    "start": 423.495,
+    "word": " Somebody",
+    "end": 423.895
+   },
+   {
+    "start": 423.895,
+    "word": " do",
+    "end": 423.995
+   },
+   {
+    "start": 423.995,
+    "word": " fall.",
+    "end": 427.79499999999996
+   }
+  ]
+ },
+ {
+  "start": 426.295,
+  "end": 428.695,
+  "text": "Yo, no no, we're not doing this. We're",
+  "words": [
+   {
+    "start": 426.295,
+    "word": " Yo,",
+    "end": 426.39500000000004
+   },
+   {
+    "start": 426.39500000000004,
+    "word": " no",
+    "end": 426.595
+   },
+   {
+    "start": 426.595,
+    "word": " no,",
+    "end": 426.795
+   },
+   {
+    "start": 426.795,
+    "word": " we're",
+    "end": 426.89500000000004
+   },
+   {
+    "start": 426.89500000000004,
+    "word": " not",
+    "end": 426.995
+   },
+   {
+    "start": 426.995,
+    "word": " doing",
+    "end": 427.195
+   },
+   {
+    "start": 427.195,
+    "word": " this.",
+    "end": 427.695
+   },
+   {
+    "start": 427.695,
+    "word": " We're",
+    "end": 428.695
+   }
+  ]
+ },
+ {
+  "start": 427.795,
+  "end": 429.795,
+  "text": "not doing this.",
+  "words": [
+   {
+    "start": 427.795,
+    "word": " not",
+    "end": 428.095
+   },
+   {
+    "start": 428.095,
+    "word": " doing",
+    "end": 428.495
+   },
+   {
+    "start": 428.495,
+    "word": " this.",
+    "end": 429.795
+   }
+  ]
+ },
+ {
+  "start": 428.695,
+  "end": 430.695,
+  "text": "Hey, that's my boy, bro.",
+  "words": [
+   {
+    "start": 428.695,
+    "word": " Hey,",
+    "end": 428.995
+   },
+   {
+    "start": 428.995,
+    "word": " that's",
+    "end": 429.09499999999997
+   },
+   {
+    "start": 429.09499999999997,
+    "word": " my",
+    "end": 429.295
+   },
+   {
+    "start": 429.295,
+    "word": " boy,",
+    "end": 429.695
+   },
+   {
+    "start": 429.695,
+    "word": " bro.",
+    "end": 430.695
+   }
+  ]
+ },
+ {
+  "start": 429.795,
+  "end": 431.295,
+  "text": "yeah, bro. Congratulations though,",
+  "words": [
+   {
+    "start": 429.795,
+    "word": " yeah,",
+    "end": 429.89500000000004
+   },
+   {
+    "start": 429.89500000000004,
+    "word": " bro.",
+    "end": 430.095
+   },
+   {
+    "start": 430.095,
+    "word": " Congratulations",
+    "end": 430.595
+   },
+   {
+    "start": 430.595,
+    "word": " though,",
+    "end": 431.295
+   }
+  ]
+ },
+ {
+  "start": 430.695,
+  "end": 434.195,
+  "text": "seriously bro.",
+  "words": [
+   {
+    "start": 430.695,
+    "word": " seriously",
+    "end": 431.09499999999997
+   },
+   {
+    "start": 431.09499999999997,
+    "word": " bro.",
+    "end": 434.195
+   }
+  ]
+ },
+ {
+  "start": 431.295,
+  "end": 434.195,
+  "text": "Hell yeah. Hell yeah.",
+  "words": [
+   {
+    "start": 431.295,
+    "word": " Hell",
+    "end": 431.39500000000004
+   },
+   {
+    "start": 431.39500000000004,
+    "word": " yeah.",
+    "end": 431.695
+   },
+   {
+    "start": 431.695,
+    "word": " Hell",
+    "end": 431.89500000000004
+   },
+   {
+    "start": 431.89500000000004,
+    "word": " yeah.",
+    "end": 434.195
+   }
+  ]
+ },
+ {
+  "start": 434.695,
+  "end": 437.295,
+  "text": "Oh my god, bro.",
+  "words": [
+   {
+    "start": 434.695,
+    "word": " Oh",
+    "end": 434.795
+   },
+   {
+    "start": 434.795,
+    "word": " my",
+    "end": 434.995
+   },
+   {
+    "start": 434.995,
+    "word": " god,",
+    "end": 435.295
+   },
+   {
+    "start": 435.295,
+    "word": " bro.",
+    "end": 437.295
+   }
+  ]
+ },
+ {
+  "start": 436.095,
+  "end": 439.095,
+  "text": "Let me get a pic.",
+  "words": [
+   {
+    "start": 436.095,
+    "word": " Let",
+    "end": 436.19500000000005
+   },
+   {
+    "start": 436.19500000000005,
+    "word": " me",
+    "end": 436.295
+   },
+   {
+    "start": 436.295,
+    "word": " get",
+    "end": 436.39500000000004
+   },
+   {
+    "start": 436.39500000000004,
+    "word": " a",
+    "end": 436.495
+   },
+   {
+    "start": 436.495,
+    "word": " pic.",
+    "end": 439.095
+   }
+  ]
+ },
+ {
+  "start": 437.295,
+  "end": 441.195,
+  "text": "Can I get a 10-second interview, sir?",
+  "words": [
+   {
+    "start": 437.295,
+    "word": " Can",
+    "end": 437.39500000000004
+   },
+   {
+    "start": 437.39500000000004,
+    "word": " I",
+    "end": 437.495
+   },
+   {
+    "start": 437.495,
+    "word": " get",
+    "end": 437.695
+   },
+   {
+    "start": 437.695,
+    "word": " a",
+    "end": 437.795
+   },
+   {
+    "start": 437.795,
+    "word": " 10-second",
+    "end": 438.295
+   },
+   {
+    "start": 438.295,
+    "word": " interview,",
+    "end": 438.595
+   },
+   {
+    "start": 438.595,
+    "word": " sir?",
+    "end": 441.195
+   }
+  ]
+ },
+ {
+  "start": 439.095,
+  "end": 443.595,
+  "text": "I I have a question for you. Any advice",
+  "words": [
+   {
+    "start": 439.095,
+    "word": " I",
+    "end": 439.295
+   },
+   {
+    "start": 439.295,
+    "word": " I",
+    "end": 439.39500000000004
+   },
+   {
+    "start": 439.39500000000004,
+    "word": " have",
+    "end": 439.495
+   },
+   {
+    "start": 439.495,
+    "word": " a question",
+    "end": 439.89500000000004
+   },
+   {
+    "start": 439.89500000000004,
+    "word": " for",
+    "end": 439.995
+   },
+   {
+    "start": 439.995,
+    "word": " you.",
+    "end": 440.495
+   },
+   {
+    "start": 440.495,
+    "word": " Any",
+    "end": 440.69500000000005
+   },
+   {
+    "start": 440.69500000000005,
+    "word": " advice",
+    "end": 443.595
+   }
+  ]
+ },
+ {
+  "start": 441.195,
+  "end": 445.395,
+  "text": "for any small content creators, actors,",
+  "words": [
+   {
+    "start": 441.195,
+    "word": " for",
+    "end": 441.295
+   },
+   {
+    "start": 441.295,
+    "word": " any",
+    "end": 441.695
+   },
+   {
+    "start": 441.695,
+    "word": " small",
+    "end": 442.09499999999997
+   },
+   {
+    "start": 442.09499999999997,
+    "word": " content",
+    "end": 442.495
+   },
+   {
+    "start": 442.495,
+    "word": " creators,",
+    "end": 443.09499999999997
+   },
+   {
+    "start": 443.09499999999997,
+    "word": " actors,",
+    "end": 445.395
+   }
+  ]
+ },
+ {
+  "start": 443.595,
+  "end": 447.795,
+  "text": "athletes, anybody chasing a dream? Any",
+  "words": [
+   {
+    "start": 443.595,
+    "word": " athletes,",
+    "end": 443.995
+   },
+   {
+    "start": 443.995,
+    "word": " anybody",
+    "end": 444.495
+   },
+   {
+    "start": 444.495,
+    "word": " chasing",
+    "end": 444.89500000000004
+   },
+   {
+    "start": 444.89500000000004,
+    "word": " a dream?",
+    "end": 445.295
+   },
+   {
+    "start": 445.295,
+    "word": " Any",
+    "end": 447.795
+   }
+  ]
+ },
+ {
+  "start": 445.395,
+  "end": 449.09499999999997,
+  "text": "advice to them?",
+  "words": [
+   {
+    "start": 445.395,
+    "word": " advice",
+    "end": 445.695
+   },
+   {
+    "start": 445.695,
+    "word": " to",
+    "end": 445.79499999999996
+   },
+   {
+    "start": 445.79499999999996,
+    "word": " them?",
+    "end": 449.09499999999997
+   }
+  ]
+ },
+ {
+  "start": 447.795,
+  "end": 451.495,
+  "text": "Discipline is more important than",
+  "words": [
+   {
+    "start": 447.795,
+    "word": " Discipline",
+    "end": 448.195
+   },
+   {
+    "start": 448.195,
+    "word": " is",
+    "end": 448.39500000000004
+   },
+   {
+    "start": 448.39500000000004,
+    "word": " more",
+    "end": 448.595
+   },
+   {
+    "start": 448.595,
+    "word": " important",
+    "end": 448.995
+   },
+   {
+    "start": 448.995,
+    "word": " than",
+    "end": 451.495
+   }
+  ]
+ },
+ {
+  "start": 449.095,
+  "end": 454.19500000000005,
+  "text": "motivation.",
+  "words": [
+   {
+    "start": 449.095,
+    "word": " motivation.",
+    "end": 454.19500000000005
+   }
+  ]
+ },
+ {
+  "start": 451.495,
+  "end": 454.195,
+  "text": "Proud of you, NJ.",
+  "words": [
+   {
+    "start": 451.495,
+    "word": " Proud",
+    "end": 451.695
+   },
+   {
+    "start": 451.695,
+    "word": " of",
+    "end": 451.795
+   },
+   {
+    "start": 451.795,
+    "word": " you,",
+    "end": 452.095
+   },
+   {
+    "start": 452.095,
+    "word": " NJ.",
+    "end": 454.195
+   }
+  ]
+ },
+ {
+  "start": 455.095,
+  "end": 457.69500000000005,
+  "text": "Yo, what is she doing here?",
+  "words": [
+   {
+    "start": 455.095,
+    "word": " Yo,",
+    "end": 455.295
+   },
+   {
+    "start": 455.295,
+    "word": " what",
+    "end": 455.495
+   },
+   {
+    "start": 455.495,
+    "word": " is",
+    "end": 455.595
+   },
+   {
+    "start": 455.595,
+    "word": " she",
+    "end": 455.69500000000005
+   },
+   {
+    "start": 455.69500000000005,
+    "word": " doing",
+    "end": 456.095
+   },
+   {
+    "start": 456.095,
+    "word": " here?",
+    "end": 457.69500000000005
+   }
+  ]
+ },
+ {
+  "start": 456.695,
+  "end": 458.495,
+  "text": "LET ME GET A PIC.",
+  "words": [
+   {
+    "start": 456.695,
+    "word": " LET",
+    "end": 456.895
+   },
+   {
+    "start": 456.895,
+    "word": " ME",
+    "end": 456.995
+   },
+   {
+    "start": 456.995,
+    "word": " GET",
+    "end": 457.09499999999997
+   },
+   {
+    "start": 457.09499999999997,
+    "word": " A",
+    "end": 457.195
+   },
+   {
+    "start": 457.195,
+    "word": " PIC.",
+    "end": 458.495
+   }
+  ]
+ },
+ {
+  "start": 457.695,
+  "end": 459.695,
+  "text": "YO.",
+  "words": [
+   {
+    "start": 457.695,
+    "word": " YO.",
+    "end": 459.695
+   }
+  ]
+ },
+ {
+  "start": 458.495,
+  "end": 460.295,
+  "text": "SPEED, I accidentally",
+  "words": [
+   {
+    "start": 458.495,
+    "word": " SPEED,",
+    "end": 458.595
+   },
+   {
+    "start": 458.595,
+    "word": " I accidentally",
+    "end": 460.295
+   }
+  ]
+ },
+ {
+  "start": 459.695,
+  "end": 462.295,
+  "text": "Bye-bye.",
+  "words": [
+   {
+    "start": 459.695,
+    "word": " Bye-bye.",
+    "end": 462.295
+   }
+  ]
+ },
+ {
+  "start": 460.295,
+  "end": 463.795,
+  "text": "Never mind. Never mind.",
+  "words": [
+   {
+    "start": 460.295,
+    "word": " Never",
+    "end": 460.39500000000004
+   },
+   {
+    "start": 460.39500000000004,
+    "word": " mind.",
+    "end": 460.495
+   },
+   {
+    "start": 460.495,
+    "word": " Never",
+    "end": 460.595
+   },
+   {
+    "start": 460.595,
+    "word": " mind.",
+    "end": 463.795
+   }
+  ]
+ },
+ {
+  "start": 462.295,
+  "end": 465.295,
+  "text": "That was fun.",
+  "words": [
+   {
+    "start": 462.295,
+    "word": " That",
+    "end": 462.39500000000004
+   },
+   {
+    "start": 462.39500000000004,
+    "word": " was",
+    "end": 462.595
+   },
+   {
+    "start": 462.595,
+    "word": " fun.",
+    "end": 465.295
+   }
+  ]
+ },
+ {
+  "start": 463.795,
+  "end": 467.89500000000004,
+  "text": "Hey man, that was it. Stream of the",
+  "words": [
+   {
+    "start": 463.795,
+    "word": " Hey",
+    "end": 463.995
+   },
+   {
+    "start": 463.995,
+    "word": " man,",
+    "end": 464.195
+   },
+   {
+    "start": 464.195,
+    "word": " that",
+    "end": 464.295
+   },
+   {
+    "start": 464.295,
+    "word": " was",
+    "end": 464.495
+   },
+   {
+    "start": 464.495,
+    "word": " it.",
+    "end": 464.89500000000004
+   },
+   {
+    "start": 464.89500000000004,
+    "word": " Stream",
+    "end": 465.195
+   },
+   {
+    "start": 465.195,
+    "word": " of the",
+    "end": 467.89500000000004
+   }
+  ]
+ },
+ {
+  "start": 465.295,
+  "end": 469.295,
+  "text": "year. Three times in a row, so",
+  "words": [
+   {
+    "start": 465.295,
+    "word": " year.",
+    "end": 465.995
+   },
+   {
+    "start": 465.995,
+    "word": " Three",
+    "end": 466.195
+   },
+   {
+    "start": 466.195,
+    "word": " times",
+    "end": 466.495
+   },
+   {
+    "start": 466.495,
+    "word": " in a",
+    "end": 466.595
+   },
+   {
+    "start": 466.595,
+    "word": " row,",
+    "end": 466.89500000000004
+   },
+   {
+    "start": 466.89500000000004,
+    "word": " so",
+    "end": 469.295
+   }
+  ]
+ },
+ {
+  "start": 467.895,
+  "end": 470.495,
+  "text": "exciting, bro.",
+  "words": [
+   {
+    "start": 467.895,
+    "word": " exciting,",
+    "end": 468.29499999999996
+   },
+   {
+    "start": 468.29499999999996,
+    "word": " bro.",
+    "end": 470.495
+   }
+  ]
+ },
+ {
+  "start": 469.295,
+  "end": 473.57,
+  "text": "See what happen next year. We'll see",
+  "words": [
+   {
+    "start": 469.295,
+    "word": " See",
+    "end": 469.39500000000004
+   },
+   {
+    "start": 469.39500000000004,
+    "word": " what",
+    "end": 469.495
+   },
+   {
+    "start": 469.495,
+    "word": " happen",
+    "end": 469.695
+   },
+   {
+    "start": 469.695,
+    "word": " next",
+    "end": 469.995
+   },
+   {
+    "start": 469.995,
+    "word": " year.",
+    "end": 470.195
+   },
+   {
+    "start": 470.195,
+    "word": " We'll",
+    "end": 470.295
+   },
+   {
+    "start": 470.295,
+    "word": " see",
+    "end": 473.57
+   }
+  ]
+ },
+ {
+  "start": 470.495,
+  "end": 475.095,
+  "text": "what happens in 2027. We move on, bro.",
+  "words": [
+   {
+    "start": 470.495,
+    "word": " what",
+    "end": 470.595
+   },
+   {
+    "start": 470.595,
+    "word": " happens",
+    "end": 470.795
+   },
+   {
+    "start": 470.795,
+    "word": " in",
+    "end": 470.895
+   },
+   {
+    "start": 470.895,
+    "word": " 2027.",
+    "end": 471.795
+   },
+   {
+    "start": 471.795,
+    "word": " We",
+    "end": 471.895
+   },
+   {
+    "start": 471.895,
+    "word": " move",
+    "end": 472.095
+   },
+   {
+    "start": 472.095,
+    "word": " on,",
+    "end": 472.395
+   },
+   {
+    "start": 472.395,
+    "word": " bro.",
+    "end": 475.095
+   }
+  ]
+ },
+ {
+  "start": 475.095,
+  "end": 478.495,
+  "text": "Like and sub. Nah, I actually love y'all",
+  "words": [
+   {
+    "start": 475.095,
+    "word": " Like",
+    "end": 475.495
+   },
+   {
+    "start": 475.495,
+    "word": " and",
+    "end": 475.595
+   },
+   {
+    "start": 475.595,
+    "word": " sub.",
+    "end": 475.795
+   },
+   {
+    "start": 475.795,
+    "word": " Nah,",
+    "end": 476.295
+   },
+   {
+    "start": 476.295,
+    "word": " I",
+    "end": 476.39500000000004
+   },
+   {
+    "start": 476.39500000000004,
+    "word": " actually",
+    "end": 476.69500000000005
+   },
+   {
+    "start": 476.69500000000005,
+    "word": " love",
+    "end": 476.89500000000004
+   },
+   {
+    "start": 476.89500000000004,
+    "word": " y'all",
+    "end": 478.495
+   }
+  ]
+ },
+ {
+  "start": 477.095,
+  "end": 480.095,
+  "text": "though. Let me let me be for real. I",
+  "words": [
+   {
+    "start": 477.095,
+    "word": " though.",
+    "end": 477.295
+   },
+   {
+    "start": 477.295,
+    "word": " Let",
+    "end": 477.39500000000004
+   },
+   {
+    "start": 477.39500000000004,
+    "word": " me",
+    "end": 477.495
+   },
+   {
+    "start": 477.495,
+    "word": " let",
+    "end": 477.69500000000005
+   },
+   {
+    "start": 477.69500000000005,
+    "word": " me",
+    "end": 477.795
+   },
+   {
+    "start": 477.795,
+    "word": " be",
+    "end": 477.89500000000004
+   },
+   {
+    "start": 477.89500000000004,
+    "word": " for",
+    "end": 477.995
+   },
+   {
+    "start": 477.995,
+    "word": " real.",
+    "end": 478.39500000000004
+   },
+   {
+    "start": 478.39500000000004,
+    "word": " I",
+    "end": 480.095
+   }
+  ]
+ },
+ {
+  "start": 478.495,
+  "end": 482.195,
+  "text": "love y'all, man. I want to become an",
+  "words": [
+   {
+    "start": 478.495,
+    "word": " love",
+    "end": 478.695
+   },
+   {
+    "start": 478.695,
+    "word": " y'all,",
+    "end": 478.895
+   },
+   {
+    "start": 478.895,
+    "word": " man.",
+    "end": 479.395
+   },
+   {
+    "start": 479.395,
+    "word": " I want",
+    "end": 479.595
+   },
+   {
+    "start": 479.595,
+    "word": " to become",
+    "end": 479.995
+   },
+   {
+    "start": 479.995,
+    "word": " an",
+    "end": 482.195
+   }
+  ]
+ },
+ {
+  "start": 480.095,
+  "end": 484.095,
+  "text": "eGod, dog.",
+  "words": [
+   {
+    "start": 480.095,
+    "word": " eGod,",
+    "end": 480.495
+   },
+   {
+    "start": 480.495,
+    "word": " dog.",
+    "end": 484.095
+   }
+  ]
+ },
+ {
+  "start": 482.195,
+  "end": 486.09499999999997,
+  "text": "I just want to thank my fans, bro. I",
+  "words": [
+   {
+    "start": 482.195,
+    "word": " I",
+    "end": 482.295
+   },
+   {
+    "start": 482.295,
+    "word": " just",
+    "end": 482.395
+   },
+   {
+    "start": 482.395,
+    "word": " want",
+    "end": 482.495
+   },
+   {
+    "start": 482.495,
+    "word": " to",
+    "end": 482.59499999999997
+   },
+   {
+    "start": 482.59499999999997,
+    "word": " thank",
+    "end": 482.795
+   },
+   {
+    "start": 482.795,
+    "word": " my",
+    "end": 482.895
+   },
+   {
+    "start": 482.895,
+    "word": " fans,",
+    "end": 483.295
+   },
+   {
+    "start": 483.295,
+    "word": " bro.",
+    "end": 483.995
+   },
+   {
+    "start": 483.995,
+    "word": " I",
+    "end": 486.09499999999997
+   }
+  ]
+ },
+ {
+  "start": 484.095,
+  "end": 487.69500000000005,
+  "text": "love y'all so much, man. I'm just keep",
+  "words": [
+   {
+    "start": 484.095,
+    "word": " love",
+    "end": 484.295
+   },
+   {
+    "start": 484.295,
+    "word": " y'all",
+    "end": 484.495
+   },
+   {
+    "start": 484.495,
+    "word": " so",
+    "end": 484.69500000000005
+   },
+   {
+    "start": 484.69500000000005,
+    "word": " much,",
+    "end": 484.89500000000004
+   },
+   {
+    "start": 484.89500000000004,
+    "word": " man.",
+    "end": 485.595
+   },
+   {
+    "start": 485.595,
+    "word": " I'm",
+    "end": 485.69500000000005
+   },
+   {
+    "start": 485.69500000000005,
+    "word": " just",
+    "end": 485.89500000000004
+   },
+   {
+    "start": 485.89500000000004,
+    "word": " keep",
+    "end": 487.69500000000005
+   }
+  ]
+ },
+ {
+  "start": 486.095,
+  "end": 489.497,
+  "text": "grinding, bro.",
+  "words": [
+   {
+    "start": 486.095,
+    "word": " grinding,",
+    "end": 486.495
+   },
+   {
+    "start": 486.495,
+    "word": " bro.",
+    "end": 489.497
+   }
+  ]
+ },
+ {
+  "start": 487.695,
+  "end": 491.597,
+  "text": "I'm just keep grinding. Wallahi, I love",
+  "words": [
+   {
+    "start": 487.695,
+    "word": " I'm",
+    "end": 487.79699999999997
+   },
+   {
+    "start": 487.79699999999997,
+    "word": " just",
+    "end": 487.997
+   },
+   {
+    "start": 487.997,
+    "word": " keep",
+    "end": 488.097
+   },
+   {
+    "start": 488.097,
+    "word": " grinding.",
+    "end": 488.897
+   },
+   {
+    "start": 488.897,
+    "word": " Wallahi,",
+    "end": 489.29699999999997
+   },
+   {
+    "start": 489.29699999999997,
+    "word": " I love",
+    "end": 491.597
+   }
+  ]
+ },
+ {
+  "start": 489.497,
+  "end": 493.297,
+  "text": "y'all, bro. All my fans, bro, y'all",
+  "words": [
+   {
+    "start": 489.497,
+    "word": " y'all,",
+    "end": 489.797
+   },
+   {
+    "start": 489.797,
+    "word": " bro.",
+    "end": 490.497
+   },
+   {
+    "start": 490.497,
+    "word": " All",
+    "end": 490.59700000000004
+   },
+   {
+    "start": 490.59700000000004,
+    "word": " my",
+    "end": 490.797
+   },
+   {
+    "start": 490.797,
+    "word": " fans,",
+    "end": 491.197
+   },
+   {
+    "start": 491.197,
+    "word": " bro,",
+    "end": 491.497
+   },
+   {
+    "start": 491.497,
+    "word": " y'all",
+    "end": 493.297
+   }
+  ]
+ },
+ {
+  "start": 491.597,
+  "end": 494.897,
+  "text": "actually keep me going.",
+  "words": [
+   {
+    "start": 491.597,
+    "word": " actually",
+    "end": 491.897
+   },
+   {
+    "start": 491.897,
+    "word": " keep",
+    "end": 492.097
+   },
+   {
+    "start": 492.097,
+    "word": " me going.",
+    "end": 494.897
+   }
+  ]
+ },
+ {
+  "start": 493.297,
+  "end": 496.297,
+  "text": "That's like that's the only reason only",
+  "words": [
+   {
+    "start": 493.297,
+    "word": " That's",
+    "end": 493.697
+   },
+   {
+    "start": 493.697,
+    "word": " like",
+    "end": 493.89700000000005
+   },
+   {
+    "start": 493.89700000000005,
+    "word": " that's",
+    "end": 494.09700000000004
+   },
+   {
+    "start": 494.09700000000004,
+    "word": " the only",
+    "end": 494.297
+   },
+   {
+    "start": 494.297,
+    "word": " reason",
+    "end": 494.697
+   },
+   {
+    "start": 494.697,
+    "word": " only",
+    "end": 496.297
+   }
+  ]
+ },
+ {
+  "start": 494.897,
+  "end": 497.997,
+  "text": "reason I keep going cuz of y'all, bro. I",
+  "words": [
+   {
+    "start": 494.897,
+    "word": " reason",
+    "end": 495.097
+   },
+   {
+    "start": 495.097,
+    "word": " I",
+    "end": 495.197
+   },
+   {
+    "start": 495.197,
+    "word": " keep",
+    "end": 495.29699999999997
+   },
+   {
+    "start": 495.29699999999997,
+    "word": " going",
+    "end": 495.497
+   },
+   {
+    "start": 495.497,
+    "word": " cuz",
+    "end": 495.697
+   },
+   {
+    "start": 495.697,
+    "word": " of y'all,",
+    "end": 495.997
+   },
+   {
+    "start": 495.997,
+    "word": " bro.",
+    "end": 496.197
+   },
+   {
+    "start": 496.197,
+    "word": " I",
+    "end": 497.997
+   }
+  ]
+ },
+ {
+  "start": 496.297,
+  "end": 499.797,
+  "text": "love y'all so much, bro. And I'm going",
+  "words": [
+   {
+    "start": 496.297,
+    "word": " love",
+    "end": 496.497
+   },
+   {
+    "start": 496.497,
+    "word": " y'all",
+    "end": 496.697
+   },
+   {
+    "start": 496.697,
+    "word": " so",
+    "end": 496.89700000000005
+   },
+   {
+    "start": 496.89700000000005,
+    "word": " much,",
+    "end": 497.197
+   },
+   {
+    "start": 497.197,
+    "word": " bro.",
+    "end": 497.697
+   },
+   {
+    "start": 497.697,
+    "word": " And",
+    "end": 497.797
+   },
+   {
+    "start": 497.797,
+    "word": " I'm",
+    "end": 497.89700000000005
+   },
+   {
+    "start": 497.89700000000005,
+    "word": " going",
+    "end": 499.797
+   }
+  ]
+ },
+ {
+  "start": 497.997,
+  "end": 504.697,
+  "text": "to keep going and keep getting stronger",
+  "words": [
+   {
+    "start": 497.997,
+    "word": " to keep",
+    "end": 498.197
+   },
+   {
+    "start": 498.197,
+    "word": " going",
+    "end": 498.697
+   },
+   {
+    "start": 498.697,
+    "word": " and",
+    "end": 498.797
+   },
+   {
+    "start": 498.797,
+    "word": " keep",
+    "end": 498.997
+   },
+   {
+    "start": 498.997,
+    "word": " getting",
+    "end": 499.197
+   },
+   {
+    "start": 499.197,
+    "word": " stronger",
+    "end": 504.697
+   }
+  ]
+ },
+ {
+  "start": 499.797,
+  "end": 504.697,
+  "text": "and keep getting faster. Speed gang, uh.",
+  "words": [
+   {
+    "start": 499.797,
+    "word": " and",
+    "end": 499.997
+   },
+   {
+    "start": 499.997,
+    "word": " keep",
+    "end": 500.197
+   },
+   {
+    "start": 500.197,
+    "word": " getting",
+    "end": 500.39700000000005
+   },
+   {
+    "start": 500.39700000000005,
+    "word": " faster.",
+    "end": 501.39700000000005
+   },
+   {
+    "start": 501.39700000000005,
+    "word": " Speed",
+    "end": 501.697
+   },
+   {
+    "start": 501.697,
+    "word": " gang,",
+    "end": 502.39700000000005
+   },
+   {
+    "start": 502.39700000000005,
+    "word": " uh.",
+    "end": 504.697
+   }
+  ]
+ }
+]

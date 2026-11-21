@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.58,Clip,,0,0,0,,OH, INSANE. WAIT,
+Dialogue: 0,0:00:00.58,0:00:01.46,Clip,,0,0,0,,SO THE BLIND
+Dialogue: 0,0:00:01.46,0:00:02.74,Clip,,0,0,0,,ITEM THAT CLAIMED
+Dialogue: 0,0:00:02.74,0:00:03.46,Clip,,0,0,0,,THAT THERE WAS
+Dialogue: 0,0:00:03.46,0:00:04.82,Clip,,0,0,0,,LIKE A THREESOME?
+Dialogue: 0,0:00:04.82,0:00:05.70,Clip,,0,0,0,,WAS THAT POSSIBLY
+Dialogue: 0,0:00:05.70,0:00:06.26,Clip,,0,0,0,,REAL? LIKE NOT
+Dialogue: 0,0:00:06.26,0:00:06.98,Clip,,0,0,0,,A THREESOME, BUT
+Dialogue: 0,0:00:06.98,0:00:07.30,Clip,,0,0,0,,LIKE IT WAS
+Dialogue: 0,0:00:07.30,0:00:08.26,Clip,,0,0,0,,A THROPPPLE. IT
+Dialogue: 0,0:00:08.26,0:00:08.74,Clip,,0,0,0,,WAS A LOVE
+Dialogue: 0,0:00:08.74,0:00:10.02,Clip,,0,0,0,,TRIANGLE. OH MY
+Dialogue: 0,0:00:10.02,0:00:10.90,Clip,,0,0,0,,GOD. EVERY DAY
+Dialogue: 0,0:00:10.90,0:00:11.62,Clip,,0,0,0,,THAT GOES ON,
+Dialogue: 0,0:00:11.62,0:00:12.42,Clip,,0,0,0,,THE IDEA THAT
+Dialogue: 0,0:00:12.42,0:00:13.30,Clip,,0,0,0,,TAMARA WAS ACTUALLY
+Dialogue: 0,0:00:13.30,0:00:14.42,Clip,,0,0,0,,A SLEEPER CELL
+Dialogue: 0,0:00:14.42,0:00:15.06,Clip,,0,0,0,,CARRYING OUT THE
+Dialogue: 0,0:00:15.06,0:00:15.94,Clip,,0,0,0,,WISHES OF YAHI
+Dialogue: 0,0:00:15.94,0:00:17.30,Clip,,0,0,0,,SENOIR BECOME A
+Dialogue: 0,0:00:17.30,0:00:18.58,Clip,,0,0,0,,REALITY. WHAT IS
+Dialogue: 0,0:00:18.58,0:00:19.62,Clip,,0,0,0,,HAPPENING? LIKE SHE
+Dialogue: 0,0:00:19.62,0:00:20.18,Clip,,0,0,0,,WAS LIKE A
+Dialogue: 0,0:00:20.18,0:00:21.06,Clip,,0,0,0,,LIKE A NUCLEAR
+Dialogue: 0,0:00:21.06,0:00:22.26,Clip,,0,0,0,,ATOM BOMB. SHE
+Dialogue: 0,0:00:22.26,0:00:23.14,Clip,,0,0,0,,REALLY JUST DROPPED
+Dialogue: 0,0:00:23.14,0:00:24.10,Clip,,0,0,0,,HERSELF INTO THE
+Dialogue: 0,0:00:24.10,0:00:25.70,Clip,,0,0,0,,FRANCHISE AND DESTROYED
+Dialogue: 0,0:00:25.70,0:00:26.50,Clip,,0,0,0,,IT. LIKE SHE
+Dialogue: 0,0:00:26.50,0:00:27.78,Clip,,0,0,0,,LEFT NOTHING. SHE
+Dialogue: 0,0:00:27.78,0:00:29.30,Clip,,0,0,0,,LEFT NOTHING. SHE
+Dialogue: 0,0:00:29.30,0:00:30.02,Clip,,0,0,0,,BASICALLY DID THIS
+Dialogue: 0,0:00:30.02,0:00:30.34,Clip,,0,0,0,,IN A WAY
+Dialogue: 0,0:00:30.34,0:00:30.82,Clip,,0,0,0,,WHERE IT WAS
+Dialogue: 0,0:00:30.82,0:00:31.86,Clip,,0,0,0,,LIKE A PERFECT
+Dialogue: 0,0:00:31.86,0:00:32.74,Clip,,0,0,0,,EXECUTION IF YOU
+Dialogue: 0,0:00:32.74,0:00:33.46,Clip,,0,0,0,,WANTED TO DESTROY
+Dialogue: 0,0:00:33.46,0:00:34.74,Clip,,0,0,0,,THIS PODCAST. LIKE
+Dialogue: 0,0:00:34.74,0:00:35.30,Clip,,0,0,0,,SHE WENT IN
+Dialogue: 0,0:00:35.30,0:00:36.02,Clip,,0,0,0,,THERE AND SHUT
+Dialogue: 0,0:00:36.02,0:00:36.74,Clip,,0,0,0,,DOWN THE ENTIRE
+Dialogue: 0,0:00:36.74,0:00:37.94,Clip,,0,0,0,,OPERATION. ANN SAYS,
+Dialogue: 0,0:00:37.94,0:00:38.60,Clip,,0,0,0,,"I'LL KEEP ADDRESSING

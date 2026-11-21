@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.30,Clip,,0,0,0,,BRO. PIC. CAN
+Dialogue: 0,0:00:00.30,0:00:00.69,Clip,,0,0,0,,I GET A
+Dialogue: 0,0:00:00.69,0:00:02.00,Clip,,0,0,0,,10-SECOND INTERVIEW, SIR?
+Dialogue: 0,0:00:02.00,0:00:02.39,Clip,,0,0,0,,I I HAVE
+Dialogue: 0,0:00:02.39,0:00:03.39,Clip,,0,0,0,,A QUESTION FOR YOU.
+Dialogue: 0,0:00:03.39,0:00:04.19,Clip,,0,0,0,,ANY ADVICE FOR
+Dialogue: 0,0:00:04.19,0:00:05.39,Clip,,0,0,0,,ANY SMALL CONTENT
+Dialogue: 0,0:00:05.39,0:00:06.89,Clip,,0,0,0,,CREATORS, ACTORS, ATHLETES,
+Dialogue: 0,0:00:06.89,0:00:08.19,Clip,,0,0,0,,ANYBODY CHASING A DREAM?
+Dialogue: 0,0:00:08.19,0:00:08.69,Clip,,0,0,0,,ANY ADVICE TO
+Dialogue: 0,0:00:08.69,0:00:11.30,Clip,,0,0,0,,THEM? DISCIPLINE IS
+Dialogue: 0,0:00:11.30,0:00:12.00,Clip,,0,0,0,,MORE IMPORTANT THAN
+Dialogue: 0,0:00:12.00,0:00:14.69,Clip,,0,0,0,,MOTIVATION. PROUD OF
+Dialogue: 0,0:00:14.69,0:00:18.19,Clip,,0,0,0,,YOU, NJ. YO,
+Dialogue: 0,0:00:18.19,0:00:18.60,Clip,,0,0,0,,WHAT IS SHE
+Dialogue: 0,0:00:18.60,0:00:19.79,Clip,,0,0,0,,DOING HERE? LET
+Dialogue: 0,0:00:19.79,0:00:20.09,Clip,,0,0,0,,ME GET A
+Dialogue: 0,0:00:20.09,0:00:21.50,Clip,,0,0,0,,PIC. YO. SPEED,
+Dialogue: 0,0:00:21.50,0:00:23.30,Clip,,0,0,0,,I ACCIDENTALLY BYE-BYE. NEVER
+Dialogue: 0,0:00:23.30,0:00:25.19,Clip,,0,0,0,,MIND. NEVER MIND.
+Dialogue: 0,0:00:25.19,0:00:26.69,Clip,,0,0,0,,THAT WAS FUN.
+Dialogue: 0,0:00:26.69,0:00:27.19,Clip,,0,0,0,,HEY MAN, THAT
+Dialogue: 0,0:00:27.19,0:00:28.09,Clip,,0,0,0,,WAS IT. STREAM
+Dialogue: 0,0:00:28.09,0:00:29.09,Clip,,0,0,0,,OF THE YEAR. THREE
+Dialogue: 0,0:00:29.09,0:00:29.80,Clip,,0,0,0,,TIMES IN A ROW,
+Dialogue: 0,0:00:29.80,0:00:32.19,Clip,,0,0,0,,SO EXCITING, BRO.
+Dialogue: 0,0:00:32.19,0:00:32.59,Clip,,0,0,0,,SEE WHAT HAPPEN
+Dialogue: 0,0:00:32.59,0:00:33.19,Clip,,0,0,0,,NEXT YEAR. WE'LL
+Dialogue: 0,0:00:33.19,0:00:33.60,Clip,,0,0,0,,SEE WHAT HAPPENS

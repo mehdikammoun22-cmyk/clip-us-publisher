@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.44,Clip,,0,0,0,,TRYING, WHAT DID
+Dialogue: 0,0:00:00.44,0:00:00.92,Clip,,0,0,0,,I TELL YOU,
+Dialogue: 0,0:00:00.92,0:00:02.12,Clip,,0,0,0,,DONNIE? NOT NOW,
+Dialogue: 0,0:00:02.12,0:00:02.60,Clip,,0,0,0,,MAN. I JUST
+Dialogue: 0,0:00:02.60,0:00:03.32,Clip,,0,0,0,,WORRY ABOUT GETTING
+Dialogue: 0,0:00:03.32,0:00:03.88,Clip,,0,0,0,,YOUR ASS OUT
+Dialogue: 0,0:00:03.88,0:00:07.16,Clip,,0,0,0,,OF HERE. I'M
+Dialogue: 0,0:00:07.16,0:00:08.04,Clip,,0,0,0,,HOLDING I'M STRESSED
+Dialogue: 0,0:00:08.04,0:00:08.60,Clip,,0,0,0,,OUT. I'M TURNING
+Dialogue: 0,0:00:08.60,0:00:09.24,Clip,,0,0,0,,THE KEYS TOO
+Dialogue: 0,0:00:09.24,0:00:11.24,Clip,,0,0,0,,HARD. COME TO
+Dialogue: 0,0:00:11.24,0:00:11.88,Clip,,0,0,0,,JUST ON THE
+Dialogue: 0,0:00:11.88,0:00:12.52,Clip,,0,0,0,,RIGHT SIDE OF
+Dialogue: 0,0:00:12.52,0:00:13.32,Clip,,0,0,0,,THIS BRIDGE OVER
+Dialogue: 0,0:00:13.32,0:00:14.92,Clip,,0,0,0,,HERE ON SEABALE
+Dialogue: 0,0:00:14.92,0:00:23.56,Clip,,0,0,0,,AVENUE. I DON'T
+Dialogue: 0,0:00:23.56,0:00:23.96,Clip,,0,0,0,,KNOW WHERE I'M
+Dialogue: 0,0:00:23.96,0:00:30.92,Clip,,0,0,0,,AT. OKAY, LISTEN.
+Dialogue: 0,0:00:30.92,0:00:31.56,Clip,,0,0,0,,STOP MAKING FUN
+Dialogue: 0,0:00:31.56,0:00:32.36,Clip,,0,0,0,,OF ME. THE
+Dialogue: 0,0:00:32.36,0:00:33.32,Clip,,0,0,0,,HONKING IS NOT
+Dialogue: 0,0:00:33.32,0:00:34.36,Clip,,0,0,0,,ON PURPOSE. I
+Dialogue: 0,0:00:34.36,0:00:35.08,Clip,,0,0,0,,I'M TRYING MY
+Dialogue: 0,0:00:35.08,0:00:38.84,Clip,,0,0,0,,BEST. OKAY. I'M
+Dialogue: 0,0:00:38.84,0:00:40.04,Clip,,0,0,0,,TRYING MY BEST,
+Dialogue: 0,0:00:40.04,0:00:43.04,Clip,,0,0,0,,DUDE.

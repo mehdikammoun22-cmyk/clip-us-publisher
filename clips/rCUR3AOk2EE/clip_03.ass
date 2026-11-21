@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.40,Clip,,0,0,0,,A MEXICO. LOOK
+Dialogue: 0,0:00:00.40,0:00:00.90,Clip,,0,0,0,,AT THE WAY
+Dialogue: 0,0:00:00.90,0:00:03.10,Clip,,0,0,0,,TRUMP TALKS TO
+Dialogue: 0,0:00:03.10,0:00:04.30,Clip,,0,0,0,,AND TREATS TAKACHI
+Dialogue: 0,0:00:04.30,0:00:06.60,Clip,,0,0,0,,IN JAPAN VERSUS
+Dialogue: 0,0:00:06.60,0:00:07.30,Clip,,0,0,0,,THE WAY TRUMP
+Dialogue: 0,0:00:07.30,0:00:08.50,Clip,,0,0,0,,TALKS ABOUT CLAUDIA
+Dialogue: 0,0:00:08.50,0:00:09.90,Clip,,0,0,0,,SHEINBAUM. AND WE
+Dialogue: 0,0:00:09.90,0:00:10.70,Clip,,0,0,0,,DIDN'T TELL ANYBODY
+Dialogue: 0,0:00:10.70,0:00:12.10,Clip,,0,0,0,,ABOUT IT BECAUSE
+Dialogue: 0,0:00:12.10,0:00:14.00,Clip,,0,0,0,,WE WANTED SURPRISE.
+Dialogue: 0,0:00:14.00,0:00:14.80,Clip,,0,0,0,,WHO KNOWS BETTER
+Dialogue: 0,0:00:14.80,0:00:15.90,Clip,,0,0,0,,ABOUT SURPRISE THAN
+Dialogue: 0,0:00:15.90,0:00:18.00,Clip,,0,0,0,,JAPAN? OKAY? WHY
+Dialogue: 0,0:00:18.00,0:00:18.70,Clip,,0,0,0,,DIDN'T YOU TELL
+Dialogue: 0,0:00:18.70,0:00:19.50,Clip,,0,0,0,,ME ABOUT PEARL
+Dialogue: 0,0:00:19.50,0:00:21.80,Clip,,0,0,0,,HARBOR? OKAY? WELL,
+Dialogue: 0,0:00:21.80,0:00:22.40,Clip,,0,0,0,,I I'M NOT
+Dialogue: 0,0:00:22.40,0:00:22.90,Clip,,0,0,0,,LOOKING TO HURT
+Dialogue: 0,0:00:22.90,0:00:23.89,Clip,,0,0,0,,MEXICO AND I LIKE
+Dialogue: 0,0:00:23.89,0:00:24.50,Clip,,0,0,0,,MEXICO AND BY
+Dialogue: 0,0:00:24.50,0:00:24.70,Clip,,0,0,0,,THE WAY, I
+Dialogue: 0,0:00:24.70,0:00:26.10,Clip,,0,0,0,,THINK THE NEW
+Dialogue: 0,0:00:26.10,0:00:27.40,Clip,,0,0,0,,PRESIDENT IS A TERRIFIC
+Dialogue: 0,0:00:27.40,0:00:28.60,Clip,,0,0,0,,PERSON, A FANTASTIC
+Dialogue: 0,0:00:28.60,0:00:29.60,Clip,,0,0,0,,WOMAN. WE'VE HAD
+Dialogue: 0,0:00:29.60,0:00:30.90,Clip,,0,0,0,,MANY CONVERSATIONS. SHE'S
+Dialogue: 0,0:00:30.90,0:00:33.50,Clip,,0,0,0,,A VERY ELEGANT
+Dialogue: 0,0:00:33.50,0:00:34.39,Clip,,0,0,0,,JUST A FANTASTIC
+Dialogue: 0,0:00:34.39,0:00:35.60,Clip,,0,0,0,,PERSON. THE REASON
+Dialogue: 0,0:00:35.60,0:00:36.10,Clip,,0,0,0,,FOR THAT IS
+Dialogue: 0,0:00:36.10,0:00:37.20,Clip,,0,0,0,,CLEAR. CLAUDIA IS
+Dialogue: 0,0:00:37.20,0:00:38.70,Clip,,0,0,0,,VERY POPULAR. HE
+Dialogue: 0,0:00:38.70,0:00:40.00,Clip,,0,0,0,,SEES THAT. HE
+Dialogue: 0,0:00:40.00,0:00:40.90,Clip,,0,0,0,,RESPECTS THAT TO
+Dialogue: 0,0:00:40.90,0:00:42.30,Clip,,0,0,0,,A CERTAIN DEGREE.
+Dialogue: 0,0:00:42.30,0:00:43.39,Clip,,0,0,0,,TAKACHI IS SOMEWHAT
+Dialogue: 0,0:00:43.39,0:00:44.80,Clip,,0,0,0,,POPULAR AS WELL.
+Dialogue: 0,0:00:44.80,0:00:45.80,Clip,,0,0,0,,WHY DOES TRUMP
+Dialogue: 0,0:00:45.80,0:00:47.19,Clip,,0,0,0,,NOT RESPECT TAKACHI
+Dialogue: 0,0:00:47.19,0:00:47.90,Clip,,0,0,0,,IN THE SAME WAY
+Dialogue: 0,0:00:47.90,0:00:48.70,Clip,,0,0,0,,THAT HE RESPECTS
+Dialogue: 0,0:00:48.70,0:00:50.20,Clip,,0,0,0,,CLAUDIA SHEINBAUM? IT'S
+Dialogue: 0,0:00:50.20,0:00:51.20,Clip,,0,0,0,,BECAUSE OF THE
+Dialogue: 0,0:00:51.20,0:00:51.80,Clip,,0,0,0,,WAY THAT THEY
+Dialogue: 0,0:00:51.80,0:00:52.90,Clip,,0,0,0,,DEAL WITH DONALD
+Dialogue: 0,0:00:52.90,0:00:54.10,Clip,,0,0,0,,TRUMP.

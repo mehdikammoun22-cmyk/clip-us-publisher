@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.30,Clip,,0,0,0,,A AND TO
+Dialogue: 0,0:00:00.30,0:00:01.50,Clip,,0,0,0,,BE FAIR, I
+Dialogue: 0,0:00:01.50,0:00:02.40,Clip,,0,0,0,,WAS VERY CRITICAL
+Dialogue: 0,0:00:02.40,0:00:03.40,Clip,,0,0,0,,OF ZORAN DOING
+Dialogue: 0,0:00:03.40,0:00:04.80,Clip,,0,0,0,,THE MUSTACHE, RIGHT?
+Dialogue: 0,0:00:04.80,0:00:05.80,Clip,,0,0,0,,YOU RECALL WHEN
+Dialogue: 0,0:00:05.80,0:00:06.50,Clip,,0,0,0,,I FIRST FOUND
+Dialogue: 0,0:00:06.50,0:00:06.90,Clip,,0,0,0,,OUT ABOUT THE
+Dialogue: 0,0:00:06.90,0:00:07.90,Clip,,0,0,0,,MUSTACHE, I COULDN'T
+Dialogue: 0,0:00:07.90,0:00:08.40,Clip,,0,0,0,,BELIEVE IT. I
+Dialogue: 0,0:00:08.40,0:00:09.40,Clip,,0,0,0,,SAID, YOU KNOW,
+Dialogue: 0,0:00:09.40,0:00:10.40,Clip,,0,0,0,,SOCIALISM IS TAKEN
+Dialogue: 0,0:00:10.40,0:00:11.50,Clip,,0,0,0,,A BIG HIT TODAY.
+Dialogue: 0,0:00:11.50,0:00:12.60,Clip,,0,0,0,,BUT EVER SINCE
+Dialogue: 0,0:00:12.60,0:00:13.60,Clip,,0,0,0,,HE GOT THE
+Dialogue: 0,0:00:13.60,0:00:15.50,Clip,,0,0,0,,BA'ATHIST MUSTACHE, HE'S
+Dialogue: 0,0:00:15.50,0:00:16.90,Clip,,0,0,0,,BEEN MOVING DIFFERENT.
+Dialogue: 0,0:00:16.90,0:00:17.70,Clip,,0,0,0,,EVER SINCE HE
+Dialogue: 0,0:00:17.70,0:00:19.00,Clip,,0,0,0,,GOT THE NASSER
+Dialogue: 0,0:00:19.00,0:00:20.70,Clip,,0,0,0,,STASH, HE'S BEEN
+Dialogue: 0,0:00:20.70,0:00:21.70,Clip,,0,0,0,,MOVING IN A
+Dialogue: 0,0:00:21.70,0:00:23.00,Clip,,0,0,0,,DIFFERENT WAY. THE
+Dialogue: 0,0:00:23.00,0:00:24.70,Clip,,0,0,0,,SRG IS DISBANDED.
+Dialogue: 0,0:00:24.70,0:00:25.50,Clip,,0,0,0,,HE GOT SNAP
+Dialogue: 0,0:00:25.50,0:00:28.10,Clip,,0,0,0,,EXTENSIONS NATIONWIDE. HE'S
+Dialogue: 0,0:00:28.10,0:00:29.10,Clip,,0,0,0,,ABOUT THIS IS
+Dialogue: 0,0:00:29.10,0:00:30.00,Clip,,0,0,0,,LIKE WE'RE MOMENTS
+Dialogue: 0,0:00:30.00,0:00:31.00,Clip,,0,0,0,,AWAY FROM INSTITUTING
+Dialogue: 0,0:00:31.00,0:00:32.60,Clip,,0,0,0,,A BILLIONAIRE TAX.
+Dialogue: 0,0:00:32.60,0:00:33.30,Clip,,0,0,0,,YOU CAN HAVE
+Dialogue: 0,0:00:33.30,0:00:34.30,Clip,,0,0,0,,WHATEVER MUSTACHE YOU
+Dialogue: 0,0:00:34.30,0:00:35.60,Clip,,0,0,0,,WANT, ZORAN. I
+Dialogue: 0,0:00:35.60,0:00:36.60,Clip,,0,0,0,,WAS WRONG. I'M
+Dialogue: 0,0:00:36.60,0:00:37.10,Clip,,0,0,0,,HERE TO TELL
+Dialogue: 0,0:00:37.10,0:00:38.60,Clip,,0,0,0,,YOU I WAS
+Dialogue: 0,0:00:38.60,0:00:40.00,Clip,,0,0,0,,WRONG. I THOUGHT
+Dialogue: 0,0:00:40.00,0:00:41.00,Clip,,0,0,0,,THE MUSTACHE LOOKS
+Dialogue: 0,0:00:41.00,0:00:42.20,Clip,,0,0,0,,RIDICULOUS. I THOUGHT
+Dialogue: 0,0:00:42.20,0:00:43.10,Clip,,0,0,0,,THE MUSTACHE LOOKS
+Dialogue: 0,0:00:43.10,0:00:43.80,Clip,,0,0,0,,RIDICULOUS. WHAT ARE
+Dialogue: 0,0:00:43.80,0:00:44.90,Clip,,0,0,0,,YOU, SADDAM HUSSEIN?
+Dialogue: 0,0:00:44.90,0:00:45.40,Clip,,0,0,0,,WHAT THE HELL
+Dialogue: 0,0:00:45.40,0:00:46.20,Clip,,0,0,0,,IS THIS? IT
+Dialogue: 0,0:00:46.20,0:00:47.20,Clip,,0,0,0,,TURNS OUT THE
+Dialogue: 0,0:00:47.20,0:00:48.80,Clip,,0,0,0,,MUSTACHE GAVE HIM
+Dialogue: 0,0:00:48.80,0:00:50.40,Clip,,0,0,0,,AURA AND POWER,
+Dialogue: 0,0:00:50.40,0:00:52.10,Clip,,0,0,0,,POLITICAL POWER, AND
+Dialogue: 0,0:00:52.10,0:00:54.20,Clip,,0,0,0,,ALSO CONFIDENCE, POLITICAL
+Dialogue: 0,0:00:54.20,0:00:55.90,Clip,,0,0,0,,CONFIDENCE. THERE'S CONCERNS
+Dialogue: 0,0:00:55.90,0:00:56.70,Clip,,0,0,0,,THEY'RE JUST RENAMING
+Dialogue: 0,0:00:56.70,0:00:56.90,Clip,,0,0,0,,THE SRG

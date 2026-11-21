@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.62,Clip,,0,0,0,,CANCEL. ASK QUESTIONS
+Dialogue: 0,0:00:00.62,0:00:01.50,Clip,,0,0,0,,ABOUT, YOU KNOW,
+Dialogue: 0,0:00:01.50,0:00:02.94,Clip,,0,0,0,,THE ADMINISTRATION'S FUCKUPS,
+Dialogue: 0,0:00:02.94,0:00:03.82,Clip,,0,0,0,,TOO. I MEAN,
+Dialogue: 0,0:00:03.82,0:00:04.70,Clip,,0,0,0,,TRUMP WAS ASKED
+Dialogue: 0,0:00:04.70,0:00:05.90,Clip,,0,0,0,,ABOUT INFLATION AND
+Dialogue: 0,0:00:05.90,0:00:06.86,Clip,,0,0,0,,GAS PRICES, AND
+Dialogue: 0,0:00:06.86,0:00:07.82,Clip,,0,0,0,,HE LITERALLY SAID
+Dialogue: 0,0:00:07.82,0:00:08.70,Clip,,0,0,0,,HE DOES NOT
+Dialogue: 0,0:00:08.70,0:00:09.74,Clip,,0,0,0,,CARE. THAT IS
+Dialogue: 0,0:00:09.74,0:00:10.70,Clip,,0,0,0,,PROBABLY THE ONE
+Dialogue: 0,0:00:10.70,0:00:11.98,Clip,,0,0,0,,RED LINE NO
+Dialogue: 0,0:00:11.98,0:00:12.70,Clip,,0,0,0,,GOVERNMENT IS SUPPOSED
+Dialogue: 0,0:00:12.70,0:00:13.58,Clip,,0,0,0,,TO CROSS. NO
+Dialogue: 0,0:00:13.58,0:00:14.30,Clip,,0,0,0,,PRESIDENT IS SUPPOSED
+Dialogue: 0,0:00:14.30,0:00:14.94,Clip,,0,0,0,,TO EVER TURN
+Dialogue: 0,0:00:14.94,0:00:15.74,Clip,,0,0,0,,AROUND AND SAY,
+Dialogue: 0,0:00:15.74,0:00:16.62,Clip,,0,0,0,,"I DON'T CARE.
+Dialogue: 0,0:00:16.62,0:00:17.58,Clip,,0,0,0,,YOU'RE FINE. THE
+Dialogue: 0,0:00:17.58,0:00:18.38,Clip,,0,0,0,,ECONOMY IS DOING
+Dialogue: 0,0:00:18.38,0:00:19.18,Clip,,0,0,0,,GREAT BECAUSE I'M
+Dialogue: 0,0:00:19.18,0:00:20.62,Clip,,0,0,0,,MAKING MONEY. MY
+Dialogue: 0,0:00:20.62,0:00:21.90,Clip,,0,0,0,,FAMILY'S MAKING MONEY.
+Dialogue: 0,0:00:21.90,0:00:22.62,Clip,,0,0,0,,WE'RE ALL DOING
+Dialogue: 0,0:00:22.62,0:00:23.82,Clip,,0,0,0,,GREAT. WHO CARES
+Dialogue: 0,0:00:23.82,0:00:24.94,Clip,,0,0,0,,IF YOU POORS
+Dialogue: 0,0:00:24.94,0:00:25.90,Clip,,0,0,0,,ARE NOT?" ONE
+Dialogue: 0,0:00:25.90,0:00:26.94,Clip,,0,0,0,,YEAR ANNIVERSARY OF
+Dialogue: 0,0:00:26.94,0:00:27.26,Clip,,0,0,0,,ONE OF THE
+Dialogue: 0,0:00:27.26,0:00:27.90,Clip,,0,0,0,,MOST IMPACTFUL

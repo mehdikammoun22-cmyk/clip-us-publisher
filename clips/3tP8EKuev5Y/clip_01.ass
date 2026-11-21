@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.39,Clip,,0,0,0,,HE US. OH
+Dialogue: 0,0:00:00.39,0:00:01.49,Clip,,0,0,0,,MY GOD! DO
+Dialogue: 0,0:00:01.49,0:00:01.99,Clip,,0,0,0,,YOU MEAN TO
+Dialogue: 0,0:00:01.99,0:00:02.69,Clip,,0,0,0,,TELL ME THAT
+Dialogue: 0,0:00:02.69,0:00:03.19,Clip,,0,0,0,,THE NEW YORK
+Dialogue: 0,0:00:03.19,0:00:04.39,Clip,,0,0,0,,POLICE DEPARTMENT ARE
+Dialogue: 0,0:00:04.39,0:00:04.99,Clip,,0,0,0,,STILL GOING TO
+Dialogue: 0,0:00:04.99,0:00:06.39,Clip,,0,0,0,,CONDUCT ARRESTS? WHAT
+Dialogue: 0,0:00:06.39,0:00:08.79,Clip,,0,0,0,,A SHOCKING REVELATION.
+Dialogue: 0,0:00:08.79,0:00:10.09,Clip,,0,0,0,,HE'S NOT DISBANDING
+Dialogue: 0,0:00:10.09,0:00:11.29,Clip,,0,0,0,,THE NYPD AND
+Dialogue: 0,0:00:11.29,0:00:11.89,Clip,,0,0,0,,TURNING IT INTO
+Dialogue: 0,0:00:11.89,0:00:13.09,Clip,,0,0,0,,THE PEOPLE'S POLICE
+Dialogue: 0,0:00:13.09,0:00:16.79,Clip,,0,0,0,,TOMORROW? WOW! WOW!
+Dialogue: 0,0:00:16.79,0:00:17.49,Clip,,0,0,0,,WHAT THE WERE
+Dialogue: 0,0:00:17.49,0:00:18.89,Clip,,0,0,0,,YOU THINKING? IT'S
+Dialogue: 0,0:00:18.89,0:00:19.19,Clip,,0,0,0,,ONE OF THE
+Dialogue: 0,0:00:19.19,0:00:21.29,Clip,,0,0,0,,LARGEST STANDING MILITARIES
+Dialogue: 0,0:00:21.29,0:00:22.39,Clip,,0,0,0,,ON THE PLANET.
+Dialogue: 0,0:00:22.39,0:00:23.59,Clip,,0,0,0,,IT HAS ITS
+Dialogue: 0,0:00:23.59,0:00:26.49,Clip,,0,0,0,,OWN SUBMARINES. THE
+Dialogue: 0,0:00:26.49,0:00:28.19,Clip,,0,0,0,,NYPD HAS SUBMARINES.
+Dialogue: 0,0:00:28.19,0:00:29.39,Clip,,0,0,0,,I CAN'T BELIEVE
+Dialogue: 0,0:00:29.39,0:00:30.79,Clip,,0,0,0,,THAT ZOHRAN MAMDANI
+Dialogue: 0,0:00:30.79,0:00:32.49,Clip,,0,0,0,,HAS NOT DISBANDED
+Dialogue: 0,0:00:32.49,0:00:33.29,Clip,,0,0,0,,THE NEW YORK
+Dialogue: 0,0:00:33.29,0:00:34.69,Clip,,0,0,0,,POLICE DEPARTMENT. I
+Dialogue: 0,0:00:34.69,0:00:35.99,Clip,,0,0,0,,DON'T KNOW WHY
+Dialogue: 0,0:00:35.99,0:00:37.39,Clip,,0,0,0,,HE HASN'T MADE
+Dialogue: 0,0:00:37.39,0:00:39.29,Clip,,0,0,0,,CRIME LEGAL. CRIME
+Dialogue: 0,0:00:39.29,0:00:39.99,Clip,,0,0,0,,IS A SOCIAL
+Dialogue: 0,0:00:39.99,0:00:41.49,Clip,,0,0,0,,CONSTRUCT. WHY IS
+Dialogue: 0,0:00:41.49,0:00:42.89,Clip,,0,0,0,,ZOHRAN MAMDANI NOT
+Dialogue: 0,0:00:42.89,0:00:43.50,Clip,,0,0,0,,A ANARCHIST?

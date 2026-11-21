@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.30,Clip,,0,0,0,,HIS PROMISE. AND
+Dialogue: 0,0:00:00.30,0:00:01.00,Clip,,0,0,0,,IT'S SO FUNNY
+Dialogue: 0,0:00:01.00,0:00:01.90,Clip,,0,0,0,,BECAUSE LIKE THIS
+Dialogue: 0,0:00:01.90,0:00:03.10,Clip,,0,0,0,,IS THE REASON
+Dialogue: 0,0:00:03.10,0:00:03.80,Clip,,0,0,0,,WHY THE LEFT
+Dialogue: 0,0:00:03.80,0:00:05.70,Clip,,0,0,0,,ALWAYS LOSES. ASIDE
+Dialogue: 0,0:00:05.70,0:00:06.80,Clip,,0,0,0,,FROM THE STRUCTURAL
+Dialogue: 0,0:00:06.80,0:00:07.90,Clip,,0,0,0,,PROBLEMS THAT WE
+Dialogue: 0,0:00:07.90,0:00:08.60,Clip,,0,0,0,,OBVIOUSLY HAVE TO
+Dialogue: 0,0:00:08.60,0:00:09.00,Clip,,0,0,0,,DEAL WITH ON
+Dialogue: 0,0:00:09.00,0:00:10.60,Clip,,0,0,0,,A DAILY BASIS,
+Dialogue: 0,0:00:10.60,0:00:11.10,Clip,,0,0,0,,YOU WANT TO KNOW WHY
+Dialogue: 0,0:00:11.10,0:00:12.20,Clip,,0,0,0,,WE LOSE ALL
+Dialogue: 0,0:00:12.20,0:00:13.60,Clip,,0,0,0,,THE TIME? BECAUSE
+Dialogue: 0,0:00:13.60,0:00:15.20,Clip,,0,0,0,,WE HAVE NO
+Dialogue: 0,0:00:15.20,0:00:16.90,Clip,,0,0,0,,MESSAGING DISCIPLINE, WE
+Dialogue: 0,0:00:16.90,0:00:18.40,Clip,,0,0,0,,HAVE NO CONSISTENT
+Dialogue: 0,0:00:18.40,0:00:19.30,Clip,,0,0,0,,GOAL, WE HAVE
+Dialogue: 0,0:00:19.30,0:00:20.60,Clip,,0,0,0,,NO REAL AGENDA,
+Dialogue: 0,0:00:20.60,0:00:21.20,Clip,,0,0,0,,WE HAVE NO
+Dialogue: 0,0:00:21.20,0:00:23.10,Clip,,0,0,0,,ORGANIZATIONAL CAPACITY, AND
+Dialogue: 0,0:00:23.10,0:00:24.40,Clip,,0,0,0,,IT'S MUCH EASIER
+Dialogue: 0,0:00:24.40,0:00:25.40,Clip,,0,0,0,,FOR MONEY TO
+Dialogue: 0,0:00:25.40,0:00:26.40,Clip,,0,0,0,,ORGANIZE THAN IT
+Dialogue: 0,0:00:26.40,0:00:26.90,Clip,,0,0,0,,IS TO GET
+Dialogue: 0,0:00:26.90,0:00:28.20,Clip,,0,0,0,,PEOPLE TO ORGANIZE,
+Dialogue: 0,0:00:28.20,0:00:29.20,Clip,,0,0,0,,AND WE LOVE
+Dialogue: 0,0:00:29.20,0:00:30.90,Clip,,0,0,0,,FIGHTING AMONGST OURSELVES.
+Dialogue: 0,0:00:30.90,0:00:31.70,Clip,,0,0,0,,YOU GOT THE
+Dialogue: 0,0:00:31.70,0:00:33.10,Clip,,0,0,0,,NYPD POLICE UNION
+Dialogue: 0,0:00:33.10,0:00:34.00,Clip,,0,0,0,,FREAKING THE OUT
+Dialogue: 0,0:00:34.00,0:00:35.10,Clip,,0,0,0,,ABOUT THIS. YOU
+Dialogue: 0,0:00:35.10,0:00:35.60,Clip,,0,0,0,,GOT NEW YORK
+Dialogue: 0,0:00:35.60,0:00:36.90,Clip,,0,0,0,,POST FREAKING THE
+Dialogue: 0,0:00:36.90,0:00:38.40,Clip,,0,0,0,,UP FREAKING THE
+Dialogue: 0,0:00:38.40,0:00:39.30,Clip,,0,0,0,,OUT ABOUT THIS.
+Dialogue: 0,0:00:39.30,0:00:40.00,Clip,,0,0,0,,YOU HAVE ALL
+Dialogue: 0,0:00:40.00,0:00:41.10,Clip,,0,0,0,,REACTIONARY PRESS COMING
+Dialogue: 0,0:00:41.10,0:00:42.40,Clip,,0,0,0,,AFTER ZOHRAN, AND
+Dialogue: 0,0:00:42.40,0:00:42.80,Clip,,0,0,0,,THEN YOU HAVE
+Dialogue: 0,0:00:42.80,0:00:43.60,Clip,,0,0,0,,THE LEFT ALSO
+Dialogue: 0,0:00:43.60,0:00:44.70,Clip,,0,0,0,,COMING AFTER HIM
+Dialogue: 0,0:00:44.70,0:00:46.00,Clip,,0,0,0,,FOR FOLLOWING THROUGH
+Dialogue: 0,0:00:46.00,0:00:47.00,Clip,,0,0,0,,ON A PROMISE
+Dialogue: 0,0:00:47.00,0:00:47.90,Clip,,0,0,0,,THAT HE MADE.
+Dialogue: 0,0:00:47.90,0:00:48.50,Clip,,0,0,0,,WHAT THE DO
+Dialogue: 0,0:00:48.50,0:00:49.80,Clip,,0,0,0,,YOU WANT? BE
+Dialogue: 0,0:00:49.80,0:00:51.10,Clip,,0,0,0,,NORMAL. LEARN TO
+Dialogue: 0,0:00:51.10,0:00:52.30,Clip,,0,0,0,,TAKE A W
+Dialogue: 0,0:00:52.30,0:00:53.50,Clip,,0,0,0,,FOR ONCE. JESUS
+Dialogue: 0,0:00:53.50,0:00:54.40,Clip,,0,0,0,,CHRIST. AND

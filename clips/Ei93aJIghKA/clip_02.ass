@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.39,Clip,,0,0,0,,OUR CUZ THERE'S
+Dialogue: 0,0:00:00.39,0:00:01.49,Clip,,0,0,0,,AN UPPER LIMIT
+Dialogue: 0,0:00:01.49,0:00:03.29,Clip,,0,0,0,,TO HOW CAPTIVATING
+Dialogue: 0,0:00:03.29,0:00:04.19,Clip,,0,0,0,,I CAN BE
+Dialogue: 0,0:00:04.19,0:00:05.49,Clip,,0,0,0,,FOR PEOPLE. THERE'S
+Dialogue: 0,0:00:05.49,0:00:06.49,Clip,,0,0,0,,DEFINITELY A LIMIT
+Dialogue: 0,0:00:06.49,0:00:07.89,Clip,,0,0,0,,TO HOW CAPTIVATING
+Dialogue: 0,0:00:07.89,0:00:09.09,Clip,,0,0,0,,ABDUL CAN BE
+Dialogue: 0,0:00:09.09,0:00:10.09,Clip,,0,0,0,,FOR PEOPLE. THERE'S
+Dialogue: 0,0:00:10.09,0:00:10.79,Clip,,0,0,0,,EVEN A LIMIT
+Dialogue: 0,0:00:10.79,0:00:11.89,Clip,,0,0,0,,FOR ZORAN, BUT
+Dialogue: 0,0:00:11.89,0:00:12.49,Clip,,0,0,0,,WHEN YOU GOT
+Dialogue: 0,0:00:12.49,0:00:13.59,Clip,,0,0,0,,A GUY LIKE
+Dialogue: 0,0:00:13.59,0:00:15.89,Clip,,0,0,0,,CHRISTOPHER VAN HOLLEN,
+Dialogue: 0,0:00:15.89,0:00:17.49,Clip,,0,0,0,,DECADES IN CONGRESS,
+Dialogue: 0,0:00:17.49,0:00:19.09,Clip,,0,0,0,,PARENTS ARE CIA,
+Dialogue: 0,0:00:19.09,0:00:20.69,Clip,,0,0,0,,BORN IN PAKISTAN,
+Dialogue: 0,0:00:20.69,0:00:21.49,Clip,,0,0,0,,PAKISTAN'S IN THE
+Dialogue: 0,0:00:21.49,0:00:22.19,Clip,,0,0,0,,BAD. WHEN YOU
+Dialogue: 0,0:00:22.19,0:00:22.69,Clip,,0,0,0,,GOT A GUY
+Dialogue: 0,0:00:22.69,0:00:23.79,Clip,,0,0,0,,LIKE HIM SAYING
+Dialogue: 0,0:00:23.79,0:00:24.29,Clip,,0,0,0,,THE THINGS THAT
+Dialogue: 0,0:00:24.29,0:00:25.49,Clip,,0,0,0,,WE'RE SAYING, ALL
+Dialogue: 0,0:00:25.49,0:00:26.19,Clip,,0,0,0,,OF A SUDDEN
+Dialogue: 0,0:00:26.19,0:00:27.49,Clip,,0,0,0,,THE REACTION FROM
+Dialogue: 0,0:00:27.49,0:00:28.29,Clip,,0,0,0,,THE MASSES WILL
+Dialogue: 0,0:00:28.29,0:00:29.19,Clip,,0,0,0,,BE VERY DIFFERENT.
+Dialogue: 0,0:00:29.19,0:00:30.59,Clip,,0,0,0,,THE THE REFLECTION
+Dialogue: 0,0:00:30.59,0:00:31.49,Clip,,0,0,0,,ON HIS LIKE
+Dialogue: 0,0:00:31.49,0:00:32.19,Clip,,0,0,0,,THE POWER THAT
+Dialogue: 0,0:00:32.19,0:00:33.39,Clip,,0,0,0,,HE HOLDS IS
+Dialogue: 0,0:00:33.39,0:00:34.69,Clip,,0,0,0,,QUITE SPECTACULAR. HE'S
+Dialogue: 0,0:00:34.69,0:00:35.59,Clip,,0,0,0,,BROWN ACTUALLY, BUT
+Dialogue: 0,0:00:35.59,0:00:36.99,Clip,,0,0,0,,WHITE OUTWARDLY HE'S
+Dialogue: 0,0:00:36.99,0:00:37.99,Clip,,0,0,0,,NOT. HE'S NOT
+Dialogue: 0,0:00:37.99,0:00:38.59,Clip,,0,0,0,,BROWN IN ANY
+Dialogue: 0,0:00:38.59,0:00:39.19,Clip,,0,0,0,,WAY, SHAPE, OR
+Dialogue: 0,0:00:39.19,0:00:40.19,Clip,,0,0,0,,FORM, YOU KNOW?
+Dialogue: 0,0:00:40.19,0:00:40.69,Clip,,0,0,0,,ALL OF A
+Dialogue: 0,0:00:40.69,0:00:41.19,Clip,,0,0,0,,SUDDEN, WHEN YOU
+Dialogue: 0,0:00:41.19,0:00:41.89,Clip,,0,0,0,,HEAR AN OLD
+Dialogue: 0,0:00:41.89,0:00:42.59,Clip,,0,0,0,,WHITE MAN SAY
+Dialogue: 0,0:00:42.59,0:00:43.69,Clip,,0,0,0,,THIS, IT GIVES
+Dialogue: 0,0:00:43.69,0:00:44.79,Clip,,0,0,0,,COMFORT TO OTHER
+Dialogue: 0,0:00:44.79,0:00:45.69,Clip,,0,0,0,,PEOPLE, RIGHT? IT'S
+Dialogue: 0,0:00:45.69,0:00:46.79,Clip,,0,0,0,,VERY DIFFICULT TO
+Dialogue: 0,0:00:46.79,0:00:47.69,Clip,,0,0,0,,MAKE CHRIS VAN
+Dialogue: 0,0:00:47.69,0:00:49.09,Clip,,0,0,0,,HOLLEN COME ACROSS
+Dialogue: 0,0:00:49.09,0:00:49.69,Clip,,0,0,0,,LIKE HE'S A
+Dialogue: 0,0:00:49.69,0:00:50.39,Clip,,0,0,0,,PART OF THE MUSLIM
+Dialogue: 0,0:00:50.39,0:00:51.59,Clip,,0,0,0,,BROTHERHOOD OR AL
+Dialogue: 0,0:00:51.59,0:00:52.39,Clip,,0,0,0,,QAEDA OR WHATEVER
+Dialogue: 0,0:00:52.39,0:00:53.09,Clip,,0,0,0,,THE PEOPLE SAY
+Dialogue: 0,0:00:53.09,0:00:53.99,Clip,,0,0,0,,ABOUT ME. DO
+Dialogue: 0,0:00:53.99,0:00:55.50,Clip,,0,0,0,,YOU UNDERSTAND? LIKE

@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.30,Clip,,0,0,0,,GOING TO BLOW UP,
+Dialogue: 0,0:00:00.30,0:00:01.18,Clip,,0,0,0,,MAN. OH I
+Dialogue: 0,0:00:01.18,0:00:01.98,Clip,,0,0,0,,WAS GOING TO
+Dialogue: 0,0:00:01.98,0:00:03.90,Clip,,0,0,0,,DIE. YOU SAVED
+Dialogue: 0,0:00:03.90,0:00:05.66,Clip,,0,0,0,,MY LIFE. WAIT,
+Dialogue: 0,0:00:05.66,0:00:06.14,Clip,,0,0,0,,IS THAT A
+Dialogue: 0,0:00:06.14,0:00:08.30,Clip,,0,0,0,,SAHARA TRUCK? OH,
+Dialogue: 0,0:00:08.30,0:00:09.26,Clip,,0,0,0,,THAT WAS CLOSE.
+Dialogue: 0,0:00:09.26,0:00:10.06,Clip,,0,0,0,,DO YOU DO
+Dialogue: 0,0:00:10.06,0:00:10.54,Clip,,0,0,0,,YOU HAVE ANY
+Dialogue: 0,0:00:10.54,0:00:11.34,Clip,,0,0,0,,IDEA HOW MUCH
+Dialogue: 0,0:00:11.34,0:00:12.86,Clip,,0,0,0,,MONEY SAHARA HAS?
+Dialogue: 0,0:00:12.86,0:00:13.90,Clip,,0,0,0,,OH, MY LAWYER'S
+Dialogue: 0,0:00:13.90,0:00:14.38,Clip,,0,0,0,,GOING TO SCREAM
+Dialogue: 0,0:00:14.38,0:00:15.34,Clip,,0,0,0,,IN HIS KHAKIS
+Dialogue: 0,0:00:15.34,0:00:15.82,Clip,,0,0,0,,WHEN I TELL
+Dialogue: 0,0:00:15.82,0:00:17.18,Clip,,0,0,0,,HIM ABOUT THIS.
+Dialogue: 0,0:00:17.18,0:00:17.66,Clip,,0,0,0,,THIS IS A
+Dialogue: 0,0:00:17.66,0:00:18.62,Clip,,0,0,0,,SEVEN FIGURE SETTLEMENT
+Dialogue: 0,0:00:18.62,0:00:20.14,Clip,,0,0,0,,EASY. AND REALLY,
+Dialogue: 0,0:00:20.14,0:00:20.62,Clip,,0,0,0,,IF YOU THINK
+Dialogue: 0,0:00:20.62,0:00:21.18,Clip,,0,0,0,,ABOUT IT, I
+Dialogue: 0,0:00:21.18,0:00:21.66,Clip,,0,0,0,,COULD HAVE GOTTEN
+Dialogue: 0,0:00:21.66,0:00:22.14,Clip,,0,0,0,,EIGHT IF I
+Dialogue: 0,0:00:22.14,0:00:23.02,Clip,,0,0,0,,GOTTEN SOME REALLY
+Dialogue: 0,0:00:23.02,0:00:24.22,Clip,,0,0,0,,UP BURNS. WAIT,
+Dialogue: 0,0:00:24.22,0:00:24.78,Clip,,0,0,0,,THERE STILL MIGHT
+Dialogue: 0,0:00:24.78,0:00:30.62,Clip,,0,0,0,,BE TIME. OKAY,
+Dialogue: 0,0:00:30.62,0:00:31.10,Clip,,0,0,0,,I CAN DO
+Dialogue: 0,0:00:31.10,0:00:32.22,Clip,,0,0,0,,IT. JUST GET
+Dialogue: 0,0:00:32.22,0:00:33.10,Clip,,0,0,0,,BACK IN THERE,
+Dialogue: 0,0:00:33.10,0:00:33.82,Clip,,0,0,0,,BURN MY DICK
+Dialogue: 0,0:00:33.82,0:00:37.86,Clip,,0,0,0,,A LITTLE, OUT.
+Dialogue: 0,0:00:43.10,0:00:46.78,Clip,,0,0,0,,HOLY OH GOD.
+Dialogue: 0,0:00:46.78,0:00:49.18,Clip,,0,0,0,,OH THIS HURTS.
+Dialogue: 0,0:00:49.18,0:00:50.14,Clip,,0,0,0,,IT HURTS SO
+Dialogue: 0,0:00:50.14,0:00:54.54,Clip,,0,0,0,,BAD. I'M GOING
+Dialogue: 0,0:00:54.54,0:00:55.34,Clip,,0,0,0,,TO SUE THEIR
+Dialogue: 0,0:00:55.34,0:00:58.66,Clip,,0,0,0,,DICK OFF.

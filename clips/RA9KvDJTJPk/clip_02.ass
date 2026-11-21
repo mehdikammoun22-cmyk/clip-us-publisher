@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.42,Clip,,0,0,0,,THE TOWN. HEY,
+Dialogue: 0,0:00:00.42,0:00:00.90,Clip,,0,0,0,,SO I WAS
+Dialogue: 0,0:00:00.90,0:00:01.54,Clip,,0,0,0,,THINKING LET'S GET
+Dialogue: 0,0:00:01.54,0:00:02.02,Clip,,0,0,0,,THE MOST OUT
+Dialogue: 0,0:00:02.02,0:00:02.34,Clip,,0,0,0,,OF THE ROOM
+Dialogue: 0,0:00:02.34,0:00:03.22,Clip,,0,0,0,,AND SKIP DINNER
+Dialogue: 0,0:00:03.22,0:00:03.78,Clip,,0,0,0,,SO WE GET
+Dialogue: 0,0:00:03.78,0:00:04.26,Clip,,0,0,0,,STRAIGHT TO THE
+Dialogue: 0,0:00:04.26,0:00:04.90,Clip,,0,0,0,,CLAPPING OF THE
+Dialogue: 0,0:00:04.90,0:00:07.78,Clip,,0,0,0,,CHEEKS. GROSS. PROSTITUTE.
+Dialogue: 0,0:00:07.78,0:00:10.02,Clip,,0,0,0,,OH, DO YOU
+Dialogue: 0,0:00:10.02,0:00:10.42,Clip,,0,0,0,,THINK YOU'RE A
+Dialogue: 0,0:00:10.42,0:00:11.46,Clip,,0,0,0,,PROSTITUTE? I'M ASKING
+Dialogue: 0,0:00:11.46,0:00:12.42,Clip,,0,0,0,,YOU. ARE YOU
+Dialogue: 0,0:00:12.42,0:00:12.98,Clip,,0,0,0,,CALLING ME A
+Dialogue: 0,0:00:12.98,0:00:13.94,Clip,,0,0,0,,HOE? I DON'T
+Dialogue: 0,0:00:13.94,0:00:16.26,Clip,,0,0,0,,KNOW. UM, MAYBE.
+Dialogue: 0,0:00:16.26,0:00:16.74,Clip,,0,0,0,,ARE YOU CALLING
+Dialogue: 0,0:00:16.74,0:00:17.62,Clip,,0,0,0,,ME A TRICK?
+Dialogue: 0,0:00:17.62,0:00:18.26,Clip,,0,0,0,,IS THIS A
+Dialogue: 0,0:00:18.26,0:00:19.94,Clip,,0,0,0,,TRICK QUESTION? SO,
+Dialogue: 0,0:00:19.94,0:00:20.50,Clip,,0,0,0,,I JUST ASKED
+Dialogue: 0,0:00:20.50,0:00:21.06,Clip,,0,0,0,,THIS GUY IF
+Dialogue: 0,0:00:21.06,0:00:21.54,Clip,,0,0,0,,HE THOUGHT I
+Dialogue: 0,0:00:21.54,0:00:22.34,Clip,,0,0,0,,WAS A HOE
+Dialogue: 0,0:00:22.34,0:00:23.06,Clip,,0,0,0,,AND HE SAID,
+Dialogue: 0,0:00:23.06,0:00:23.78,Clip,,0,0,0,,"I DON'T KNOW.
+Dialogue: 0,0:00:23.78,0:00:24.90,Clip,,0,0,0,,MAYBE." LIKE, IS
+Dialogue: 0,0:00:24.90,0:00:26.34,Clip,,0,0,0,,THIS HAPPENING? YOUR
+Dialogue: 0,0:00:26.34,0:00:26.98,Clip,,0,0,0,,LAUGH IS FUNNIER
+Dialogue: 0,0:00:26.98,0:00:28.18,Clip,,0,0,0,,THAN THE SHOW.
+Dialogue: 0,0:00:28.18,0:00:29.86,Clip,,0,0,0,,FOR YOUR INFORMATION,
+Dialogue: 0,0:00:29.86,0:00:30.42,Clip,,0,0,0,,I'M NOT A
+Dialogue: 0,0:00:30.42,0:00:31.22,Clip,,0,0,0,,HOE. HE'S VERY
+Dialogue: 0,0:00:31.22,0:00:31.94,Clip,,0,0,0,,CUTE. I'M AN
+Dialogue: 0,0:00:31.94,0:00:33.54,Clip,,0,0,0,,INFLUENCER. I'M A
+Dialogue: 0,0:00:33.54,0:00:34.90,Clip,,0,0,0,,CONTENT CREATOR. I
+Dialogue: 0,0:00:34.90,0:00:35.54,Clip,,0,0,0,,JUST THOUGHT WITH
+Dialogue: 0,0:00:35.54,0:00:36.50,Clip,,0,0,0,,THIS EXPENSIVE ASS
+Dialogue: 0,0:00:36.50,0:00:37.14,Clip,,0,0,0,,ROOM AND ALL
+Dialogue: 0,0:00:37.14,0:00:37.94,Clip,,0,0,0,,THAT THE CLAPPING
+Dialogue: 0,0:00:37.94,0:00:38.66,Clip,,0,0,0,,CHICKS WAS A
+Dialogue: 0,0:00:38.66,0:00:39.86,Clip,,0,0,0,,GIVEN. YOU KNOW,
+Dialogue: 0,0:00:39.86,0:00:40.42,Clip,,0,0,0,,YOU FLEW ME
+Dialogue: 0,0:00:40.42,0:00:41.22,Clip,,0,0,0,,OUT JUST I'M
+Dialogue: 0,0:00:41.22,0:00:42.74,Clip,,0,0,0,,MAKING ALL OVER.
+Dialogue: 0,0:00:42.74,0:00:43.38,Clip,,0,0,0,,YOU KNOW THAT.
+Dialogue: 0,0:00:43.38,0:00:43.86,Clip,,0,0,0,,YOU KNOW, I
+Dialogue: 0,0:00:43.86,0:00:44.58,Clip,,0,0,0,,WAS MEANT FOR
+Dialogue: 0,0:00:44.58,0:00:45.86,Clip,,0,0,0,,FINER THINGS THAN
+Dialogue: 0,0:00:45.86,0:00:47.54,Clip,,0,0,0,,FORCED LABOR. YOU
+Dialogue: 0,0:00:47.54,0:00:48.50,Clip,,0,0,0,,JUST LET ME
+Dialogue: 0,0:00:48.50,0:00:49.06,Clip,,0,0,0,,TURN YOUR ASS
+Dialogue: 0,0:00:49.06,0:00:50.26,Clip,,0,0,0,,UP. THAT'S A
+Dialogue: 0,0:00:50.26,0:00:52.34,Clip,,0,0,0,,QUOTE. OH, THAT
+Dialogue: 0,0:00:52.34,0:00:53.06,Clip,,0,0,0,,WASN'T ME. THAT
+Dialogue: 0,0:00:53.06,0:00:53.94,Clip,,0,0,0,,WAS MY AI
+Dialogue: 0,0:00:53.94,0:00:56.05,Clip,,0,0,0,,BOT. WHAT? IT

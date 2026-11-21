@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.24,Clip,,0,0,0,,LIFETIME. ME THAT
+Dialogue: 0,0:00:00.24,0:00:01.14,Clip,,0,0,0,,BEFORE THE JUDGMENT
+Dialogue: 0,0:00:01.14,0:00:01.84,Clip,,0,0,0,,THRONE OF GOD
+Dialogue: 0,0:00:01.84,0:00:02.54,Clip,,0,0,0,,YOU COULDN'T FIND
+Dialogue: 0,0:00:02.54,0:00:02.84,Clip,,0,0,0,,IT IN YOUR
+Dialogue: 0,0:00:02.84,0:00:03.64,Clip,,0,0,0,,HEART TO FORGIVE
+Dialogue: 0,0:00:03.64,0:00:04.04,Clip,,0,0,0,,SOME OF YOUR
+Dialogue: 0,0:00:04.04,0:00:06.84,Clip,,0,0,0,,ENEMIES? AFTER ALL
+Dialogue: 0,0:00:06.84,0:00:07.54,Clip,,0,0,0,,THAT'S BEEN GIVEN
+Dialogue: 0,0:00:07.54,0:00:08.24,Clip,,0,0,0,,TO YOU? COME
+Dialogue: 0,0:00:08.24,0:00:09.04,Clip,,0,0,0,,ON. HELP ME
+Dialogue: 0,0:00:09.04,0:00:09.54,Clip,,0,0,0,,OUT HERE. I
+Dialogue: 0,0:00:09.54,0:00:10.24,Clip,,0,0,0,,MEAN, IT'S SUCH
+Dialogue: 0,0:00:10.24,0:00:10.94,Clip,,0,0,0,,AN EASY ANSWER.
+Dialogue: 0,0:00:10.94,0:00:11.14,Clip,,0,0,0,,ALL I HAVE
+Dialogue: 0,0:00:11.14,0:00:11.44,Clip,,0,0,0,,TO DO IS
+Dialogue: 0,0:00:11.44,0:00:12.04,Clip,,0,0,0,,SAY YES, I
+Dialogue: 0,0:00:12.04,0:00:13.74,Clip,,0,0,0,,CAN. AGAIN, I
+Dialogue: 0,0:00:13.74,0:00:14.44,Clip,,0,0,0,,DON'T THINK IT'S
+Dialogue: 0,0:00:14.44,0:00:15.04,Clip,,0,0,0,,AN EASY ANSWER.
+Dialogue: 0,0:00:15.04,0:00:15.54,Clip,,0,0,0,,THAT'S WHY I
+Dialogue: 0,0:00:15.54,0:00:15.94,Clip,,0,0,0,,ASKED. CAN I
+Dialogue: 0,0:00:15.94,0:00:16.64,Clip,,0,0,0,,BE HONEST? I
+Dialogue: 0,0:00:16.64,0:00:17.64,Clip,,0,0,0,,PROBABLY CANNOT DO
+Dialogue: 0,0:00:17.64,0:00:18.74,Clip,,0,0,0,,THAT. NO, BECAUSE
+Dialogue: 0,0:00:18.74,0:00:19.34,Clip,,0,0,0,,I DO HATE
+Dialogue: 0,0:00:19.34,0:00:19.84,Clip,,0,0,0,,SOME OF MY
+Dialogue: 0,0:00:19.84,0:00:20.64,Clip,,0,0,0,,ENEMIES AND I
+Dialogue: 0,0:00:20.64,0:00:24.24,Clip,,0,0,0,,ALWAYS WILL. LOOK
+Dialogue: 0,0:00:24.24,0:00:26.64,Clip,,0,0,0,,AT HIS FACE.
+Dialogue: 0,0:00:29.44,0:00:29.94,Clip,,0,0,0,,OH, HE SAID,
+Dialogue: 0,0:00:29.94,0:00:30.54,Clip,,0,0,0,,NO, I'M GOING
+Dialogue: 0,0:00:30.54,0:00:32.14,Clip,,0,0,0,,TO HELL, THAT'S
+Dialogue: 0,0:00:32.14,0:00:33.54,Clip,,0,0,0,,DUDE, OKAY, RESPECT.
+Dialogue: 0,0:00:33.54,0:00:34.64,Clip,,0,0,0,,RESPECT. THAT'S GRADE
+Dialogue: 0,0:00:34.64,0:00:36.14,Clip,,0,0,0,,A HATER RIGHT
+Dialogue: 0,0:00:36.14,0:00:37.04,Clip,,0,0,0,,THERE. THAT IS
+Dialogue: 0,0:00:37.04,0:00:37.54,Clip,,0,0,0,,THAT IS A
+Dialogue: 0,0:00:37.54,0:00:40.04,Clip,,0,0,0,,RESPECTABLE LEVEL OF
+Dialogue: 0,0:00:40.04,0:00:40.84,Clip,,0,0,0,,OWNING IT. I
+Dialogue: 0,0:00:40.84,0:00:41.64,Clip,,0,0,0,,HAVE TO ADMIT
+Dialogue: 0,0:00:41.64,0:00:42.54,Clip,,0,0,0,,THIS. I HATE
+Dialogue: 0,0:00:42.54,0:00:42.94,Clip,,0,0,0,,TO GIVE HIM
+Dialogue: 0,0:00:42.94,0:00:44.10,Clip,,0,0,0,,ANY CREDIT WHATSOEVER,

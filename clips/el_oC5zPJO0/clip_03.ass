@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.08,Clip,,0,0,0,,NEVER TO? NO.
+Dialogue: 0,0:00:02.08,0:00:03.20,Clip,,0,0,0,,NO. UH BUT
+Dialogue: 0,0:00:03.20,0:00:07.20,Clip,,0,0,0,,ONLY BECAUSE UM
+Dialogue: 0,0:00:07.20,0:00:07.92,Clip,,0,0,0,,I NEVER SAW
+Dialogue: 0,0:00:07.92,0:00:09.68,Clip,,0,0,0,,A HAPPY CRACKHEAD.
+Dialogue: 0,0:00:09.68,0:00:12.64,Clip,,0,0,0,,YEAH. YOU KNOW,
+Dialogue: 0,0:00:12.64,0:00:13.68,Clip,,0,0,0,,AND I I
+Dialogue: 0,0:00:13.68,0:00:18.08,Clip,,0,0,0,,SAW I SAW
+Dialogue: 0,0:00:18.08,0:00:20.08,Clip,,0,0,0,,THE THINGS THAT
+Dialogue: 0,0:00:20.08,0:00:20.80,Clip,,0,0,0,,IT COULD MAKE
+Dialogue: 0,0:00:20.80,0:00:22.96,Clip,,0,0,0,,YOU DO, YOU
+Dialogue: 0,0:00:22.96,0:00:24.08,Clip,,0,0,0,,KNOW? AND SOMETIMES
+Dialogue: 0,0:00:24.08,0:00:25.20,Clip,,0,0,0,,YOU SEE SOMETHING
+Dialogue: 0,0:00:25.20,0:00:27.44,Clip,,0,0,0,,AND YOU GO,
+Dialogue: 0,0:00:27.44,0:00:28.96,Clip,,0,0,0,,"OH THAT'S WAY
+Dialogue: 0,0:00:28.96,0:00:30.72,Clip,,0,0,0,,TOO POWERFUL." LIKE
+Dialogue: 0,0:00:30.72,0:00:31.84,Clip,,0,0,0,,ANYTHING THAT'LL MAKE
+Dialogue: 0,0:00:31.84,0:00:34.32,Clip,,0,0,0,,A MOTHER OFFER
+Dialogue: 0,0:00:34.32,0:00:35.12,Clip,,0,0,0,,TO SELL YOU
+Dialogue: 0,0:00:35.12,0:00:38.32,Clip,,0,0,0,,THEIR CHILD, THAT'S
+Dialogue: 0,0:00:38.32,0:00:39.36,Clip,,0,0,0,,THE DEVIL'S WORK
+Dialogue: 0,0:00:39.36,0:00:40.30,Clip,,0,0,0,,THERE. YOU KNOW WHAT

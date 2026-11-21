@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.94,Clip,,0,0,0,,WE WORKED ON
+Dialogue: 0,0:00:00.94,0:00:01.98,Clip,,0,0,0,,THE ELECTIONS. MAYBE
+Dialogue: 0,0:00:01.98,0:00:02.54,Clip,,0,0,0,,NOT TO THE
+Dialogue: 0,0:00:02.54,0:00:03.50,Clip,,0,0,0,,SAME DEGREE OBVIOUSLY,
+Dialogue: 0,0:00:03.50,0:00:04.06,Clip,,0,0,0,,BUT LIKE I
+Dialogue: 0,0:00:04.06,0:00:04.70,Clip,,0,0,0,,WAS COVERING THIS
+Dialogue: 0,0:00:04.70,0:00:05.26,Clip,,0,0,0,,STUFF. IT WAS
+Dialogue: 0,0:00:05.26,0:00:06.38,Clip,,0,0,0,,MY FIRST YEAR
+Dialogue: 0,0:00:06.38,0:00:07.34,Clip,,0,0,0,,AS A FULL-TIME
+Dialogue: 0,0:00:07.34,0:00:08.70,Clip,,0,0,0,,TWITCH STREAMER. OKAY,
+Dialogue: 0,0:00:08.70,0:00:09.18,Clip,,0,0,0,,I'LL GIVE YOU
+Dialogue: 0,0:00:09.18,0:00:09.58,Clip,,0,0,0,,A LITTLE BIT
+Dialogue: 0,0:00:09.58,0:00:11.34,Clip,,0,0,0,,OF A HISTORY.
+Dialogue: 0,0:00:11.34,0:00:11.98,Clip,,0,0,0,,OKAY, FOR THE
+Dialogue: 0,0:00:11.98,0:00:12.54,Clip,,0,0,0,,OLD HEADS IN
+Dialogue: 0,0:00:12.54,0:00:13.18,Clip,,0,0,0,,THIS CHAT, THIS
+Dialogue: 0,0:00:13.18,0:00:14.14,Clip,,0,0,0,,IS A FLASHBACK,
+Dialogue: 0,0:00:14.14,0:00:14.94,Clip,,0,0,0,,RIGHT? THIS IS
+Dialogue: 0,0:00:14.94,0:00:16.06,Clip,,0,0,0,,LITERALLY SOMETHING THAT
+Dialogue: 0,0:00:16.06,0:00:17.42,Clip,,0,0,0,,THEY REMEMBER. BACK
+Dialogue: 0,0:00:17.42,0:00:17.82,Clip,,0,0,0,,IN THE DAY,
+Dialogue: 0,0:00:17.82,0:00:18.22,Clip,,0,0,0,,I USED TO
+Dialogue: 0,0:00:18.22,0:00:18.62,Clip,,0,0,0,,DO A LOT
+Dialogue: 0,0:00:18.62,0:00:19.50,Clip,,0,0,0,,OF VARIETY. AND
+Dialogue: 0,0:00:19.50,0:00:20.22,Clip,,0,0,0,,THEN THROUGHOUT THE
+Dialogue: 0,0:00:20.22,0:00:21.10,Clip,,0,0,0,,ELECTION CYCLE, OF
+Dialogue: 0,0:00:21.10,0:00:21.82,Clip,,0,0,0,,COURSE, I STARTED
+Dialogue: 0,0:00:21.82,0:00:22.70,Clip,,0,0,0,,COVERING JUST THE
+Dialogue: 0,0:00:22.70,0:00:23.40,Clip,,0,0,0,,ELECTION.

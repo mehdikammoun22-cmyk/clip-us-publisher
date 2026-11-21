@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.42,Clip,,0,0,0,,OF STUPIDEST PERSON
+Dialogue: 0,0:00:00.42,0:00:01.14,Clip,,0,0,0,,IN THE ADMIN?
+Dialogue: 0,0:00:01.14,0:00:01.62,Clip,,0,0,0,,I DON'T KNOW,
+Dialogue: 0,0:00:01.62,0:00:02.10,Clip,,0,0,0,,MAN. HE'S GOT
+Dialogue: 0,0:00:02.10,0:00:03.06,Clip,,0,0,0,,TOUGH COMPETITION. I
+Dialogue: 0,0:00:03.06,0:00:03.62,Clip,,0,0,0,,MEAN, THESE GUYS
+Dialogue: 0,0:00:03.62,0:00:04.66,Clip,,0,0,0,,ARE LIKE THESE
+Dialogue: 0,0:00:04.66,0:00:05.54,Clip,,0,0,0,,GUYS ARE LIKE
+Dialogue: 0,0:00:05.54,0:00:06.74,Clip,,0,0,0,,CHICAGO BULLS AT
+Dialogue: 0,0:00:06.74,0:00:07.86,Clip,,0,0,0,,THEIR PEAK WHEN
+Dialogue: 0,0:00:07.86,0:00:08.66,Clip,,0,0,0,,IT COMES TO
+Dialogue: 0,0:00:08.66,0:00:10.58,Clip,,0,0,0,,THE STUPIDITY COMPETITION.
+Dialogue: 0,0:00:10.58,0:00:10.90,Clip,,0,0,0,,YOU KNOW WHAT
+Dialogue: 0,0:00:10.90,0:00:11.70,Clip,,0,0,0,,I MEAN? LIKE,
+Dialogue: 0,0:00:11.70,0:00:12.34,Clip,,0,0,0,,I DON'T KNOW
+Dialogue: 0,0:00:12.34,0:00:13.06,Clip,,0,0,0,,WHO THE THE
+Dialogue: 0,0:00:13.06,0:00:14.50,Clip,,0,0,0,,MICHAEL JORDAN OF
+Dialogue: 0,0:00:14.50,0:00:15.86,Clip,,0,0,0,,STUPIDS IS. I
+Dialogue: 0,0:00:15.86,0:00:16.34,Clip,,0,0,0,,DON'T THINK IT'S
+Dialogue: 0,0:00:16.34,0:00:17.06,Clip,,0,0,0,,HIM, THOUGH. I
+Dialogue: 0,0:00:17.06,0:00:17.62,Clip,,0,0,0,,MEAN, HE IS
+Dialogue: 0,0:00:17.62,0:00:18.66,Clip,,0,0,0,,STUPID. IT'S JUST
+Dialogue: 0,0:00:18.66,0:00:19.38,Clip,,0,0,0,,TOUGH CUZ YOU
+Dialogue: 0,0:00:19.38,0:00:20.74,Clip,,0,0,0,,GOT CASH PATEL,
+Dialogue: 0,0:00:20.74,0:00:22.02,Clip,,0,0,0,,YOU GOT DUFFY,
+Dialogue: 0,0:00:22.02,0:00:22.66,Clip,,0,0,0,,YOU HAVE SO
+Dialogue: 0,0:00:22.66,0:00:23.54,Clip,,0,0,0,,MANY STUPIDS. YOU
+Dialogue: 0,0:00:23.54,0:00:25.06,Clip,,0,0,0,,GOT TRUMP HIMSELF.
+Dialogue: 0,0:00:25.06,0:00:25.78,Clip,,0,0,0,,YOU GOT DONALD
+Dialogue: 0,0:00:25.78,0:00:26.66,Clip,,0,0,0,,TRUMP. YOU GOT
+Dialogue: 0,0:00:26.66,0:00:28.18,Clip,,0,0,0,,RFK JR. I
+Dialogue: 0,0:00:28.18,0:00:29.22,Clip,,0,0,0,,DON'T KNOW WHO.
+Dialogue: 0,0:00:29.22,0:00:29.78,Clip,,0,0,0,,I MEAN, YOU
+Dialogue: 0,0:00:29.78,0:00:30.50,Clip,,0,0,0,,THEY BROUGHT IN
+Dialogue: 0,0:00:30.50,0:00:31.54,Clip,,0,0,0,,OTHER STUPIDS FROM
+Dialogue: 0,0:00:31.54,0:00:32.34,Clip,,0,0,0,,THE OUTSIDE. THEY
+Dialogue: 0,0:00:32.34,0:00:32.98,Clip,,0,0,0,,WERE LIKE, "WE'RE
+Dialogue: 0,0:00:32.98,0:00:34.10,Clip,,0,0,0,,NOT EVEN WE'RE
+Dialogue: 0,0:00:34.10,0:00:35.06,Clip,,0,0,0,,NOT EVEN DUMB
+Dialogue: 0,0:00:35.06,0:00:35.78,Clip,,0,0,0,,ENOUGH ON OUR
+Dialogue: 0,0:00:35.78,0:00:36.50,Clip,,0,0,0,,OWN. LET'S GO
+Dialogue: 0,0:00:36.50,0:00:37.54,Clip,,0,0,0,,HIRE SOME OUTSIDE
+Dialogue: 0,0:00:37.54,0:00:38.50,Clip,,0,0,0,,HELP." THEY BROUGHT
+Dialogue: 0,0:00:38.50,0:00:40.10,Clip,,0,0,0,,IN NICK SHIRLEY,
+Dialogue: 0,0:00:40.10,0:00:41.14,Clip,,0,0,0,,BRO. IS THIS
+Dialogue: 0,0:00:41.14,0:00:42.50,Clip,,0,0,0,,ALL EXPECTED? YEAH,

@@ -1,0 +1,14 @@
+{
+  "_note": "Chaînes US surveillées par le chasseur. autorise = true seulement si le créateur autorise le clipping (programme de clipping, accord écrit). Sinon les clips restent des tests, à ne pas publier.",
+  "createurs": [
+    {"chaine": "@KaiCenat", "disposition": "suivi", "autorise": false},
+    {"chaine": "@IShowSpeed", "disposition": "suivi", "autorise": false},
+    {"chaine": "@MrBeast", "disposition": "suivi", "autorise": false},
+    {"chaine": "@theovon", "disposition": "suivi", "autorise": false},
+    {"chaine": "@hasanabi", "disposition": "suivi", "autorise": false},
+    {"chaine": "@Impaulsive", "disposition": "suivi", "autorise": false},
+    {"chaine": "@Adin", "disposition": "suivi", "autorise": false},
+    {"chaine": "@xQcOW", "disposition": "suivi", "autorise": false},
+    {"chaine": "@demo_perso", "disposition": "centre", "autorise": true, "surveiller": false, "_note": "Nos propres animations (outils/jeux.py) : démo de l'audit TikTok. Pas une chaîne à chasser."}
+  ]
+}

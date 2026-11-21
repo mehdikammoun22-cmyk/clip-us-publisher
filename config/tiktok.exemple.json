@@ -1,0 +1,8 @@
+{
+  "_note": "Copie ce fichier en tiktok.json et remplis-le. Ne le partage jamais (clés secrètes).",
+  "client_key": "COLLE_ICI_LA_CLIENT_KEY_DE_TON_APP_TIKTOK",
+  "client_secret": "COLLE_ICI_LE_CLIENT_SECRET",
+  "redirect_uri": "https://ADRESSE-ENREGISTREE-DANS-TON-APP-TIKTOK/",
+  "visibilite": "SELF_ONLY",
+  "_visibilite_aide": "SELF_ONLY (privé) tant que l'app n'a pas passé l'audit TikTok. Ensuite : PUBLIC_TO_EVERYONE."
+}

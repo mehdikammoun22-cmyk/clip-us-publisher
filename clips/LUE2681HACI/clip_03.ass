@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.16,0:00:00.88,Clip,,0,0,0,,BRO, WHOSE KID
+Dialogue: 0,0:00:00.88,0:00:03.44,Clip,,0,0,0,,IS THAT? YOU'RE
+Dialogue: 0,0:00:03.44,0:00:06.00,Clip,,0,0,0,,EVERYTHING TO ME.
+Dialogue: 0,0:00:06.00,0:00:06.72,Clip,,0,0,0,,EVERY TIME I'M
+Dialogue: 0,0:00:06.72,0:00:10.32,Clip,,0,0,0,,WITH YOU, BABY.
+Dialogue: 0,0:00:10.32,0:00:10.96,Clip,,0,0,0,,WHEN YOU LAY
+Dialogue: 0,0:00:10.96,0:00:12.24,Clip,,0,0,0,,IN MY ARMS,
+Dialogue: 0,0:00:12.24,0:00:12.96,Clip,,0,0,0,,YOU DO THE
+Dialogue: 0,0:00:12.96,0:00:15.04,Clip,,0,0,0,,THINGS YOU DO.
+Dialogue: 0,0:00:15.04,0:00:15.52,Clip,,0,0,0,,YOU CAN SEE
+Dialogue: 0,0:00:15.52,0:00:16.16,Clip,,0,0,0,,IT IN MY
+Dialogue: 0,0:00:16.16,0:00:17.36,Clip,,0,0,0,,EYES. I CAN
+Dialogue: 0,0:00:17.36,0:00:18.00,Clip,,0,0,0,,FEEL IT IN
+Dialogue: 0,0:00:18.00,0:00:20.08,Clip,,0,0,0,,YOUR TOUCH. YOU
+Dialogue: 0,0:00:20.08,0:00:23.52,Clip,,0,0,0,,DON'T HAVE TO
+Dialogue: 0,0:00:23.52,0:00:24.64,Clip,,0,0,0,,AND THE KID
+Dialogue: 0,0:00:24.64,0:00:25.20,Clip,,0,0,0,,IS WHITER THAN
+Dialogue: 0,0:00:25.20,0:00:25.68,Clip,,0,0,0,,BOTH OF THEM
+Dialogue: 0,0:00:25.68,0:00:27.04,Clip,,0,0,0,,THOUGH. LIKE OFF
+Dialogue: 0,0:00:27.04,0:00:30.04,Clip,,0,0,0,,HER.

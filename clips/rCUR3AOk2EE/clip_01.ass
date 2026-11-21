@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.50,Clip,,0,0,0,,FOR. UM I
+Dialogue: 0,0:00:00.50,0:00:00.90,Clip,,0,0,0,,I WANT TO
+Dialogue: 0,0:00:00.90,0:00:02.60,Clip,,0,0,0,,ISSUE AN APOLOGY.
+Dialogue: 0,0:00:02.60,0:00:02.90,Clip,,0,0,0,,I WANT TO
+Dialogue: 0,0:00:02.90,0:00:03.80,Clip,,0,0,0,,ISSUE AN APOLOGY
+Dialogue: 0,0:00:03.80,0:00:04.20,Clip,,0,0,0,,I WANT TO
+Dialogue: 0,0:00:04.20,0:00:05.00,Clip,,0,0,0,,ISSUE AN APOLOGY
+Dialogue: 0,0:00:05.00,0:00:06.00,Clip,,0,0,0,,TO ZOHRAN KWAME
+Dialogue: 0,0:00:06.00,0:00:07.40,Clip,,0,0,0,,MAMDANI FROM MY
+Dialogue: 0,0:00:07.40,0:00:08.40,Clip,,0,0,0,,MOUTH TO GOD'S
+Dialogue: 0,0:00:08.40,0:00:09.80,Clip,,0,0,0,,EARS. I THOUGHT
+Dialogue: 0,0:00:09.80,0:00:11.80,Clip,,0,0,0,,THE MUSTACHE WAS CORNY.
+Dialogue: 0,0:00:11.80,0:00:12.40,Clip,,0,0,0,,I THOUGHT THAT
+Dialogue: 0,0:00:12.40,0:00:12.90,Clip,,0,0,0,,IT WAS GOING
+Dialogue: 0,0:00:12.90,0:00:13.80,Clip,,0,0,0,,TO DIMINISH HIS
+Dialogue: 0,0:00:13.80,0:00:15.40,Clip,,0,0,0,,POWER. IT TURNS
+Dialogue: 0,0:00:15.40,0:00:16.90,Clip,,0,0,0,,OUT IT'S ONLY
+Dialogue: 0,0:00:16.90,0:00:17.60,Clip,,0,0,0,,MADE HIM MORE
+Dialogue: 0,0:00:17.60,0:00:19.70,Clip,,0,0,0,,POWERFUL AT LEAST
+Dialogue: 0,0:00:19.70,0:00:20.30,Clip,,0,0,0,,IN THE EYES
+Dialogue: 0,0:00:20.30,0:00:22.30,Clip,,0,0,0,,OF DONALD TRUMP.
+Dialogue: 0,0:00:22.30,0:00:23.10,Clip,,0,0,0,,FOR ONE REASON
+Dialogue: 0,0:00:23.10,0:00:23.90,Clip,,0,0,0,,OR ANOTHER, AND
+Dialogue: 0,0:00:23.90,0:00:24.90,Clip,,0,0,0,,I DON'T FULLY
+Dialogue: 0,0:00:24.90,0:00:26.30,Clip,,0,0,0,,UNDERSTAND IT, IT'S
+Dialogue: 0,0:00:26.30,0:00:27.50,Clip,,0,0,0,,A BUSINESS MUSTACHE
+Dialogue: 0,0:00:27.50,0:00:29.30,Clip,,0,0,0,,MAYBE. DONALD TRUMP
+Dialogue: 0,0:00:29.30,0:00:30.80,Clip,,0,0,0,,SAW THE MUSTACHE,
+Dialogue: 0,0:00:30.80,0:00:32.30,Clip,,0,0,0,,NO STUBBLE, AND
+Dialogue: 0,0:00:32.30,0:00:33.60,Clip,,0,0,0,,SAID, WOW, YOU
+Dialogue: 0,0:00:33.60,0:00:34.30,Clip,,0,0,0,,LOOK EVEN MORE
+Dialogue: 0,0:00:34.30,0:00:35.90,Clip,,0,0,0,,HANDSOME THAN BEFORE
+Dialogue: 0,0:00:35.90,0:00:36.70,Clip,,0,0,0,,AND WENT ALONG
+Dialogue: 0,0:00:36.70,0:00:38.80,Clip,,0,0,0,,WITH WHATEVER CLEVER
+Dialogue: 0,0:00:38.80,0:00:40.80,Clip,,0,0,0,,DESIGN OUR BATHES
+Dialogue: 0,0:00:40.80,0:00:42.20,Clip,,0,0,0,,BOY CAME UP
+Dialogue: 0,0:00:42.20,0:00:44.30,Clip,,0,0,0,,WITH. ZOHRAN BATH
+Dialogue: 0,0:00:44.30,0:00:45.60,Clip,,0,0,0,,DONNY CAME OUT
+Dialogue: 0,0:00:45.60,0:00:46.40,Clip,,0,0,0,,OF THE GATE SWINGING
+Dialogue: 0,0:00:46.40,0:00:47.50,Clip,,0,0,0,,WITH THIS NEW
+Dialogue: 0,0:00:47.50,0:00:49.90,Clip,,0,0,0,,MUSTACHE REVEAL. DONALD
+Dialogue: 0,0:00:49.90,0:00:50.89,Clip,,0,0,0,,TRUMP IT. MAYBE
+Dialogue: 0,0:00:50.89,0:00:51.39,Clip,,0,0,0,,IT'S BECAUSE IT'S
+Dialogue: 0,0:00:51.39,0:00:51.99,Clip,,0,0,0,,LIKE A LIKE
+Dialogue: 0,0:00:51.99,0:00:53.09,Clip,,0,0,0,,A DICTATOR STYLE
+Dialogue: 0,0:00:53.09,0:00:53.99,Clip,,0,0,0,,MUSTACHE AND TRUMP
+Dialogue: 0,0:00:53.99,0:00:55.49,Clip,,0,0,0,,LOVES THAT. I DON'T
+Dialogue: 0,0:00:55.49,0:00:55.89,Clip,,0,0,0,,KNOW WHAT IT
+Dialogue: 0,0:00:55.89,0:00:56.85,Clip,,0,0,0,,IS.

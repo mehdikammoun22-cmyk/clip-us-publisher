@@ -1,0 +1,45 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.29,Clip,,0,0,0,,TO I LIKED
+Dialogue: 0,0:00:00.29,0:00:01.29,Clip,,0,0,0,,THAT THIS SAME
+Dialogue: 0,0:00:01.29,0:00:02.19,Clip,,0,0,0,,COMPLETELY OUT OF
+Dialogue: 0,0:00:02.19,0:00:04.49,Clip,,0,0,0,,TOUCH, SMUG, NARCISSISTIC
+Dialogue: 0,0:00:04.49,0:00:05.89,Clip,,0,0,0,,RHETORIC THAT CAUSED
+Dialogue: 0,0:00:05.89,0:00:07.49,Clip,,0,0,0,,THE REPUBLICAN PARTY
+Dialogue: 0,0:00:07.49,0:00:09.69,Clip,,0,0,0,,TO RECEIVE SPECTACULAR
+Dialogue: 0,0:00:09.69,0:00:10.59,Clip,,0,0,0,,BLOWS IN THE
+Dialogue: 0,0:00:10.59,0:00:12.39,Clip,,0,0,0,,MIDTERMS IS EXACTLY
+Dialogue: 0,0:00:12.39,0:00:13.29,Clip,,0,0,0,,THE SAME OUT
+Dialogue: 0,0:00:13.29,0:00:14.09,Clip,,0,0,0,,OF TOUCH NARCISSISM
+Dialogue: 0,0:00:14.09,0:00:14.69,Clip,,0,0,0,,THAT TRUMP IS
+Dialogue: 0,0:00:14.69,0:00:15.99,Clip,,0,0,0,,CONTINUING TO DEMONSTRATE
+Dialogue: 0,0:00:15.99,0:00:16.89,Clip,,0,0,0,,HERE. THE PART
+Dialogue: 0,0:00:16.89,0:00:17.69,Clip,,0,0,0,,OF THE THE PART
+Dialogue: 0,0:00:17.69,0:00:18.09,Clip,,0,0,0,,OF THE INTERVIEW
+Dialogue: 0,0:00:18.09,0:00:18.49,Clip,,0,0,0,,WHERE HE JUST
+Dialogue: 0,0:00:18.49,0:00:19.09,Clip,,0,0,0,,GOES, WELL, I
+Dialogue: 0,0:00:19.09,0:00:19.99,Clip,,0,0,0,,MADE MILLIONS, YOU
+Dialogue: 0,0:00:19.99,0:00:20.49,Clip,,0,0,0,,KNOW, I'M VERY
+Dialogue: 0,0:00:20.49,0:00:21.49,Clip,,0,0,0,,RICH. WHY DIDN'T
+Dialogue: 0,0:00:21.49,0:00:22.49,Clip,,0,0,0,,YOU BUY STOCK,
+Dialogue: 0,0:00:22.49,0:00:23.69,Clip,,0,0,0,,STUPID? YOU SHOULD
+Dialogue: 0,0:00:23.69,0:00:24.39,Clip,,0,0,0,,HAVE JUST BOUGHT
+Dialogue: 0,0:00:24.39,0:00:25.09,Clip,,0,0,0,,STOCK. LIKE THAT'S
+Dialogue: 0,0:00:25.09,0:00:26.29,Clip,,0,0,0,,EXACTLY THAT IS
+Dialogue: 0,0:00:26.29,0:00:27.59,Clip,,0,0,0,,EXACTLY WHAT IS
+Dialogue: 0,0:00:27.59,0:00:28.19,Clip,,0,0,0,,AT THE HEART
+Dialogue: 0,0:00:28.19,0:00:29.39,Clip,,0,0,0,,OF THE REPUBLICAN
+Dialogue: 0,0:00:29.39,0:00:31.79,Clip,,0,0,0,,DEFEAT. AMAZING. ACTIONS,
+Dialogue: 0,0:00:31.79,0:00:32.89,Clip,,0,0,0,,RIGHT? SO WHY
+Dialogue: 0,0:00:32.89,0:00:33.49,Clip,,0,0,0,,COULDN'T YOU WIN
+Dialogue: 0,0:00:33.49,0:00:33.70,Clip,,0,0,0,,THE I THINK

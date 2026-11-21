@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.40,Clip,,0,0,0,,CAN CLOSE YOUR
+Dialogue: 0,0:00:00.40,0:00:00.96,Clip,,0,0,0,,EYES FOR A
+Dialogue: 0,0:00:00.96,0:00:01.76,Clip,,0,0,0,,BRIEF MOMENT. NOT
+Dialogue: 0,0:00:01.76,0:00:02.72,Clip,,0,0,0,,ON SOME WEIRD
+Dialogue: 0,0:00:02.72,0:00:03.44,Clip,,0,0,0,,DON'T WORRY. AND
+Dialogue: 0,0:00:03.44,0:00:04.56,Clip,,0,0,0,,IMAGINE A WORLD
+Dialogue: 0,0:00:04.56,0:00:06.24,Clip,,0,0,0,,WHERE UNDER THE
+Dialogue: 0,0:00:06.24,0:00:08.48,Clip,,0,0,0,,BIDEN ADMINISTRATION, THE
+Dialogue: 0,0:00:08.48,0:00:10.24,Clip,,0,0,0,,DEMOCRATS MADE A
+Dialogue: 0,0:00:10.24,0:00:11.84,Clip,,0,0,0,,BIG SHOW OF
+Dialogue: 0,0:00:11.84,0:00:13.12,Clip,,0,0,0,,LOOSENING THE RESTRICTIONS
+Dialogue: 0,0:00:13.12,0:00:14.64,Clip,,0,0,0,,FOR THE FBI
+Dialogue: 0,0:00:14.64,0:00:15.44,Clip,,0,0,0,,AND THEY CAME
+Dialogue: 0,0:00:15.44,0:00:16.24,Clip,,0,0,0,,OUT AND SAID
+Dialogue: 0,0:00:16.24,0:00:17.28,Clip,,0,0,0,,THAT IF YOU
+Dialogue: 0,0:00:17.28,0:00:18.24,Clip,,0,0,0,,AN ANIMAL, GOT
+Dialogue: 0,0:00:18.24,0:00:18.88,Clip,,0,0,0,,BY AN ANIMAL,
+Dialogue: 0,0:00:18.88,0:00:19.36,Clip,,0,0,0,,YOU CAN JOIN
+Dialogue: 0,0:00:19.36,0:00:20.00,Clip,,0,0,0,,THE FBI. IT'S
+Dialogue: 0,0:00:20.00,0:00:20.64,Clip,,0,0,0,,NOT AN AUTOMATIC
+Dialogue: 0,0:00:20.64,0:00:23.20,Clip,,0,0,0,,DISQUALIFIER. HOW MUCH
+Dialogue: 0,0:00:23.20,0:00:24.00,Clip,,0,0,0,,WOULD THAT BE
+Dialogue: 0,0:00:24.00,0:00:25.36,Clip,,0,0,0,,TALKED ABOUT WITH
+Dialogue: 0,0:00:25.36,0:00:27.52,Clip,,0,0,0,,THIS ADMINISTRATION? IT
+Dialogue: 0,0:00:27.52,0:00:28.72,Clip,,0,0,0,,WAS A ONE
+Dialogue: 0,0:00:28.72,0:00:29.92,Clip,,0,0,0,,DAY OCCURRENCE. WE
+Dialogue: 0,0:00:29.92,0:00:30.56,Clip,,0,0,0,,DIDN'T EVEN TALK
+Dialogue: 0,0:00:30.56,0:00:31.20,Clip,,0,0,0,,ABOUT IT. WE
+Dialogue: 0,0:00:31.20,0:00:32.56,Clip,,0,0,0,,MOVED ON. WE
+Dialogue: 0,0:00:32.56,0:00:33.28,Clip,,0,0,0,,MOVED ON FROM
+Dialogue: 0,0:00:33.28,0:00:35.60,Clip,,0,0,0,,IT BECAUSE REPUBLICANS
+Dialogue: 0,0:00:35.60,0:00:36.96,Clip,,0,0,0,,GET AWAY WITH
+Dialogue: 0,0:00:36.96,0:00:39.12,Clip,,0,0,0,,EVERYTHING INCLUDING DEFENDING
+Dialogue: 0,0:00:39.12,0:00:41.20,Clip,,0,0,0,,PEDOPHILES AND BEASTIALITY.
+Dialogue: 0,0:00:41.20,0:00:42.32,Clip,,0,0,0,,IMAGINE A WORLD
+Dialogue: 0,0:00:42.32,0:00:43.84,Clip,,0,0,0,,WHERE THIS QUESTION
+Dialogue: 0,0:00:43.84,0:00:45.12,Clip,,0,0,0,,WAS BEING ASKED
+Dialogue: 0,0:00:45.12,0:00:45.80,Clip,,0,0,0,,NOT OF

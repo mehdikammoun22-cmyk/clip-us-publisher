@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.06,Clip,,0,0,0,,OKAY. WELL, UH,
+Dialogue: 0,0:00:02.06,0:00:02.62,Clip,,0,0,0,,I DON'T KNOW
+Dialogue: 0,0:00:02.62,0:00:03.10,Clip,,0,0,0,,HOW TO SAY
+Dialogue: 0,0:00:03.10,0:00:03.98,Clip,,0,0,0,,THIS, BUT YOUR
+Dialogue: 0,0:00:03.98,0:00:06.62,Clip,,0,0,0,,CREDIT IS DOG
+Dialogue: 0,0:00:06.62,0:00:08.22,Clip,,0,0,0,,LIKE TOTAL ASS.
+Dialogue: 0,0:00:08.22,0:00:08.94,Clip,,0,0,0,,THE COMPUTER WON'T
+Dialogue: 0,0:00:08.94,0:00:09.34,Clip,,0,0,0,,EVEN LET ME
+Dialogue: 0,0:00:09.34,0:00:09.82,Clip,,0,0,0,,GET YOU AN
+Dialogue: 0,0:00:09.82,0:00:10.46,Clip,,0,0,0,,ACCOUNT, MUCH LESS
+Dialogue: 0,0:00:10.46,0:00:10.86,Clip,,0,0,0,,ONE OF OUR
+Dialogue: 0,0:00:10.86,0:00:14.30,Clip,,0,0,0,,MORTGAGE PRODUCTS. ARE
+Dialogue: 0,0:00:14.30,0:00:15.58,Clip,,0,0,0,,YOU BULLSHITTING ME?
+Dialogue: 0,0:00:15.58,0:00:16.30,Clip,,0,0,0,,WE NEED AN
+Dialogue: 0,0:00:16.30,0:00:17.98,Clip,,0,0,0,,ACCOUNT. I'M SORRY.
+Dialogue: 0,0:00:17.98,0:00:19.34,Clip,,0,0,0,,I CAN'T DO
+Dialogue: 0,0:00:19.34,0:00:19.90,Clip,,0,0,0,,THAT. BUT YOU'RE
+Dialogue: 0,0:00:19.90,0:00:20.78,Clip,,0,0,0,,A BANK. ISN'T
+Dialogue: 0,0:00:20.78,0:00:21.50,Clip,,0,0,0,,THAT WHAT YOU
+Dialogue: 0,0:00:21.50,0:00:22.06,Clip,,0,0,0,,DO? I MEAN,
+Dialogue: 0,0:00:22.06,0:00:22.70,Clip,,0,0,0,,THERE'S TONS OF
+Dialogue: 0,0:00:22.70,0:00:23.42,Clip,,0,0,0,,PEOPLE THAT DON'T
+Dialogue: 0,0:00:23.42,0:00:25.02,Clip,,0,0,0,,HAVE SAVINGS, SO
+Dialogue: 0,0:00:25.02,0:00:26.78,Clip,,0,0,0,,DO SOME BANKING.
+Dialogue: 0,0:00:26.78,0:00:27.58,Clip,,0,0,0,,IT'S YOUR CREDIT.
+Dialogue: 0,0:00:27.58,0:00:28.06,Clip,,0,0,0,,THE BEST THING
+Dialogue: 0,0:00:28.06,0:00:28.54,Clip,,0,0,0,,I CAN DO
+Dialogue: 0,0:00:28.54,0:00:29.26,Clip,,0,0,0,,IS SET YOU
+Dialogue: 0,0:00:29.26,0:00:29.82,Clip,,0,0,0,,UP WITH SOME
+Dialogue: 0,0:00:29.82,0:00:31.10,Clip,,0,0,0,,BUCKME ACCOUNTS. IT'S
+Dialogue: 0,0:00:31.10,0:00:31.90,Clip,,0,0,0,,ON YOUR PHONE.
+Dialogue: 0,0:00:31.90,0:00:32.78,Clip,,0,0,0,,THERE ARE TRANSACTION
+Dialogue: 0,0:00:32.78,0:00:34.86,Clip,,0,0,0,,LIMITS, BUT ME.
+Dialogue: 0,0:00:34.86,0:00:36.06,Clip,,0,0,0,,YOU SERIOUS RIGHT
+Dialogue: 0,0:00:36.06,0:00:37.18,Clip,,0,0,0,,NOW? DO I
+Dialogue: 0,0:00:37.18,0:00:37.66,Clip,,0,0,0,,LOOK LIKE A
+Dialogue: 0,0:00:37.66,0:00:38.54,Clip,,0,0,0,,STRIPPER OR A
+Dialogue: 0,0:00:38.54,0:00:39.18,Clip,,0,0,0,,DRUG DEALER TO
+Dialogue: 0,0:00:39.18,0:00:40.06,Clip,,0,0,0,,YOU? WHAT THE
+Dialogue: 0,0:00:40.06,0:00:40.46,Clip,,0,0,0,,AM I SUPPOSED
+Dialogue: 0,0:00:40.46,0:00:40.86,Clip,,0,0,0,,TO DO WITH
+Dialogue: 0,0:00:40.86,0:00:41.90,Clip,,0,0,0,,BUCK ME? HUH?
+Dialogue: 0,0:00:41.90,0:00:42.78,Clip,,0,0,0,,OKAY, BUILD YOUR
+Dialogue: 0,0:00:42.78,0:00:43.58,Clip,,0,0,0,,CREDIT UP AND
+Dialogue: 0,0:00:43.58,0:00:44.06,Clip,,0,0,0,,I'LL BE ABLE
+Dialogue: 0,0:00:44.06,0:00:44.38,Clip,,0,0,0,,TO GET YOU
+Dialogue: 0,0:00:44.38,0:00:46.38,Clip,,0,0,0,,A REAL ACCOUNT.
+Dialogue: 0,0:00:46.38,0:00:47.42,Clip,,0,0,0,,UNTIL THEN, MY
+Dialogue: 0,0:00:47.42,0:00:49.42,Clip,,0,0,0,,HANDS ARE TIED.
+Dialogue: 0,0:00:49.42,0:00:51.86,Clip,,0,0,0,,THANK YOU. SEND

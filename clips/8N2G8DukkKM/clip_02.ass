@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.63,Clip,,0,0,0,,THERE IS THE
+Dialogue: 0,0:00:00.63,0:00:02.95,Clip,,0,0,0,,THE ZOOMER BOOMER
+Dialogue: 0,0:00:02.95,0:00:04.47,Clip,,0,0,0,,DIFFERENTIATING FACTOR IN
+Dialogue: 0,0:00:04.47,0:00:05.43,Clip,,0,0,0,,HOW THEY ARE
+Dialogue: 0,0:00:05.43,0:00:06.87,Clip,,0,0,0,,EXPERIENCING GRAND THEFT
+Dialogue: 0,0:00:06.87,0:00:07.83,Clip,,0,0,0,,AUTO 6. FOR
+Dialogue: 0,0:00:07.83,0:00:09.27,Clip,,0,0,0,,US BOOMERS, WE
+Dialogue: 0,0:00:09.27,0:00:10.71,Clip,,0,0,0,,LOVED THE SLOW
+Dialogue: 0,0:00:10.71,0:00:13.19,Clip,,0,0,0,,ROLLING SINGLEPLAYER GAME,
+Dialogue: 0,0:00:13.19,0:00:13.83,Clip,,0,0,0,,YOU KNOW, JUST
+Dialogue: 0,0:00:13.83,0:00:15.03,Clip,,0,0,0,,DRIVING AROUND TOWN
+Dialogue: 0,0:00:15.03,0:00:16.07,Clip,,0,0,0,,KILLING FOLKS, THAT
+Dialogue: 0,0:00:16.07,0:00:16.79,Clip,,0,0,0,,KIND OF THING.
+Dialogue: 0,0:00:16.79,0:00:17.43,Clip,,0,0,0,,BUT FOR PEOPLE
+Dialogue: 0,0:00:17.43,0:00:18.55,Clip,,0,0,0,,WHO ARE 25
+Dialogue: 0,0:00:18.55,0:00:19.83,Clip,,0,0,0,,AND UNDER, THEY'VE
+Dialogue: 0,0:00:19.83,0:00:20.39,Clip,,0,0,0,,ONLY PLAYED GRAND
+Dialogue: 0,0:00:20.39,0:00:21.19,Clip,,0,0,0,,THEFT AUTO ONLINE.
+Dialogue: 0,0:00:21.19,0:00:21.83,Clip,,0,0,0,,THEY'VE SPENT A
+Dialogue: 0,0:00:21.83,0:00:22.31,Clip,,0,0,0,,GREAT DEAL OF
+Dialogue: 0,0:00:22.31,0:00:23.47,Clip,,0,0,0,,TIME PLAYING GTA.

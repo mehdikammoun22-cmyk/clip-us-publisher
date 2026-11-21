@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.92,Clip,,0,0,0,,MAP. SWINGY. TIME
+Dialogue: 0,0:00:01.92,0:00:05.76,Clip,,0,0,0,,TO TALK. MONTY.
+Dialogue: 0,0:00:05.76,0:00:07.20,Clip,,0,0,0,,OKAY. OKAY. CHILL.
+Dialogue: 0,0:00:07.20,0:00:08.08,Clip,,0,0,0,,EVEN I'M GETTING
+Dialogue: 0,0:00:08.08,0:00:10.32,Clip,,0,0,0,,DIZZY. YOU LIKE
+Dialogue: 0,0:00:10.32,0:00:14.08,Clip,,0,0,0,,THAT? YOU TALK,
+Dialogue: 0,0:00:14.08,0:00:17.60,Clip,,0,0,0,,MAN. I DON'T
+Dialogue: 0,0:00:17.60,0:00:20.08,Clip,,0,0,0,,HEAR HER NAME.
+Dialogue: 0,0:00:20.08,0:00:20.48,Clip,,0,0,0,,CAN I TELL
+Dialogue: 0,0:00:20.48,0:00:21.84,Clip,,0,0,0,,YOUR NAME? SEE
+Dialogue: 0,0:00:21.84,0:00:22.48,Clip,,0,0,0,,MY NUMBER AND
+Dialogue: 0,0:00:22.48,0:00:23.04,Clip,,0,0,0,,I PULL YOU
+Dialogue: 0,0:00:23.04,0:00:25.76,Clip,,0,0,0,,UP. PULL HIM
+Dialogue: 0,0:00:25.76,0:00:26.88,Clip,,0,0,0,,UP QUICK. WE
+Dialogue: 0,0:00:26.88,0:00:27.20,Clip,,0,0,0,,DON'T WANT HIM
+Dialogue: 0,0:00:27.20,0:00:27.92,Clip,,0,0,0,,TO DROWN JUST
+Dialogue: 0,0:00:27.92,0:00:32.00,Clip,,0,0,0,,YET. DON'T DROWN,
+Dialogue: 0,0:00:32.00,0:00:33.36,Clip,,0,0,0,,GREGORY COLLINS, YOU
+Dialogue: 0,0:00:33.36,0:00:35.60,Clip,,0,0,0,,GREGORY COLLINS. YEAH,
+Dialogue: 0,0:00:35.60,0:00:36.00,Clip,,0,0,0,,I DON'T SEE
+Dialogue: 0,0:00:36.00,0:00:36.48,Clip,,0,0,0,,THAT NAME IN
+Dialogue: 0,0:00:36.48,0:00:40.24,Clip,,0,0,0,,HIS CONTACTS. YEAH,
+Dialogue: 0,0:00:40.24,0:00:40.80,Clip,,0,0,0,,GOT TO HOLD
+Dialogue: 0,0:00:40.80,0:00:51.32,Clip,,0,0,0,,ON TO OOPS.
+Dialogue: 0,0:00:52.48,0:00:54.64,Clip,,0,0,0,,MAN, SORRY GUYS.
+Dialogue: 0,0:00:54.64,0:00:56.00,Clip,,0,0,0,,HUNGRY GATOR GOT
+Dialogue: 0,0:00:56.00,0:00:56.48,Clip,,0,0,0,,MOST OF WHAT
+Dialogue: 0,0:00:56.48,0:00:57.52,Clip,,0,0,0,,WE NEEDED. WE'LL
+Dialogue: 0,0:00:57.52,0:00:58.64,Clip,,0,0,0,,MAKE IT WORK.
+Dialogue: 0,0:00:58.64,0:00:59.52,Clip,,0,0,0,,HEY, ANYONE WANT
+Dialogue: 0,0:00:59.52,0:00:59.60,Clip,,0,0,0,,SOME

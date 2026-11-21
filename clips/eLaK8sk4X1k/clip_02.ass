@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.23,Clip,,0,0,0,,HERE'S UP BY
+Dialogue: 0,0:00:00.23,0:00:01.23,Clip,,0,0,0,,$3 BILLION FOR
+Dialogue: 0,0:00:01.23,0:00:01.63,Clip,,0,0,0,,FOR THE RECORD.
+Dialogue: 0,0:00:01.63,0:00:03.03,Clip,,0,0,0,,HAD STOCK. I
+Dialogue: 0,0:00:03.03,0:00:03.93,Clip,,0,0,0,,I SHOULD HAVE
+Dialogue: 0,0:00:03.93,0:00:05.23,Clip,,0,0,0,,HE SAID, BROTHER,
+Dialogue: 0,0:00:05.23,0:00:06.53,Clip,,0,0,0,,BROTHER, THIS RIGHT
+Dialogue: 0,0:00:06.53,0:00:07.53,Clip,,0,0,0,,HERE IS SO
+Dialogue: 0,0:00:07.53,0:00:09.03,Clip,,0,0,0,,AMAZING. THIS IS
+Dialogue: 0,0:00:09.03,0:00:11.53,Clip,,0,0,0,,MARIE ANTOINETTE, DUDE.
+Dialogue: 0,0:00:11.53,0:00:12.43,Clip,,0,0,0,,THIS IS LITERALLY
+Dialogue: 0,0:00:12.43,0:00:13.13,Clip,,0,0,0,,LET THEM EAT
+Dialogue: 0,0:00:13.13,0:00:14.93,Clip,,0,0,0,,CAKE UNFOLDING IN
+Dialogue: 0,0:00:14.93,0:00:15.43,Clip,,0,0,0,,FRONT OF OUR
+Dialogue: 0,0:00:15.43,0:00:16.83,Clip,,0,0,0,,EYES. AND INSTEAD
+Dialogue: 0,0:00:16.83,0:00:17.33,Clip,,0,0,0,,OF LET THEM
+Dialogue: 0,0:00:17.33,0:00:17.73,Clip,,0,0,0,,EAT CAKE, HE
+Dialogue: 0,0:00:17.73,0:00:18.63,Clip,,0,0,0,,GOES, LET THEM
+Dialogue: 0,0:00:18.63,0:00:20.13,Clip,,0,0,0,,PURCHASE STOCK. HE
+Dialogue: 0,0:00:20.13,0:00:20.73,Clip,,0,0,0,,SAID, SHOULD HAVE
+Dialogue: 0,0:00:20.73,0:00:22.23,Clip,,0,0,0,,BOUGHT SOME STOCKS.
+Dialogue: 0,0:00:22.23,0:00:22.73,Clip,,0,0,0,,SHOULD HAVE DONE
+Dialogue: 0,0:00:22.73,0:00:24.53,Clip,,0,0,0,,SOME INSIDER TRADING.
+Dialogue: 0,0:00:24.53,0:00:26.33,Clip,,0,0,0,,IT'S SO SIMPLE.
+Dialogue: 0,0:00:26.33,0:00:27.03,Clip,,0,0,0,,HAVE YOU THOUGHT
+Dialogue: 0,0:00:27.03,0:00:28.33,Clip,,0,0,0,,ABOUT BEING PRESIDENT
+Dialogue: 0,0:00:28.33,0:00:28.93,Clip,,0,0,0,,AND THEN DOING
+Dialogue: 0,0:00:28.93,0:00:30.23,Clip,,0,0,0,,INSIDER TRADING? I'M
+Dialogue: 0,0:00:30.23,0:00:32.33,Clip,,0,0,0,,DOING WELL. YOU.
+Dialogue: 0,0:00:32.33,0:00:33.23,Clip,,0,0,0,,IT'S AMAZING TO
+Dialogue: 0,0:00:33.23,0:00:34.23,Clip,,0,0,0,,SEE THIS MOMENT
+Dialogue: 0,0:00:34.23,0:00:36.13,Clip,,0,0,0,,OF COMPLETE HONESTY
+Dialogue: 0,0:00:36.13,0:00:37.93,Clip,,0,0,0,,FROM OUR PRESIDENT.
+Dialogue: 0,0:00:37.93,0:00:39.13,Clip,,0,0,0,,I MADE MONEY.
+Dialogue: 0,0:00:39.13,0:00:40.03,Clip,,0,0,0,,WHY DIDN'T YOU?
+Dialogue: 0,0:00:40.03,0:00:40.73,Clip,,0,0,0,,SEEMS LIKE A
+Dialogue: 0,0:00:40.73,0:00:42.13,Clip,,0,0,0,,SKILL ISSUE. GET
+Dialogue: 0,0:00:42.13,0:00:42.83,Clip,,0,0,0,,YOUR MONEY UP,
+Dialogue: 0,0:00:42.83,0:00:43.83,Clip,,0,0,0,,QUA. YEAH, THAT'S
+Dialogue: 0,0:00:43.83,0:00:44.23,Clip,,0,0,0,,WHAT HE SAID
+Dialogue: 0,0:00:44.23,0:00:44.93,Clip,,0,0,0,,LIKE A AI
+Dialogue: 0,0:00:44.93,0:00:45.30,Clip,,0,0,0,,ONE OF THEM

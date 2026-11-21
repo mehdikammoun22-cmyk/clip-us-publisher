@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.62,Clip,,0,0,0,,ME. WIFE. WHAT?
+Dialogue: 0,0:00:00.62,0:00:02.38,Clip,,0,0,0,,WHAT? RODNEY, NOTHING
+Dialogue: 0,0:00:02.38,0:00:03.26,Clip,,0,0,0,,HAPPENED. WHO THE
+Dialogue: 0,0:00:03.26,0:00:04.06,Clip,,0,0,0,,IS THIS GUY?
+Dialogue: 0,0:00:04.06,0:00:06.06,Clip,,0,0,0,,STOP. DON'T. OH,
+Dialogue: 0,0:00:06.06,0:00:07.50,Clip,,0,0,0,,HIT HIM. DUDE,
+Dialogue: 0,0:00:07.50,0:00:08.06,Clip,,0,0,0,,COME ON. DON'T
+Dialogue: 0,0:00:08.06,0:00:08.62,Clip,,0,0,0,,LOOK BACK. I
+Dialogue: 0,0:00:08.62,0:00:09.18,Clip,,0,0,0,,CAN TAKE IT.
+Dialogue: 0,0:00:09.18,0:00:09.82,Clip,,0,0,0,,PUNCHING IN ON
+Dialogue: 0,0:00:09.82,0:00:10.78,Clip,,0,0,0,,RODNEY. WAIT. WAIT.
+Dialogue: 0,0:00:10.78,0:00:11.98,Clip,,0,0,0,,WHAT? WHAT'S HAPPENING
+Dialogue: 0,0:00:11.98,0:00:13.26,Clip,,0,0,0,,NOW? STAY AWAY
+Dialogue: 0,0:00:13.26,0:00:16.54,Clip,,0,0,0,,FROM MY WHAT?
+Dialogue: 0,0:00:16.54,0:00:18.38,Clip,,0,0,0,,PUNCH HIM. I
+Dialogue: 0,0:00:18.38,0:00:19.10,Clip,,0,0,0,,DON'T WANT TO.
+Dialogue: 0,0:00:19.10,0:00:19.42,Clip,,0,0,0,,I DON'T WANT
+Dialogue: 0,0:00:19.42,0:00:23.02,Clip,,0,0,0,,TO ANYMORE. POWERFUL.
+Dialogue: 0,0:00:23.02,0:00:24.22,Clip,,0,0,0,,OKAY, NOW WE'RE
+Dialogue: 0,0:00:24.22,0:00:25.42,Clip,,0,0,0,,TALKING. POOL BOY.
+Dialogue: 0,0:00:25.42,0:00:25.82,Clip,,0,0,0,,DUDE, I DON'T
+Dialogue: 0,0:00:25.82,0:00:26.38,Clip,,0,0,0,,WANT YOU ANYMORE,
+Dialogue: 0,0:00:26.38,0:00:27.02,Clip,,0,0,0,,MAN. IT DOESN'T
+Dialogue: 0,0:00:27.02,0:00:28.54,Clip,,0,0,0,,FEEL RIGHT. POOL
+Dialogue: 0,0:00:28.54,0:00:29.10,Clip,,0,0,0,,BOY, LET HIM
+Dialogue: 0,0:00:29.10,0:00:29.82,Clip,,0,0,0,,GET SOME SHOTS
+Dialogue: 0,0:00:29.82,0:00:30.94,Clip,,0,0,0,,IN. OKAY. I
+Dialogue: 0,0:00:30.94,0:00:31.50,Clip,,0,0,0,,THOUGHT WE WERE
+Dialogue: 0,0:00:31.50,0:00:34.38,Clip,,0,0,0,,FRIENDS. OKAY, THAT'S
+Dialogue: 0,0:00:34.38,0:00:37.82,Clip,,0,0,0,,OKAY. SO POWERFUL.
+Dialogue: 0,0:00:37.82,0:00:38.70,Clip,,0,0,0,,OKAY, NOW POOL
+Dialogue: 0,0:00:38.70,0:00:39.74,Clip,,0,0,0,,BOY, FINISH HIM
+Dialogue: 0,0:00:39.74,0:00:40.78,Clip,,0,0,0,,OFF. OKAY, GIVE
+Dialogue: 0,0:00:40.78,0:00:41.26,Clip,,0,0,0,,ME A GOOD
+Dialogue: 0,0:00:41.26,0:00:50.06,Clip,,0,0,0,,ONE. O, JESUS,
+Dialogue: 0,0:00:50.06,0:00:51.50,Clip,,0,0,0,,ARE YOU OKAY?
+Dialogue: 0,0:00:51.50,0:00:52.70,Clip,,0,0,0,,I'M SORRY. MY
+Dialogue: 0,0:00:52.70,0:00:53.66,Clip,,0,0,0,,HUSBAND. HE WAS
+Dialogue: 0,0:00:53.66,0:00:57.18,Clip,,0,0,0,,COMPLETELY INAPPROPRIATE. OH,
+Dialogue: 0,0:00:57.18,0:00:58.22,Clip,,0,0,0,,MAYBE WE CAN
+Dialogue: 0,0:00:58.22,0:00:59.95,Clip,,0,0,0,,THANK HIM TOGETHER.

@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Clip,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,7,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:01.00,Clip,,0,0,0,,I THINK I
+Dialogue: 0,0:00:01.00,0:00:01.48,Clip,,0,0,0,,MIGHT HAVE RIPPED
+Dialogue: 0,0:00:01.48,0:00:09.32,Clip,,0,0,0,,IT. I CAN'T
+Dialogue: 0,0:00:09.32,0:00:10.12,Clip,,0,0,0,,MOVE BACK IN.
+Dialogue: 0,0:00:10.12,0:00:13.60,Clip,,0,0,0,,I'M STUCK HERE.
+Dialogue: 0,0:00:16.04,0:00:16.84,Clip,,0,0,0,,I DON'T UNDERSTAND.
+Dialogue: 0,0:00:16.84,0:00:17.16,Clip,,0,0,0,,I CAN'T I
+Dialogue: 0,0:00:17.16,0:00:17.48,Clip,,0,0,0,,CAN'T GO TO
+Dialogue: 0,0:00:17.48,0:00:18.44,Clip,,0,0,0,,THE CAR ANYMORE.
+Dialogue: 0,0:00:18.44,0:00:19.72,Clip,,0,0,0,,WE SWITCH, BUDDY.
+Dialogue: 0,0:00:19.72,0:00:20.36,Clip,,0,0,0,,BUDDY, THIS ISN'T
+Dialogue: 0,0:00:20.36,0:00:21.16,Clip,,0,0,0,,GTA 5. LIKE,
+Dialogue: 0,0:00:21.16,0:00:22.28,Clip,,0,0,0,,HOW? HOLY HOW
+Dialogue: 0,0:00:22.28,0:00:23.32,Clip,,0,0,0,,MANY TIME, BRO?
+Dialogue: 0,0:00:23.32,0:00:23.80,Clip,,0,0,0,,HEY, YOU DON'T
+Dialogue: 0,0:00:23.80,0:00:24.28,Clip,,0,0,0,,JUST SWITCH THE
+Dialogue: 0,0:00:24.28,0:00:24.84,Clip,,0,0,0,,CHARACTERS IN THIS
+Dialogue: 0,0:00:24.84,0:00:29.80,Clip,,0,0,0,,GAME, MAN, DUDE.
